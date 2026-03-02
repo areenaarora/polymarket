@@ -33,6 +33,7 @@ python scrape_polymarket.py
 ```
 
 ## Install hourly cron
+The project uses GitHub Actions to run the scraper automatically every hour using a scheduled workflow.
 ```bash
 cd ~/dev/polymarket
 ./install_cron.sh
