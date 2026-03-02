@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/areena.arora/dev/polymarket/scrape_polymarket.py", line 8, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
