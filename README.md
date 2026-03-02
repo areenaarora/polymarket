@@ -1,13 +1,13 @@
 # polymarket
 
 Hourly scraper for Polymarket categories:
-- World Events (`world-affairs`, tag id `366`)
-- Tech (`tech`, tag id `1401`)
+- World Events
+- Tech
 
 For each category, captures top 20 markets ranked by **24h volume**.
 
 ## Captured fields
-- `captured_at_utc`
+- `time`
 - `category`
 - `market_id`
 - `slug`
