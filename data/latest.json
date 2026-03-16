@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-03-16T14:31:46+00:00",
+  "captured_at_utc": "2026-03-16T15:27:21+00:00",
   "count": 34,
   "rows": [
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 40842.11349199996,
-      "volume_total_usd": 7250178.354295571,
+      "volume24hr_usd": 42382.12931699996,
+      "volume_total_usd": 7252140.451191565,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -21,25 +21,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "world",
       "market_id": "923368",
       "slug": "will-natthaphong-ruengpanyawut-be-the-next-prime-minister-of-thailand-after-the-election",
       "question": "Will Natthaphong Ruengpanyawut be the next prime minister of Thailand?",
-      "volume24hr_usd": 32612.0,
-      "volume_total_usd": 257720.31802900022,
+      "volume24hr_usd": 32958.87,
+      "volume_total_usd": 258067.18802900022,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.9,
-        "No": 99.1
+        "Yes": 1.15,
+        "No": 98.85
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "world",
       "market_id": "700881",
       "slug": "will-israel-annex-any-territory-by-june-30",
@@ -52,17 +52,35 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 10.25,
-        "No": 89.75
+        "Yes": 10.15,
+        "No": 89.85
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
+      "category": "world",
+      "market_id": "1006892",
+      "slug": "will-russia-capture-lyman-by-march-31-2026-494",
+      "question": "Will Russia capture Lyman by March 31, 2026?",
+      "volume24hr_usd": 6996.35992,
+      "volume_total_usd": 607024.521384001,
+      "end_date": "2025-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 6.5,
+        "No": 93.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "world",
       "market_id": "1397269",
       "slug": "will-russia-capture-lyman-by-june-30-2026-413",
       "question": "Will Russia capture Lyman by June 30, 2026?",
-      "volume24hr_usd": 7497.703937999999,
+      "volume24hr_usd": 2485.9230730000004,
       "volume_total_usd": 29917.305719,
       "end_date": "2025-12-31",
       "options": [
@@ -75,30 +93,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
-      "category": "world",
-      "market_id": "1006892",
-      "slug": "will-russia-capture-lyman-by-march-31-2026-494",
-      "question": "Will Russia capture Lyman by March 31, 2026?",
-      "volume24hr_usd": 4443.589919999999,
-      "volume_total_usd": 604470.731384001,
-      "end_date": "2025-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 7.5,
-        "No": 92.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "world",
       "market_id": "644510",
       "slug": "spain-snap-election-called-by-june-30-2026",
       "question": "Spain snap election called by June 30, 2026?",
-      "volume24hr_usd": 977.0863749999997,
+      "volume24hr_usd": 965.5663749999999,
       "volume_total_usd": 30480.85441600001,
       "end_date": "",
       "options": [
@@ -111,12 +111,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 561.547282,
+      "volume24hr_usd": 560.527282,
       "volume_total_usd": 11920.921961000004,
       "end_date": "2025-12-31",
       "options": [
@@ -129,12 +129,66 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
+      "category": "world",
+      "market_id": "923369",
+      "slug": "will-chaikasem-nitisiri-be-the-next-prime-minister-of-thailand-after-the-election",
+      "question": "Will Chaikasem Nitisiri be the next prime minister of Thailand?",
+      "volume24hr_usd": 547.99,
+      "volume_total_usd": 96129.4883379999,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.2,
+        "No": 99.8
+      }
+    },
+    {
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
+      "category": "world",
+      "market_id": "923376",
+      "slug": "will-yodchanan-wongsawat-be-the-next-prime-minister-of-thailand",
+      "question": "Will Yodchanan Wongsawat be the next prime minister of Thailand?",
+      "volume24hr_usd": 434.45,
+      "volume_total_usd": 244545.0895920001,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.35,
+        "No": 99.65
+      }
+    },
+    {
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
+      "category": "world",
+      "market_id": "923366",
+      "slug": "will-anutin-charnvirakul-be-the-next-prime-minister-of-thailand-after-the-election",
+      "question": "Will Anutin Charnvirakul be the next prime minister of Thailand?",
+      "volume24hr_usd": 418.14,
+      "volume_total_usd": 406143.23382000026,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 98.55,
+        "No": 1.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "world",
       "market_id": "1397302",
       "slug": "will-russia-capture-lyman-by-april-30-2026",
       "question": "Will Russia capture Lyman by April 30, 2026?",
-      "volume24hr_usd": 487.30443899999995,
+      "volume24hr_usd": 378.00666400000006,
       "volume_total_usd": 52094.21880700001,
       "end_date": "2025-12-31",
       "options": [
@@ -147,85 +201,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
-      "category": "world",
-      "market_id": "923369",
-      "slug": "will-chaikasem-nitisiri-be-the-next-prime-minister-of-thailand-after-the-election",
-      "question": "Will Chaikasem Nitisiri be the next prime minister of Thailand?",
-      "volume24hr_usd": 465.1,
-      "volume_total_usd": 96046.59833799988,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.2,
-        "No": 99.8
-      }
-    },
-    {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
-      "category": "world",
-      "market_id": "923366",
-      "slug": "will-anutin-charnvirakul-be-the-next-prime-minister-of-thailand-after-the-election",
-      "question": "Will Anutin Charnvirakul be the next prime minister of Thailand?",
-      "volume24hr_usd": 435.79,
-      "volume_total_usd": 405960.8838200003,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 98.05,
-        "No": 1.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
-      "category": "world",
-      "market_id": "923376",
-      "slug": "will-yodchanan-wongsawat-be-the-next-prime-minister-of-thailand",
-      "question": "Will Yodchanan Wongsawat be the next prime minister of Thailand?",
-      "volume24hr_usd": 351.56,
-      "volume_total_usd": 244462.1995920001,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.4,
-        "No": 99.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "world",
       "market_id": "923374",
       "slug": "will-prawit-wongsuwan-be-the-next-prime-minister-of-thailand-after-the-election",
       "question": "Will Prawit Wongsuwan be the next prime minister of Thailand?",
-      "volume24hr_usd": 112.369477,
-      "volume_total_usd": 41640.00183199999,
+      "volume24hr_usd": 185.249468,
+      "volume_total_usd": 41722.89183199999,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
+        "Yes": 0.1,
+        "No": 99.9
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "world",
       "market_id": "923373",
       "slug": "will-julapun-amornvivat-be-the-next-prime-minister-of-thailand-after-the-election",
       "question": "Will Julapun Amornvivat be the next prime minister of Thailand?",
-      "volume24hr_usd": 0.0,
-      "volume_total_usd": 0.0,
+      "volume24hr_usd": 82.89,
+      "volume_total_usd": 73765.64864399994,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -237,7 +237,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "world",
       "market_id": "923367",
       "slug": "will-paetongtarn-shinawatra-be-the-next-prime-minister-of-thailand-after-the-election",
@@ -255,12 +255,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "801739",
       "slug": "will-mistral-have-the-second-best-ai-model-at-the-end-of-march-2026",
       "question": "Will Mistral have the second-best AI model at the end of March 2026?",
-      "volume24hr_usd": 423233.51,
+      "volume24hr_usd": 423214.15,
       "volume_total_usd": 441211.197982,
       "end_date": "2026-03-31",
       "options": [
@@ -273,13 +273,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "676714",
       "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-march-31",
       "question": "Will Tesla be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 160429.6530000001,
-      "volume_total_usd": 2405580.2001609947,
+      "volume24hr_usd": 154941.35500000007,
+      "volume_total_usd": 2407455.124160994,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -291,13 +291,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "676716",
       "slug": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-march-31-453",
       "question": "Will Amazon be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 123607.35200000013,
-      "volume_total_usd": 3030432.6217409763,
+      "volume24hr_usd": 123007.2360000001,
+      "volume_total_usd": 3032466.366740976,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -309,13 +309,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "801452",
       "slug": "will-baidu-have-the-best-ai-model-at-the-end-of-march-2026-986",
       "question": "Will Baidu have the best AI model at the end of March 2026?",
-      "volume24hr_usd": 88426.775,
-      "volume_total_usd": 1103626.1528410017,
+      "volume24hr_usd": 90426.79399999997,
+      "volume_total_usd": 1106830.573841002,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -327,12 +327,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "1363116",
       "slug": "will-claude-5-be-released-by-april-30-2026",
       "question": "Will Claude 5 be released by April 30, 2026?",
-      "volume24hr_usd": 88117.649133,
+      "volume24hr_usd": 88116.629133,
       "volume_total_usd": 196801.84110999972,
       "end_date": "",
       "options": [
@@ -340,18 +340,18 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 20.0,
-        "No": 80.0
+        "Yes": 19.5,
+        "No": 80.5
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "676711",
       "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-march-31-889",
       "question": "Will Microsoft be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 80181.72500000002,
-      "volume_total_usd": 1626489.6106200088,
+      "volume24hr_usd": 79740.39799999997,
+      "volume_total_usd": 1628780.9976200087,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -363,7 +363,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "996326",
       "slug": "will-xai-have-a-1-ai-model-by-june-30",
@@ -381,7 +381,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "897019",
       "slug": "will-paramount-close-warner-bros-acquisition",
@@ -399,13 +399,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "801454",
       "slug": "will-xai-have-the-best-ai-model-at-the-end-of-march-2026-497",
       "question": "Will xAI have the best AI model at the end of March 2026?",
-      "volume24hr_usd": 60931.429458,
-      "volume_total_usd": 709478.8733760003,
+      "volume24hr_usd": 62429.235267000004,
+      "volume_total_usd": 711158.3811080004,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -417,13 +417,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "801456",
       "slug": "will-moonshot-have-the-best-ai-model-at-the-end-of-march-2026-924",
       "question": "Will Moonshot have the best AI model at the end of March 2026?",
-      "volume24hr_usd": 55163.510000000046,
-      "volume_total_usd": 948168.1896840051,
+      "volume24hr_usd": 55919.30800000004,
+      "volume_total_usd": 949863.5026840052,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -435,31 +435,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "694938",
       "slug": "will-viking-therapeutics-be-acquired-before-2027-542",
       "question": "Will Viking Therapeutics be acquired before 2027?",
-      "volume24hr_usd": 53695.99,
-      "volume_total_usd": 1653127.467697,
+      "volume24hr_usd": 53770.99,
+      "volume_total_usd": 1653202.467697,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 41.0,
-        "No": 59.0
+        "Yes": 38.5,
+        "No": 61.5
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "676710",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-march-31-323",
       "question": "Will NVIDIA be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 53004.58693800001,
-      "volume_total_usd": 1335508.4482360112,
+      "volume24hr_usd": 51969.93913599999,
+      "volume_total_usd": 1335564.4834560112,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -471,13 +471,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "676713",
       "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-march-31",
       "question": "Will Alphabet be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 50868.29761900002,
-      "volume_total_usd": 653878.1288030016,
+      "volume24hr_usd": 50722.03573900002,
+      "volume_total_usd": 654277.2615930015,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -489,31 +489,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
-      "category": "tech",
-      "market_id": "929498",
-      "slug": "will-spacexs-public-ticker-be-space-625",
-      "question": "Will SpaceX's public ticker be $SPACE?",
-      "volume24hr_usd": 48321.691233000005,
-      "volume_total_usd": 350119.8977759999,
-      "end_date": "2027-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.5,
-        "No": 97.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "676715",
       "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-march-31",
       "question": "Will Saudi Aramco be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 43946.622,
-      "volume_total_usd": 911156.5901830052,
+      "volume24hr_usd": 43449.065,
+      "volume_total_usd": 911811.8691830052,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -525,48 +507,30 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "1328014",
       "slug": "will-anthropics-market-cap-be-less-than-100b-at-market-close-on-ipo-day-by-december-31-2027",
       "question": "Will Anthropic’s market cap be less than $100B at market close on IPO day by December 31, 2027?",
-      "volume24hr_usd": 41896.50000000001,
-      "volume_total_usd": 44753.90314400001,
+      "volume24hr_usd": 41901.72000000001,
+      "volume_total_usd": 44759.12314400001,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 5.7,
-        "No": 94.3
+        "Yes": 5.05,
+        "No": 94.95
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
-      "category": "tech",
-      "market_id": "676712",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-march-31-336",
-      "question": "Will Apple be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 41870.47758,
-      "volume_total_usd": 824399.9886850032,
-      "end_date": "2026-03-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.4,
-        "No": 99.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "1590316",
       "slug": "will-uber-ask-travis-kalanick-back",
       "question": "Will Uber ask Travis Kalanick back?",
-      "volume24hr_usd": 41754.396995999996,
+      "volume24hr_usd": 41116.335071000016,
       "volume_total_usd": 47059.50133900003,
       "end_date": "2027-06-30",
       "options": [
@@ -579,31 +543,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
-      "market_id": "920289",
-      "slug": "will-deepseek-have-the-best-ai-model-for-coding-on-march-31",
-      "question": "Will DeepSeek have the best AI model for coding on March 31?",
-      "volume24hr_usd": 35169.20607200001,
-      "volume_total_usd": 168229.25726199994,
+      "market_id": "676712",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-march-31-336",
+      "question": "Will Apple be the largest company in the world by market cap on March 31?",
+      "volume24hr_usd": 40664.487986,
+      "volume_total_usd": 825056.7963500032,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.2,
-        "No": 98.8
+        "Yes": 0.4,
+        "No": 99.6
       }
     },
     {
-      "captured_at_utc": "2026-03-16T14:31:46+00:00",
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
+      "category": "tech",
+      "market_id": "929498",
+      "slug": "will-spacexs-public-ticker-be-space-625",
+      "question": "Will SpaceX's public ticker be $SPACE?",
+      "volume24hr_usd": 38045.072358,
+      "volume_total_usd": 350123.2789009999,
+      "end_date": "2027-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 2.45,
+        "No": 97.55
+      }
+    },
+    {
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
       "category": "tech",
       "market_id": "801453",
       "slug": "will-zai-have-the-best-ai-model-at-the-end-of-march-2026-189",
       "question": "Will Z.ai have the best AI model at the end of March 2026?",
-      "volume24hr_usd": 34968.65999999999,
-      "volume_total_usd": 1090174.4981140005,
+      "volume24hr_usd": 34140.09999999999,
+      "volume_total_usd": 1090546.5141140006,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -612,6 +594,24 @@
       "results_pct": {
         "Yes": 0.15,
         "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-03-16T15:27:21+00:00",
+      "category": "tech",
+      "market_id": "801450",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-march-2026-562",
+      "question": "Will OpenAI have the best AI model at the end of March 2026?",
+      "volume24hr_usd": 32443.116870000005,
+      "volume_total_usd": 898548.669671999,
+      "end_date": "2026-03-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.3,
+        "No": 98.7
       }
     }
   ]
