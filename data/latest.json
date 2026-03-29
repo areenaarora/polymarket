@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-03-29T07:25:50+00:00",
+  "captured_at_utc": "2026-03-29T08:14:57+00:00",
   "count": 27,
   "rows": [
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 24507.469459999997,
-      "volume_total_usd": 7539665.827492687,
+      "volume24hr_usd": 24378.054949999994,
+      "volume_total_usd": 7540037.6414706865,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "world",
       "market_id": "1397269",
       "slug": "will-russia-capture-lyman-by-june-30-2026-413",
@@ -34,12 +34,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 55.0,
-        "No": 45.0
+        "Yes": 55.5,
+        "No": 44.5
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "world",
       "market_id": "1397302",
       "slug": "will-russia-capture-lyman-by-april-30-2026",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "world",
       "market_id": "1006892",
       "slug": "will-russia-capture-lyman-by-march-31-2026-494",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "world",
       "market_id": "700881",
       "slug": "will-israel-annex-any-territory-by-june-30",
@@ -88,12 +88,30 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 15.7,
-        "No": 84.3
+        "Yes": 15.6,
+        "No": 84.4
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
+      "category": "world",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
+      "volume24hr_usd": 109.5,
+      "volume_total_usd": 22130.675077000007,
+      "end_date": "2025-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 80.5,
+        "No": 19.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "world",
       "market_id": "644510",
       "slug": "spain-snap-election-called-by-june-30-2026",
@@ -111,85 +129,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
-      "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 99.0,
-      "volume_total_usd": 22120.175077000007,
-      "end_date": "2025-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 81.0,
-        "No": 19.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "1720656",
       "slug": "will-spacexs-market-cap-be-between-2pt5t-and-3pt0t-at-market-close-on-ipo-day",
       "question": "Will SpaceX's market cap be between $2.5T and $3.0T at market close on IPO day?",
-      "volume24hr_usd": 457106.8617719999,
-      "volume_total_usd": 487278.52840999997,
+      "volume24hr_usd": 472373.6443689999,
+      "volume_total_usd": 530576.2105709999,
       "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 5.5,
-        "No": 94.5
+        "Yes": 6.5,
+        "No": 93.5
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "1437750",
       "slug": "will-elon-musks-net-worth-be-at-least-710b-on-march-31",
       "question": "Will Elon Musk’s net worth be at least $710b on March 31?",
-      "volume24hr_usd": 449957.5562529998,
-      "volume_total_usd": 666559.6437360009,
+      "volume24hr_usd": 415795.2696129998,
+      "volume_total_usd": 667419.8629010009,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.15,
-        "No": 98.85
+        "Yes": 2.1,
+        "No": 97.9
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "1664048",
       "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-april-2026",
       "question": "Will DeepSeek have the best AI model at the end of April 2026?",
-      "volume24hr_usd": 364188.135208,
-      "volume_total_usd": 1594473.1987540002,
+      "volume24hr_usd": 356759.981214,
+      "volume_total_usd": 1601843.0347600004,
       "end_date": "2026-04-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.15,
-        "No": 98.85
+        "Yes": 1.05,
+        "No": 98.95
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "676713",
       "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-march-31",
       "question": "Will Alphabet be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 183686.89308700003,
-      "volume_total_usd": 1984731.23466501,
+      "volume24hr_usd": 177759.45946000004,
+      "volume_total_usd": 1985556.03466501,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -201,31 +201,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "1487056",
       "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-april-30-541",
       "question": "Will Apple be the largest company in the world by market cap on April 30?",
-      "volume24hr_usd": 161137.450962,
-      "volume_total_usd": 216257.10066099997,
+      "volume24hr_usd": 175485.65096199999,
+      "volume_total_usd": 230605.300661,
       "end_date": "2026-04-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 5.55,
-        "No": 94.45
+        "Yes": 5.6,
+        "No": 94.4
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
+      "category": "tech",
+      "market_id": "1663416",
+      "slug": "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-april-30",
+      "question": "Will NVIDIA be the second-largest company in the world by market cap on April 30?",
+      "volume24hr_usd": 163718.020876,
+      "volume_total_usd": 653455.3872260005,
+      "end_date": "2026-04-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 4.4,
+        "No": 95.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "1720659",
       "slug": "will-spacex-not-ipo-by-december-31-2027-776",
       "question": "Will SpaceX not IPO by December 31, 2027?",
-      "volume24hr_usd": 149478.092657,
-      "volume_total_usd": 157668.68072600002,
+      "volume24hr_usd": 149523.432657,
+      "volume_total_usd": 157714.02072600002,
       "end_date": "",
       "options": [
         "Yes",
@@ -237,12 +255,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "1664353",
       "slug": "will-deepseek-have-the-1-ai-model-at-the-end-of-april-2026-style-control-on",
       "question": "Will DeepSeek have the #1 AI model at the end of April 2026 (Style Control On)?",
-      "volume24hr_usd": 147131.507867,
+      "volume24hr_usd": 147101.120117,
       "volume_total_usd": 220736.10171300004,
       "end_date": "2026-04-30",
       "options": [
@@ -255,31 +273,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
-      "category": "tech",
-      "market_id": "1663416",
-      "slug": "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-april-30",
-      "question": "Will NVIDIA be the second-largest company in the world by market cap on April 30?",
-      "volume24hr_usd": 145496.463031,
-      "volume_total_usd": 635201.9872260006,
-      "end_date": "2026-04-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 4.25,
-        "No": 95.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "676712",
       "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-march-31-336",
       "question": "Will Apple be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 132148.672919,
-      "volume_total_usd": 1602541.1872740157,
+      "volume24hr_usd": 137557.18591899998,
+      "volume_total_usd": 1614964.5942740168,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -291,31 +291,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "676710",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-march-31-323",
       "question": "Will NVIDIA be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 124229.52005900002,
-      "volume_total_usd": 2595777.713171008,
+      "volume24hr_usd": 128189.74982399995,
+      "volume_total_usd": 2604739.663200009,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 99.75,
-        "No": 0.25
+        "Yes": 99.7,
+        "No": 0.3
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "1664346",
       "slug": "will-xai-have-the-1-ai-model-at-the-end-of-april-2026-style-control-on",
       "question": "Will xAI have the #1 AI model at the end of April 2026 (Style Control On)?",
-      "volume24hr_usd": 119795.41448100001,
-      "volume_total_usd": 126194.93855,
+      "volume24hr_usd": 119649.41448100001,
+      "volume_total_usd": 126228.93855,
       "end_date": "2026-04-30",
       "options": [
         "Yes",
@@ -327,13 +327,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "801455",
       "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-march-2026-113",
       "question": "Will DeepSeek have the best AI model at the end of March 2026?",
-      "volume24hr_usd": 110074.97007100006,
-      "volume_total_usd": 1415166.1106779969,
+      "volume24hr_usd": 108178.88707100006,
+      "volume_total_usd": 1415474.400677997,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -345,31 +345,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "1171311",
       "slug": "nikita-bier-out-as-head-of-product-at-x-by-march-31",
       "question": "Nikita Bier out as Head of Product at X by March 31?",
-      "volume24hr_usd": 105932.65819999993,
-      "volume_total_usd": 196122.32421899994,
+      "volume24hr_usd": 105615.25123099994,
+      "volume_total_usd": 196125.33724999995,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.55,
-        "No": 99.45
+        "Yes": 0.45,
+        "No": 99.55
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "801450",
       "slug": "will-openai-have-the-best-ai-model-at-the-end-of-march-2026-562",
       "question": "Will OpenAI have the best AI model at the end of March 2026?",
-      "volume24hr_usd": 94311.52999999997,
-      "volume_total_usd": 1541122.1328900063,
+      "volume24hr_usd": 102460.0836529999,
+      "volume_total_usd": 1550870.120543007,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -381,30 +381,30 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "1720657",
       "slug": "will-spacexs-market-cap-be-between-3pt0t-and-3pt5t-at-market-close-on-ipo-day",
       "question": "Will SpaceX's market cap be between $3.0T and $3.5T at market close on IPO day?",
-      "volume24hr_usd": 85797.72,
-      "volume_total_usd": 372526.391835,
+      "volume24hr_usd": 85843.06,
+      "volume_total_usd": 372571.73183500004,
       "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.35,
-        "No": 96.65
+        "Yes": 3.3,
+        "No": 96.7
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "676714",
       "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-march-31",
       "question": "Will Tesla be the largest company in the world by market cap on March 31?",
-      "volume24hr_usd": 69951.42,
+      "volume24hr_usd": 69946.42,
       "volume_total_usd": 3655335.313316971,
       "end_date": "2026-03-31",
       "options": [
@@ -417,7 +417,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "676711",
       "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-march-31-889",
@@ -435,13 +435,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "801448",
       "slug": "will-google-have-the-best-ai-model-at-the-end-of-march-2026-941",
       "question": "Will Google have the best AI model at the end of March 2026?",
-      "volume24hr_usd": 63623.131073,
-      "volume_total_usd": 1033876.4934990024,
+      "volume24hr_usd": 56239.513741000024,
+      "volume_total_usd": 1039456.8014990025,
       "end_date": "2026-03-31",
       "options": [
         "Yes",
@@ -453,13 +453,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
+      "category": "tech",
+      "market_id": "801449",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-march-2026-437",
+      "question": "Will Anthropic have the best AI model at the end of March 2026?",
+      "volume24hr_usd": 37989.73845800002,
+      "volume_total_usd": 1542793.8036820013,
+      "end_date": "2026-03-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.6,
+        "No": 0.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-03-29T08:14:57+00:00",
       "category": "tech",
       "market_id": "842090",
       "slug": "will-spacexs-market-cap-be-between-800b-and-900b-at-market-close-on-ipo-day",
       "question": "Will SpaceX's market cap be between $800B and $900B at market close on IPO day?",
       "volume24hr_usd": 37652.046,
-      "volume_total_usd": 417188.72235999955,
+      "volume_total_usd": 418688.72235999955,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -468,24 +486,6 @@
       "results_pct": {
         "Yes": 0.15,
         "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-03-29T07:25:50+00:00",
-      "category": "tech",
-      "market_id": "801449",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-march-2026-437",
-      "question": "Will Anthropic have the best AI model at the end of March 2026?",
-      "volume24hr_usd": 34957.828387000016,
-      "volume_total_usd": 1539710.3885630018,
-      "end_date": "2026-03-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.25,
-        "No": 0.75
       }
     }
   ]
