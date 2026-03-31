@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 import csv
+import hashlib
 import json
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List
@@ -17,6 +19,7 @@ LIMIT_PER_CATEGORY = 20
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
+SIGNATURE_FILE = DATA_DIR / ".last_signature.txt"
 
 
 def _parse_json_field(value):
@@ -34,7 +37,7 @@ def _parse_json_field(value):
     return []
 
 
-def fetch_top_markets(tag_id: int, limit: int) -> List[dict]:
+def fetch_top_markets(tag_id: int, limit: int, retries: int = 3) -> List[dict]:
     params = {
         "tag_id": tag_id,
         "limit": limit,
@@ -43,9 +46,19 @@ def fetch_top_markets(tag_id: int, limit: int) -> List[dict]:
         "order": "volume24hr",
         "ascending": "false",
     }
-    r = requests.get(BASE_URL, params=params, timeout=30)
-    r.raise_for_status()
-    return r.json()
+
+    last_err = None
+    for attempt in range(1, retries + 1):
+        try:
+            r = requests.get(BASE_URL, params=params, timeout=30)
+            r.raise_for_status()
+            return r.json()
+        except Exception as e:
+            last_err = e
+            if attempt < retries:
+                time.sleep(2 ** (attempt - 1))
+
+    raise RuntimeError(f"Failed to fetch markets for tag_id={tag_id} after {retries} attempts") from last_err
 
 
 def flatten_market(category: str, market: dict, captured_at: str) -> Dict:
@@ -153,6 +166,26 @@ def update_wide_snapshot(rows: List[Dict], path: Path, captured_at: str):
             writer.writerow(row)
 
 
+def build_signature(rows: List[Dict]) -> str:
+    # stable, timestamp-independent signature to suppress no-op commits
+    canonical = []
+    for r in sorted(rows, key=lambda x: (x["category"], x["market_id"])):
+        canonical.append({
+            "category": r["category"],
+            "market_id": r["market_id"],
+            "slug": r["slug"],
+            "question": r["question"],
+            "volume24hr_usd": round(float(r["volume24hr_usd"]), 6),
+            "volume_total_usd": round(float(r["volume_total_usd"]), 6),
+            "end_date": r["end_date"],
+            "results_pct": r["results_pct"],
+        })
+
+    raw = json.dumps(canonical, sort_keys=True, separators=(",", ":"), ensure_ascii=False)
+    return hashlib.sha256(raw.encode("utf-8")).hexdigest()
+
+
+
 def main():
     captured_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
     all_rows = []
@@ -161,6 +194,13 @@ def main():
         markets = fetch_top_markets(tag_id=tag_id, limit=LIMIT_PER_CATEGORY)
         for m in markets:
             all_rows.append(flatten_market(category, m, captured_at))
+
+    new_sig = build_signature(all_rows)
+    old_sig = SIGNATURE_FILE.read_text(encoding="utf-8").strip() if SIGNATURE_FILE.exists() else ""
+
+    if old_sig and old_sig == new_sig:
+        print("No material market changes detected; skipping file writes.")
+        return
 
     append_history(all_rows, DATA_DIR / "snapshots_long.csv")
     update_wide_snapshot(all_rows, DATA_DIR / "snapshots_wide.csv", captured_at)
@@ -171,6 +211,7 @@ def main():
         "rows": all_rows,
     }
     (DATA_DIR / "latest.json").write_text(json.dumps(latest, indent=2, ensure_ascii=False), encoding="utf-8")
+    SIGNATURE_FILE.write_text(new_sig + "\n", encoding="utf-8")
 
     print(f"Captured {len(all_rows)} rows at {captured_at}")
     print(f"Wrote: {DATA_DIR / 'snapshots_long.csv'}")
