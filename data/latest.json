@@ -1,14 +1,32 @@
 {
-  "captured_at_utc": "2026-05-14T05:21:08+00:00",
+  "captured_at_utc": "2026-05-14T07:06:46+00:00",
   "count": 27,
   "rows": [
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
+      "category": "world",
+      "market_id": "559651",
+      "slug": "xi-jinping-out-before-2027",
+      "question": "Xi Jinping out before 2027?",
+      "volume24hr_usd": 23610.861288000007,
+      "volume_total_usd": 9257457.880359812,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 7.35,
+        "No": 92.65
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "world",
       "market_id": "2053573",
       "slug": "will-russia-capture-lyman-by-may-31-2026",
       "question": "Will Russia capture Lyman by May 31, 2026?",
-      "volume24hr_usd": 31583.570342,
+      "volume24hr_usd": 13049.470341999999,
       "volume_total_usd": 89398.17045600004,
       "end_date": "2026-05-31",
       "options": [
@@ -21,25 +39,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
-      "category": "world",
-      "market_id": "559651",
-      "slug": "xi-jinping-out-before-2027",
-      "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 23780.705986,
-      "volume_total_usd": 9257227.537869811,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 7.35,
-        "No": 92.65
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "world",
       "market_id": "1397269",
       "slug": "will-russia-capture-lyman-by-june-30-2026-413",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
@@ -75,12 +75,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "world",
       "market_id": "644510",
       "slug": "spain-snap-election-called-by-june-30-2026",
       "question": "Spain snap election called by June 30, 2026?",
-      "volume24hr_usd": 356.459977,
+      "volume24hr_usd": 350.904423,
       "volume_total_usd": 59172.481678999975,
       "end_date": "",
       "options": [
@@ -93,12 +93,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "world",
       "market_id": "700881",
       "slug": "will-israel-annex-any-territory-by-june-30",
       "question": "Will Israel annex any territory by June 30?",
-      "volume24hr_usd": 60.859835000000004,
+      "volume24hr_usd": 59.813813,
       "volume_total_usd": 171181.1937900002,
       "end_date": "2026-06-30",
       "options": [
@@ -111,7 +111,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -129,13 +129,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
-      "market_id": "631185",
-      "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
-      "question": "Will Tesla be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 52514.925648000004,
-      "volume_total_usd": 2397061.7679559994,
+      "market_id": "1360928",
+      "slug": "gemini-3pt5-released-by-may-31",
+      "question": "Gemini 3.5 released by May 31?",
+      "volume24hr_usd": 73657.600123,
+      "volume_total_usd": 245938.11245700007,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 54.6,
+        "No": 45.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
+      "category": "tech",
+      "market_id": "1334671",
+      "slug": "gemini-3pt5-released-by-june-30-224-585-669",
+      "question": "Gemini 3.5 released by June 30?",
+      "volume24hr_usd": 57401.95425899996,
+      "volume_total_usd": 239682.70680399926,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 79.0,
+        "No": 21.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
+      "category": "tech",
+      "market_id": "631182",
+      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-june-30-612",
+      "question": "Will Microsoft be the largest company in the world by market cap on June 30?",
+      "volume24hr_usd": 50717.90798,
+      "volume_total_usd": 1978860.5086480048,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -147,13 +183,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
       "market_id": "2167368",
       "slug": "will-gemini-3pt2-be-released-on-may-19",
       "question": "Will Gemini 3.2 be released on May 19?",
-      "volume24hr_usd": 50544.97727300002,
-      "volume_total_usd": 81624.14854599997,
+      "volume24hr_usd": 49765.17373100002,
+      "volume_total_usd": 81694.34500399997,
       "end_date": "2026-05-31",
       "options": [
         "Yes",
@@ -165,13 +201,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
-      "market_id": "631182",
-      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-june-30-612",
-      "question": "Will Microsoft be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 46302.04664700001,
-      "volume_total_usd": 1970353.2433170043,
+      "market_id": "1975535",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-may-2026",
+      "question": "Will Google have the best AI model at the end of May 2026?",
+      "volume24hr_usd": 49057.880706999946,
+      "volume_total_usd": 410867.18323400134,
+      "end_date": "2026-05-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 14.5,
+        "No": 85.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
+      "category": "tech",
+      "market_id": "631185",
+      "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
+      "question": "Will Tesla be the largest company in the world by market cap on June 30?",
+      "volume24hr_usd": 49043.49564700002,
+      "volume_total_usd": 2398503.2536189994,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -183,67 +237,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
-      "category": "tech",
-      "market_id": "1360928",
-      "slug": "gemini-3pt5-released-by-may-31",
-      "question": "Gemini 3.5 released by May 31?",
-      "volume24hr_usd": 45283.997011,
-      "volume_total_usd": 217380.2993450001,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 28.55,
-        "No": 71.45
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
       "market_id": "1999719",
       "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-may-31",
       "question": "Will Alphabet be the largest company in the world by market cap on May 31?",
-      "volume24hr_usd": 39245.014779,
-      "volume_total_usd": 420458.13510099996,
+      "volume24hr_usd": 40438.928383,
+      "volume_total_usd": 421669.5925630001,
       "end_date": "2026-05-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.4,
-        "No": 95.6
+        "Yes": 4.05,
+        "No": 95.95
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
-      "category": "tech",
-      "market_id": "631186",
-      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
-      "question": "Will Saudi Aramco be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 38921.82533299999,
-      "volume_total_usd": 2092153.2844620035,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.25,
-        "No": 99.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
       "market_id": "631187",
       "slug": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-june-30-123",
       "question": "Will Amazon be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 36134.14850000002,
-      "volume_total_usd": 2208320.7957149977,
+      "volume24hr_usd": 37562.3535,
+      "volume_total_usd": 2216729.4892149977,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -255,85 +273,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
-      "market_id": "1975535",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-may-2026",
-      "question": "Will Google have the best AI model at the end of May 2026?",
-      "volume24hr_usd": 33713.046005,
-      "volume_total_usd": 395521.21217400115,
-      "end_date": "2026-05-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 12.5,
-        "No": 87.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
-      "category": "tech",
-      "market_id": "1999716",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-may-31-971",
-      "question": "Will NVIDIA be the largest company in the world by market cap on May 31?",
-      "volume24hr_usd": 31987.957816000006,
-      "volume_total_usd": 773063.9032720043,
-      "end_date": "2026-05-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 95.4,
-        "No": 4.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
-      "category": "tech",
-      "market_id": "1975536",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-may-2026",
-      "question": "Will OpenAI have the best AI model at the end of May 2026?",
-      "volume24hr_usd": 31153.967314,
-      "volume_total_usd": 596976.6857020006,
-      "end_date": "2026-05-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.85,
-        "No": 98.15
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
-      "category": "tech",
-      "market_id": "1334671",
-      "slug": "gemini-3pt5-released-by-june-30-224-585-669",
-      "question": "Gemini 3.5 released by June 30?",
-      "volume24hr_usd": 22056.366836999994,
-      "volume_total_usd": 204337.11938199928,
+      "market_id": "631186",
+      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
+      "question": "Will Saudi Aramco be the largest company in the world by market cap on June 30?",
+      "volume24hr_usd": 35454.583833000004,
+      "volume_total_usd": 2098490.417462003,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 29.0,
-        "No": 71.0
+        "Yes": 0.25,
+        "No": 99.75
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
+      "category": "tech",
+      "market_id": "1975536",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-may-2026",
+      "question": "Will OpenAI have the best AI model at the end of May 2026?",
+      "volume24hr_usd": 34783.99615,
+      "volume_total_usd": 600893.4649490009,
+      "end_date": "2026-05-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.3,
+        "No": 98.7
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
+      "category": "tech",
+      "market_id": "1999716",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-may-31-971",
+      "question": "Will NVIDIA be the largest company in the world by market cap on May 31?",
+      "volume24hr_usd": 33393.66348300001,
+      "volume_total_usd": 775148.3529870046,
+      "end_date": "2026-05-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 95.65,
+        "No": 4.35
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
       "market_id": "1975534",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-may-2026",
       "question": "Will Anthropic have the best AI model at the end of May 2026?",
-      "volume24hr_usd": 21802.308570999998,
-      "volume_total_usd": 495420.21163700166,
+      "volume24hr_usd": 25718.367876000008,
+      "volume_total_usd": 499476.23662000167,
       "end_date": "2026-05-31",
       "options": [
         "Yes",
@@ -345,13 +345,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
       "market_id": "1975543",
       "slug": "will-zai-have-the-best-ai-model-at-the-end-of-may-2026",
       "question": "Will Z.ai have the best AI model at the end of May 2026?",
-      "volume24hr_usd": 21452.609000000004,
-      "volume_total_usd": 324872.6736499996,
+      "volume24hr_usd": 23467.592,
+      "volume_total_usd": 327805.3786499996,
       "end_date": "2026-05-31",
       "options": [
         "Yes",
@@ -363,31 +363,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
-      "category": "tech",
-      "market_id": "1975545",
-      "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-may-2026",
-      "question": "Will DeepSeek have the best AI model at the end of May 2026?",
-      "volume24hr_usd": 20576.578999999998,
-      "volume_total_usd": 406042.3399209999,
-      "end_date": "2026-05-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
       "market_id": "1975547",
       "slug": "will-meta-have-the-best-ai-model-at-the-end-of-may-2026",
       "question": "Will Meta have the best AI model at the end of May 2026?",
-      "volume24hr_usd": 20359.071,
-      "volume_total_usd": 429628.4396069995,
+      "volume24hr_usd": 22289.201999999997,
+      "volume_total_usd": 432534.14360699954,
       "end_date": "2026-05-31",
       "options": [
         "Yes",
@@ -399,79 +381,97 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
+      "category": "tech",
+      "market_id": "1975545",
+      "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-may-2026",
+      "question": "Will DeepSeek have the best AI model at the end of May 2026?",
+      "volume24hr_usd": 22181.284999999996,
+      "volume_total_usd": 409288.5599209999,
+      "end_date": "2026-05-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
+      "category": "tech",
+      "market_id": "1999722",
+      "slug": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-may-31-498",
+      "question": "Will Amazon be the largest company in the world by market cap on May 31?",
+      "volume24hr_usd": 21982.403,
+      "volume_total_usd": 347230.99283199967,
+      "end_date": "2026-05-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
+      "category": "tech",
+      "market_id": "1999721",
+      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-may-31",
+      "question": "Will Saudi Aramco be the largest company in the world by market cap on May 31?",
+      "volume24hr_usd": 18875.312,
+      "volume_total_usd": 574551.2642880008,
+      "end_date": "2026-05-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
       "market_id": "2159734",
       "slug": "will-spacex-starship-flight-test-12-launch-by-may-15",
       "question": "Will SpaceX Starship Flight Test 12 launch by May 15?",
-      "volume24hr_usd": 19739.733368,
-      "volume_total_usd": 84487.781313,
+      "volume24hr_usd": 17311.963368,
+      "volume_total_usd": 84568.011313,
       "end_date": "2026-05-15",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.3,
-        "No": 99.7
+        "Yes": 0.2,
+        "No": 99.8
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
-      "category": "tech",
-      "market_id": "1999722",
-      "slug": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-may-31-498",
-      "question": "Will Amazon be the largest company in the world by market cap on May 31?",
-      "volume24hr_usd": 18608.096,
-      "volume_total_usd": 343813.64283199963,
-      "end_date": "2026-05-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
-      "category": "tech",
-      "market_id": "1999721",
-      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-may-31",
-      "question": "Will Saudi Aramco be the largest company in the world by market cap on May 31?",
-      "volume24hr_usd": 18145.065,
-      "volume_total_usd": 573759.8762880008,
-      "end_date": "2026-05-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
       "market_id": "2234982",
       "slug": "will-cerebras-market-cap-be-less-than-50b-at-market-close-on-ipo-day",
       "question": "Will Cerebras' market cap be less than $50B at market close on IPO day?",
-      "volume24hr_usd": 16841.104413,
-      "volume_total_usd": 29521.722636999984,
+      "volume24hr_usd": 16689.07848,
+      "volume_total_usd": 30743.742636999985,
       "end_date": "2026-05-14",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 6.0,
-        "No": 94.0
+        "Yes": 4.5,
+        "No": 95.5
       }
     },
     {
-      "captured_at_utc": "2026-05-14T05:21:08+00:00",
+      "captured_at_utc": "2026-05-14T07:06:46+00:00",
       "category": "tech",
       "market_id": "1999720",
       "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-may-31",
