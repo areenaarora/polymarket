@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-05-23T00:51:10+00:00",
+  "captured_at_utc": "2026-05-23T01:39:54+00:00",
   "count": 27,
   "rows": [
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 20811.652044000002,
-      "volume_total_usd": 9539266.250021845,
+      "volume24hr_usd": 21324.162044,
+      "volume_total_usd": 9539778.760021845,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "world",
       "market_id": "1397269",
       "slug": "will-russia-capture-lyman-by-june-30-2026-413",
@@ -39,25 +39,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
-      "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 2708.9683569999993,
-      "volume_total_usd": 167743.26548999985,
-      "end_date": "2025-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 53.5,
-        "No": 46.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "world",
       "market_id": "2053573",
       "slug": "will-russia-capture-lyman-by-may-31-2026",
@@ -75,7 +57,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
+      "category": "world",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
+      "volume24hr_usd": 641.867139,
+      "volume_total_usd": 167743.26548999985,
+      "end_date": "2025-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 53.5,
+        "No": 46.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "world",
       "market_id": "700881",
       "slug": "will-israel-annex-any-territory-by-june-30",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "world",
       "market_id": "644510",
       "slug": "spain-snap-election-called-by-june-30-2026",
@@ -106,12 +106,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 5.45,
-        "No": 94.55
+        "Yes": 5.4,
+        "No": 94.6
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -129,13 +129,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1999723",
       "slug": "will-broadcom-be-the-largest-company-in-the-world-by-market-cap-on-may-31",
       "question": "Will Broadcom be the largest company in the world by market cap on May 31?",
-      "volume24hr_usd": 165307.639,
-      "volume_total_usd": 1057779.841836001,
+      "volume24hr_usd": 165497.077,
+      "volume_total_usd": 1057971.281836001,
       "end_date": "2026-05-31",
       "options": [
         "Yes",
@@ -147,66 +147,48 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "2159745",
       "slug": "will-the-starship-for-spacex-starship-flight-test-12-achieve-a-successful-splashdown-497",
       "question": "Will the Starship for SpaceX Starship Flight Test 12 achieve a successful splashdown?",
-      "volume24hr_usd": 153244.77593399995,
-      "volume_total_usd": 178175.06677200002,
+      "volume24hr_usd": 154321.69911899997,
+      "volume_total_usd": 182930.863681,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 99.15,
-        "No": 0.85
+        "Yes": 99.6,
+        "No": 0.4
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "2159744",
       "slug": "will-spacex-starship-flight-test-12-superheavy-explode-722-294",
       "question": "Will SpaceX Starship Flight Test 12 Superheavy explode?",
-      "volume24hr_usd": 146838.23221599995,
-      "volume_total_usd": 271476.976047,
+      "volume24hr_usd": 142464.28318099998,
+      "volume_total_usd": 275258.1416009999,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 98.35,
-        "No": 1.65
+        "Yes": 99.3,
+        "No": 0.7
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
-      "category": "tech",
-      "market_id": "2159735",
-      "slug": "will-spacex-starship-flight-test-12-launch-by-may-22-354-721",
-      "question": "Will SpaceX Starship Flight Test 12 launch by May 22?",
-      "volume24hr_usd": 88281.15211600006,
-      "volume_total_usd": 156790.52747099995,
-      "end_date": "2026-05-22",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.95,
-        "No": 0.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "2159746",
       "slug": "will-the-chopsticks-catch-spacex-starship-flight-test-12-superheavy-booster-434",
       "question": "Will the chopsticks catch SpaceX Starship Flight Test 12 Superheavy booster?",
-      "volume24hr_usd": 83465.194825,
+      "volume24hr_usd": 83300.325291,
       "volume_total_usd": 147959.78212600003,
       "end_date": "2026-12-31",
       "options": [
@@ -219,25 +201,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1326787",
       "slug": "spacex-ipo-closing-market-cap-above-3t-337-436",
       "question": "SpaceX IPO closing market cap above $3T?",
-      "volume24hr_usd": 75270.982443,
-      "volume_total_usd": 707538.3032000003,
+      "volume24hr_usd": 76408.463578,
+      "volume_total_usd": 708675.7843350003,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 13.5,
-        "No": 86.5
+        "Yes": 13.0,
+        "No": 87.0
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1999722",
       "slug": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-may-31-498",
@@ -255,30 +237,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
-      "category": "tech",
-      "market_id": "2109550",
-      "slug": "will-spacex-starship-flight-test-12-launch-by-may-31-693-981",
-      "question": "Will SpaceX Starship Flight Test 12 launch by May 31?",
-      "volume24hr_usd": 51053.50886700001,
-      "volume_total_usd": 98936.527769,
-      "end_date": "2026-05-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.95,
-        "No": 0.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1975539",
       "slug": "will-bytedance-have-the-best-ai-model-at-the-end-of-may-2026",
       "question": "Will ByteDance have the best AI model at the end of May 2026?",
-      "volume24hr_usd": 48411.104,
+      "volume24hr_usd": 45967.873,
       "volume_total_usd": 707257.466781003,
       "end_date": "2026-05-31",
       "options": [
@@ -291,12 +255,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1999694",
       "slug": "will-broadcom-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31",
       "question": "Will Broadcom be the second-largest company in the world by market cap on May 31?",
-      "volume24hr_usd": 43035.69299999999,
+      "volume24hr_usd": 42991.67899999999,
       "volume_total_usd": 85326.53307900002,
       "end_date": "2026-05-31",
       "options": [
@@ -309,30 +273,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
-      "category": "tech",
-      "market_id": "656311",
-      "slug": "will-openai-ipo-by-june-30-2026",
-      "question": "Will OpenAI IPO by June 30 2026?",
-      "volume24hr_usd": 27035.309814999997,
-      "volume_total_usd": 507967.8263429997,
-      "end_date": "",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.25,
-        "No": 98.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1184762",
       "slug": "will-elon-musk-win-his-case-against-sam-altman",
       "question": "Will Elon Musk win his case against Sam Altman?",
-      "volume24hr_usd": 26614.794455,
+      "volume24hr_usd": 26464.794455,
       "volume_total_usd": 895077.0808739981,
       "end_date": "2026-12-31",
       "options": [
@@ -340,18 +286,18 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 3.25,
-        "No": 96.75
+        "Yes": 3.15,
+        "No": 96.85
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1999693",
       "slug": "will-amazon-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31",
       "question": "Will Amazon be the second-largest company in the world by market cap on May 31?",
-      "volume24hr_usd": 25555.679,
-      "volume_total_usd": 103011.42921899987,
+      "volume24hr_usd": 25620.890000000003,
+      "volume_total_usd": 103120.65421899987,
       "end_date": "2026-05-31",
       "options": [
         "Yes",
@@ -363,7 +309,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
+      "category": "tech",
+      "market_id": "656311",
+      "slug": "will-openai-ipo-by-june-30-2026",
+      "question": "Will OpenAI IPO by June 30 2026?",
+      "volume24hr_usd": 25563.346437999997,
+      "volume_total_usd": 507988.0487059997,
+      "end_date": "",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.15,
+        "No": 98.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "2299986",
       "slug": "will-openais-valuation-hit-high-2pt0t-by-december-31-937-533",
@@ -381,13 +345,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1975534",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-may-2026",
       "question": "Will Anthropic have the best AI model at the end of May 2026?",
-      "volume24hr_usd": 23794.082219999997,
-      "volume_total_usd": 916960.7740590009,
+      "volume24hr_usd": 23076.57264399999,
+      "volume_total_usd": 917045.754483001,
       "end_date": "2026-05-31",
       "options": [
         "Yes",
@@ -399,12 +363,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1999716",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-may-31-971",
       "question": "Will NVIDIA be the largest company in the world by market cap on May 31?",
-      "volume24hr_usd": 22962.055552000005,
+      "volume24hr_usd": 22638.954139000005,
       "volume_total_usd": 1154190.288301008,
       "end_date": "2026-05-31",
       "options": [
@@ -417,48 +381,30 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
-      "category": "tech",
-      "market_id": "656312",
-      "slug": "will-openai-ipo-by-december-31-2026",
-      "question": "Will OpenAI IPO by December 31 2026?",
-      "volume24hr_usd": 19114.25398000001,
-      "volume_total_usd": 549175.5841189993,
-      "end_date": "",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 70.0,
-        "No": 30.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1999689",
       "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31",
       "question": "Will Apple be the second-largest company in the world by market cap on May 31?",
-      "volume24hr_usd": 18917.913371000002,
-      "volume_total_usd": 119632.42536399995,
+      "volume24hr_usd": 18969.515378000004,
+      "volume_total_usd": 119741.64839699995,
       "end_date": "2026-05-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 21.1,
-        "No": 78.9
+        "Yes": 21.05,
+        "No": 78.95
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1999720",
       "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-may-31",
       "question": "Will Tesla be the largest company in the world by market cap on May 31?",
-      "volume24hr_usd": 18462.385,
+      "volume24hr_usd": 17962.385,
       "volume_total_usd": 1255475.4925990012,
       "end_date": "2026-05-31",
       "options": [
@@ -471,13 +417,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-05-23T00:51:10+00:00",
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
       "category": "tech",
       "market_id": "1975535",
       "slug": "will-google-have-the-best-ai-model-at-the-end-of-may-2026",
       "question": "Will Google have the best AI model at the end of May 2026?",
-      "volume24hr_usd": 17713.684943,
-      "volume_total_usd": 955621.0968940016,
+      "volume24hr_usd": 17700.559942999997,
+      "volume_total_usd": 955636.1868940016,
       "end_date": "2026-05-31",
       "options": [
         "Yes",
@@ -486,6 +432,60 @@
       "results_pct": {
         "Yes": 0.7,
         "No": 99.3
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
+      "category": "tech",
+      "market_id": "1748641",
+      "slug": "will-claude-5-be-released-by-may-31-2026",
+      "question": "Will Claude 5 be released by May 31, 2026?",
+      "volume24hr_usd": 17624.705607,
+      "volume_total_usd": 491755.93164600036,
+      "end_date": "2026-05-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 4.8,
+        "No": 95.2
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
+      "category": "tech",
+      "market_id": "656312",
+      "slug": "will-openai-ipo-by-december-31-2026",
+      "question": "Will OpenAI IPO by December 31 2026?",
+      "volume24hr_usd": 17585.080126000004,
+      "volume_total_usd": 549189.7663709993,
+      "end_date": "",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 69.5,
+        "No": 30.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-05-23T01:39:54+00:00",
+      "category": "tech",
+      "market_id": "2299954",
+      "slug": "will-anthropics-valuation-hit-high-2pt0t-by-december-31-922",
+      "question": "Will Anthropic's valuation hit (HIGH) $2.0T by December 31?",
+      "volume24hr_usd": 17316.921964000005,
+      "volume_total_usd": 62757.73372199999,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 37.5,
+        "No": 62.5
       }
     }
   ]
