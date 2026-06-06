@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-06-06T11:33:29+00:00",
+  "captured_at_utc": "2026-06-06T12:33:07+00:00",
   "count": 26,
   "rows": [
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 26141.337399999993,
-      "volume_total_usd": 9959223.01150187,
+      "volume24hr_usd": 26018.43965399999,
+      "volume_total_usd": 9959394.91375587,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "world",
       "market_id": "1397269",
       "slug": "will-russia-capture-lyman-by-june-30-2026-413",
@@ -39,7 +39,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
+      "category": "world",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
+      "volume24hr_usd": 372.913632,
+      "volume_total_usd": 182511.29407999985,
+      "end_date": "2025-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 47.0,
+        "No": 53.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "world",
       "market_id": "644510",
       "slug": "spain-snap-election-called-by-june-30-2026",
@@ -52,30 +70,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 8.0,
-        "No": 92.0
+        "Yes": 7.9,
+        "No": 92.1
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
-      "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 250.483632,
-      "volume_total_usd": 182388.86407999985,
-      "end_date": "2025-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 48.0,
-        "No": 52.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -88,12 +88,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 15.5,
-        "No": 84.5
+        "Yes": 15.0,
+        "No": 85.0
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "world",
       "market_id": "700881",
       "slug": "will-israel-annex-any-territory-by-june-30",
@@ -111,13 +111,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "631182",
       "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-june-30-612",
       "question": "Will Microsoft be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 538396.879,
-      "volume_total_usd": 3812731.590152968,
+      "volume24hr_usd": 538764.786,
+      "volume_total_usd": 3813123.521152968,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -129,13 +129,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "1326787",
       "slug": "spacex-ipo-closing-market-cap-above-3t-337-436",
       "question": "SpaceX IPO closing market cap above $3T?",
-      "volume24hr_usd": 185423.999674,
-      "volume_total_usd": 1551528.3762470004,
+      "volume24hr_usd": 185434.329674,
+      "volume_total_usd": 1551772.7062470005,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -147,13 +147,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "915770",
       "slug": "spacex-ipo-closing-market-cap-above-2t-649-783",
       "question": "SpaceX IPO closing market cap above $2T?",
-      "volume24hr_usd": 101495.34179299996,
-      "volume_total_usd": 834297.0731750022,
+      "volume24hr_usd": 100639.73469699996,
+      "volume_total_usd": 834764.8175560023,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -165,13 +165,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "915771",
       "slug": "spacex-ipo-closing-market-cap-above-1pt8t-631-261",
       "question": "SpaceX IPO closing market cap above $1.8T?",
-      "volume24hr_usd": 93310.223458,
-      "volume_total_usd": 482293.7292530002,
+      "volume24hr_usd": 92834.668174,
+      "volume_total_usd": 482413.7292530002,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -183,30 +183,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
-      "category": "tech",
-      "market_id": "631186",
-      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
-      "question": "Will Saudi Aramco be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 88582.4,
-      "volume_total_usd": 3389613.316740982,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "2308003",
       "slug": "spacex-ipo-closing-market-cap-above-4t",
       "question": "SpaceX IPO closing market cap above $4T?",
-      "volume24hr_usd": 75951.15784399999,
+      "volume24hr_usd": 75304.019094,
       "volume_total_usd": 188584.57339100027,
       "end_date": "2027-12-31",
       "options": [
@@ -219,32 +201,32 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
-      "market_id": "915769",
-      "slug": "spacex-ipo-closing-market-cap-above-1pt6t-514-594-116",
-      "question": "SpaceX IPO closing market cap above $1.6T?",
-      "volume24hr_usd": 65635.26305800003,
-      "volume_total_usd": 350746.4254559996,
-      "end_date": "2027-12-31",
+      "market_id": "631181",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-june-30-824",
+      "question": "Will NVIDIA be the largest company in the world by market cap on June 30?",
+      "volume24hr_usd": 65890.98958900002,
+      "volume_total_usd": 2374610.3429209455,
+      "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 89.85,
-        "No": 10.15
+        "Yes": 91.5,
+        "No": 8.5
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
-      "market_id": "631181",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-june-30-824",
-      "question": "Will NVIDIA be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 63975.03973300001,
-      "volume_total_usd": 2372111.2618259457,
-      "end_date": "2026-06-30",
+      "market_id": "915769",
+      "slug": "spacex-ipo-closing-market-cap-above-1pt6t-514-594-116",
+      "question": "SpaceX IPO closing market cap above $1.6T?",
+      "volume24hr_usd": 62781.76372600002,
+      "volume_total_usd": 350771.4254559996,
+      "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
@@ -255,13 +237,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "2308023",
       "slug": "spacex-ipo-closing-market-cap-above-2pt8t",
       "question": "SpaceX IPO closing market cap above $2.8T?",
-      "volume24hr_usd": 57000.07956599998,
-      "volume_total_usd": 199449.00840400008,
+      "volume24hr_usd": 58648.85608599997,
+      "volume_total_usd": 201097.7849240001,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -273,13 +255,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
+      "category": "tech",
+      "market_id": "631183",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-june-30-416",
+      "question": "Will Apple be the largest company in the world by market cap on June 30?",
+      "volume24hr_usd": 52870.25362400002,
+      "volume_total_usd": 1794609.2073760058,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 4.9,
+        "No": 95.1
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
+      "category": "tech",
+      "market_id": "631186",
+      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
+      "question": "Will Saudi Aramco be the largest company in the world by market cap on June 30?",
+      "volume24hr_usd": 52747.13100000001,
+      "volume_total_usd": 3389613.316740982,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "2308024",
       "slug": "spacex-ipo-closing-market-cap-above-2pt6t",
       "question": "SpaceX IPO closing market cap above $2.6T?",
-      "volume24hr_usd": 53390.42558400001,
-      "volume_total_usd": 327351.2335389998,
+      "volume24hr_usd": 49578.38532900001,
+      "volume_total_usd": 327811.7735389998,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -291,31 +309,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
-      "category": "tech",
-      "market_id": "631183",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-june-30-416",
-      "question": "Will Apple be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 52665.72362400002,
-      "volume_total_usd": 1794404.677376006,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 5.1,
-        "No": 94.9
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "1326778",
       "slug": "spacex-ipo-closing-market-cap-above-2pt4t-574-858-552",
       "question": "SpaceX IPO closing market cap above $2.4T?",
-      "volume24hr_usd": 49880.03643100001,
-      "volume_total_usd": 634513.670651,
+      "volume24hr_usd": 48791.090619,
+      "volume_total_usd": 634589.23928,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -327,30 +327,30 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "909466",
       "slug": "spacex-ipo-closing-market-cap-above-1t-274-469",
       "question": "SpaceX IPO closing market cap above $1T?",
-      "volume24hr_usd": 46642.38129799999,
-      "volume_total_usd": 555243.2118299998,
+      "volume24hr_usd": 46339.57579799999,
+      "volume_total_usd": 555621.72258,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 98.4,
-        "No": 1.6
+        "Yes": 98.55,
+        "No": 1.45
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "631185",
       "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
       "question": "Will Tesla be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 38956.31,
+      "volume24hr_usd": 38756.11,
       "volume_total_usd": 3926878.099749972,
       "end_date": "2026-06-30",
       "options": [
@@ -363,31 +363,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "631184",
       "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
       "question": "Will Alphabet be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 37749.33821899999,
-      "volume_total_usd": 1905891.2726250158,
+      "volume24hr_usd": 35492.37277899999,
+      "volume_total_usd": 1906141.6671850157,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.5,
-        "No": 95.5
+        "Yes": 4.35,
+        "No": 95.65
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "1326777",
       "slug": "spacex-ipo-closing-market-cap-above-2pt2t-391-286-145",
       "question": "SpaceX IPO closing market cap above $2.2T?",
-      "volume24hr_usd": 30750.158308000013,
-      "volume_total_usd": 234763.2913209999,
+      "volume24hr_usd": 30497.18052500001,
+      "volume_total_usd": 235390.2709749999,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -399,13 +399,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "1748840",
       "slug": "will-claude-5-be-released-by-june-30-2026",
       "question": "Will Claude 5 be released by June 30, 2026?",
-      "volume24hr_usd": 26992.268233,
-      "volume_total_usd": 471366.3414320024,
+      "volume24hr_usd": 27227.464753000004,
+      "volume_total_usd": 471604.2406520024,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -417,30 +417,30 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "631141",
       "slug": "will-openai-have-the-best-ai-model-at-the-end-of-june-2026",
       "question": "Will OpenAI have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 25600.787279000007,
-      "volume_total_usd": 851127.6209719968,
+      "volume24hr_usd": 25841.48790000001,
+      "volume_total_usd": 851616.5115929967,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.95,
-        "No": 96.05
+        "Yes": 3.9,
+        "No": 96.1
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "909467",
       "slug": "spacex-ipo-closing-market-cap-above-1pt4t-128-653",
       "question": "SpaceX IPO closing market cap above $1.4T?",
-      "volume24hr_usd": 24919.941944,
+      "volume24hr_usd": 24829.501944,
       "volume_total_usd": 225007.9885109999,
       "end_date": "2027-12-31",
       "options": [
@@ -453,12 +453,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-06T11:33:29+00:00",
+      "captured_at_utc": "2026-06-06T12:33:07+00:00",
       "category": "tech",
       "market_id": "631149",
       "slug": "will-microsoft-have-the-best-ai-model-at-the-end-of-june-2026",
       "question": "Will Microsoft have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 24503.376,
+      "volume24hr_usd": 24500.966,
       "volume_total_usd": 559582.8895560071,
       "end_date": "2026-06-30",
       "options": [
