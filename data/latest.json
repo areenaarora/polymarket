@@ -1,14 +1,14 @@
 {
-  "captured_at_utc": "2026-06-09T17:45:17+00:00",
+  "captured_at_utc": "2026-06-09T18:48:56+00:00",
   "count": 26,
   "rows": [
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 20259.543275000004,
+      "volume24hr_usd": 20253.953275000007,
       "volume_total_usd": 10049650.031771865,
       "end_date": "2026-12-31",
       "options": [
@@ -21,13 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 14403.378921999998,
-      "volume_total_usd": 203039.0307999999,
+      "volume24hr_usd": 13736.374877999997,
+      "volume_total_usd": 203251.79675599988,
       "end_date": "2025-12-31",
       "options": [
         "Yes",
@@ -39,13 +39,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "world",
       "market_id": "1397269",
       "slug": "will-russia-capture-lyman-by-june-30-2026-413",
       "question": "Will Russia capture Lyman by June 30, 2026?",
-      "volume24hr_usd": 6280.473329999999,
-      "volume_total_usd": 255108.90455999912,
+      "volume24hr_usd": 6394.795549999999,
+      "volume_total_usd": 255223.22677999912,
       "end_date": "2025-12-31",
       "options": [
         "Yes",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "world",
       "market_id": "644510",
       "slug": "spain-snap-election-called-by-june-30-2026",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "world",
       "market_id": "700881",
       "slug": "will-israel-annex-any-territory-by-june-30",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -111,31 +111,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "2475672",
       "slug": "will-a-claude-mythos-model-be-released-by-june-9-2026",
       "question": "Will a Claude Mythos model be released by June 9, 2026?",
-      "volume24hr_usd": 529428.8826319999,
-      "volume_total_usd": 529428.8826320011,
-      "end_date": "2026-06-10",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.5,
-        "No": 0.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
-      "category": "tech",
-      "market_id": "2474666",
-      "slug": "will-a-claude-mythos-model-be-released-by-june-10-2026-989",
-      "question": "Will a Claude Mythos model be released by June 10, 2026?",
-      "volume24hr_usd": 406056.7979640001,
-      "volume_total_usd": 406056.79796399985,
+      "volume24hr_usd": 741334.9056509999,
+      "volume_total_usd": 741334.9056510013,
       "end_date": "2026-06-10",
       "options": [
         "Yes",
@@ -147,85 +129,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
+      "category": "tech",
+      "market_id": "2474666",
+      "slug": "will-a-claude-mythos-model-be-released-by-june-10-2026-989",
+      "question": "Will a Claude Mythos model be released by June 10, 2026?",
+      "volume24hr_usd": 568418.2117450004,
+      "volume_total_usd": 568418.2117450003,
+      "end_date": "2026-06-10",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.85,
+        "No": 0.15
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "2380186",
       "slug": "will-a-claude-mythos-model-be-released-by-june-15-2026-454-267",
       "question": "Will a Claude Mythos model be released by June 15, 2026?",
-      "volume24hr_usd": 261791.35272399994,
-      "volume_total_usd": 604593.6471750005,
+      "volume24hr_usd": 264313.13763599994,
+      "volume_total_usd": 610795.3471750006,
       "end_date": "2026-06-15",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 99.9,
-        "No": 0.1
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
-      "category": "tech",
-      "market_id": "1748840",
-      "slug": "will-claude-5-be-released-by-june-30-2026",
-      "question": "Will Claude 5 be released by June 30, 2026?",
-      "volume24hr_usd": 222364.17603699997,
-      "volume_total_usd": 784816.0378500001,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
         "Yes": 99.95,
         "No": 0.05
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "631150",
       "slug": "will-meta-have-the-best-ai-model-at-the-end-of-june-2026",
       "question": "Will Meta have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 217408.50449999998,
-      "volume_total_usd": 696935.6555930031,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.25,
-        "No": 99.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
-      "category": "tech",
-      "market_id": "1744124",
-      "slug": "will-a-claude-mythos-model-be-released-by-june-30-2026-684-583-292-514-553",
-      "question": "Will a Claude Mythos model be released by June 30, 2026?",
-      "volume24hr_usd": 179153.58665100002,
-      "volume_total_usd": 585600.3491670004,
-      "end_date": "2026-04-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.95,
-        "No": 0.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
-      "category": "tech",
-      "market_id": "631145",
-      "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026",
-      "question": "Will DeepSeek have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 100978.43199999999,
-      "volume_total_usd": 936417.4235090041,
+      "volume24hr_usd": 220106.42050000004,
+      "volume_total_usd": 699641.8745930032,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -237,13 +183,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
-      "market_id": "2473030",
-      "slug": "will-a-claude-mythos-model-be-released-by-june-12-2026-762-968",
-      "question": "Will a Claude Mythos model be released by June 12 2026?",
-      "volume24hr_usd": 92307.544623,
-      "volume_total_usd": 92307.544623,
+      "market_id": "1748840",
+      "slug": "will-claude-5-be-released-by-june-30-2026",
+      "question": "Will Claude 5 be released by June 30, 2026?",
+      "volume24hr_usd": 217924.9562180001,
+      "volume_total_usd": 795234.84785,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.95,
+        "No": 0.05
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
+      "category": "tech",
+      "market_id": "1744124",
+      "slug": "will-a-claude-mythos-model-be-released-by-june-30-2026-684-583-292-514-553",
+      "question": "Will a Claude Mythos model be released by June 30, 2026?",
+      "volume24hr_usd": 195617.26285899998,
+      "volume_total_usd": 605374.9591670005,
       "end_date": "2026-04-30",
       "options": [
         "Yes",
@@ -255,13 +219,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
+      "category": "tech",
+      "market_id": "2473030",
+      "slug": "will-a-claude-mythos-model-be-released-by-june-12-2026-762-968",
+      "question": "Will a Claude Mythos model be released by June 12 2026?",
+      "volume24hr_usd": 115180.12128800001,
+      "volume_total_usd": 115180.121288,
+      "end_date": "2026-04-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.95,
+        "No": 0.05
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
+      "category": "tech",
+      "market_id": "631145",
+      "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026",
+      "question": "Will DeepSeek have the best AI model at the end of June 2026?",
+      "volume24hr_usd": 103680.65399999998,
+      "volume_total_usd": 939132.6585090042,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
+      "category": "tech",
+      "market_id": "631139",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-june-2026",
+      "question": "Will Google have the best AI model at the end of June 2026?",
+      "volume24hr_usd": 86811.53676199999,
+      "volume_total_usd": 1066538.895964002,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 6.5,
+        "No": 93.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "2380187",
       "slug": "will-a-claude-mythos-model-be-released-by-july-31-2026-952-825-712",
       "question": "Will a Claude Mythos model be released by July 31, 2026?",
-      "volume24hr_usd": 81107.466427,
-      "volume_total_usd": 223051.27678699992,
+      "volume24hr_usd": 86301.27218100001,
+      "volume_total_usd": 228256.57678699994,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -273,13 +291,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "915770",
       "slug": "spacex-ipo-closing-market-cap-above-2t-649-783",
       "question": "SpaceX IPO closing market cap above $2T?",
-      "volume24hr_usd": 78816.14782599999,
-      "volume_total_usd": 1004384.3860350027,
+      "volume24hr_usd": 78162.69345999998,
+      "volume_total_usd": 1005536.8416990028,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -291,49 +309,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
-      "category": "tech",
-      "market_id": "631139",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-june-2026",
-      "question": "Will Google have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 78358.32961699998,
-      "volume_total_usd": 1057938.4208080021,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 8.5,
-        "No": 91.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "909467",
       "slug": "spacex-ipo-closing-market-cap-above-1pt4t-128-653",
       "question": "SpaceX IPO closing market cap above $1.4T?",
-      "volume24hr_usd": 69661.62610899999,
-      "volume_total_usd": 317009.9175099996,
+      "volume24hr_usd": 70499.755494,
+      "volume_total_usd": 317936.6475009996,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 93.95,
-        "No": 6.05
+        "Yes": 94.4,
+        "No": 5.6
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
+      "category": "tech",
+      "market_id": "2473265",
+      "slug": "will-claude-mythos-be-released-on-or-prior-to-june-9",
+      "question": "Will Claude Mythos be released on or prior to June 9?",
+      "volume24hr_usd": 69402.893138,
+      "volume_total_usd": 69402.89313799997,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.9,
+        "No": 0.1
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "631181",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-june-30-824",
       "question": "Will NVIDIA be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 68484.870744,
-      "volume_total_usd": 2565833.315992956,
+      "volume24hr_usd": 66054.638762,
+      "volume_total_usd": 2566212.7674769554,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -345,12 +363,30 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
+      "category": "tech",
+      "market_id": "631140",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-june-2026",
+      "question": "Will Anthropic have the best AI model at the end of June 2026?",
+      "volume24hr_usd": 63804.657407999985,
+      "volume_total_usd": 1525116.3901790017,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 90.95,
+        "No": 9.05
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "2308005",
       "slug": "spacex-ipo-closing-market-cap-above-3pt8t",
       "question": "SpaceX IPO closing market cap above $3.8T?",
-      "volume24hr_usd": 60016.557877,
+      "volume24hr_usd": 59718.780101,
       "volume_total_usd": 135336.449225,
       "end_date": "2027-12-31",
       "options": [
@@ -363,85 +399,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
-      "category": "tech",
-      "market_id": "631140",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-june-2026",
-      "question": "Will Anthropic have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 57984.15070699998,
-      "volume_total_usd": 1518881.5555500018,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 89.45,
-        "No": 10.55
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "909468",
       "slug": "spacex-ipo-closing-market-cap-above-1pt2t-797-138",
       "question": "SpaceX IPO closing market cap above $1.2T?",
-      "volume24hr_usd": 57931.64685,
-      "volume_total_usd": 399640.45630000054,
+      "volume24hr_usd": 58500.72645000001,
+      "volume_total_usd": 400209.53590000054,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 97.95,
-        "No": 2.05
+        "Yes": 97.7,
+        "No": 2.3
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
-      "category": "tech",
-      "market_id": "2473265",
-      "slug": "will-claude-mythos-be-released-on-or-prior-to-june-9",
-      "question": "Will Claude Mythos be released on or prior to June 9?",
-      "volume24hr_usd": 57615.772306,
-      "volume_total_usd": 57615.77230599996,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.95,
-        "No": 0.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
-      "category": "tech",
-      "market_id": "2308023",
-      "slug": "spacex-ipo-closing-market-cap-above-2pt8t",
-      "question": "SpaceX IPO closing market cap above $2.8T?",
-      "volume24hr_usd": 50811.386273,
-      "volume_total_usd": 350138.81811600015,
-      "end_date": "2027-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 10.5,
-        "No": 89.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "915771",
       "slug": "spacex-ipo-closing-market-cap-above-1pt8t-631-261",
       "question": "SpaceX IPO closing market cap above $1.8T?",
-      "volume24hr_usd": 49789.95130699999,
-      "volume_total_usd": 804618.3758790004,
+      "volume24hr_usd": 54824.88524099999,
+      "volume_total_usd": 809843.0249230005,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -453,21 +435,39 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-09T17:45:17+00:00",
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
+      "category": "tech",
+      "market_id": "2308023",
+      "slug": "spacex-ipo-closing-market-cap-above-2pt8t",
+      "question": "SpaceX IPO closing market cap above $2.8T?",
+      "volume24hr_usd": 54012.199603,
+      "volume_total_usd": 353389.63144600013,
+      "end_date": "2027-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 10.5,
+        "No": 89.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-09T18:48:56+00:00",
       "category": "tech",
       "market_id": "631183",
       "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-june-30-416",
       "question": "Will Apple be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 47184.061779,
-      "volume_total_usd": 1928254.1403300073,
+      "volume24hr_usd": 48481.231779,
+      "volume_total_usd": 1932296.8303300072,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.95,
-        "No": 98.05
+        "Yes": 1.85,
+        "No": 98.15
       }
     }
   ]
