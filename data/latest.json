@@ -1,14 +1,14 @@
 {
-  "captured_at_utc": "2026-06-11T13:26:01+00:00",
+  "captured_at_utc": "2026-06-11T15:14:16+00:00",
   "count": 26,
   "rows": [
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 8234.156760000002,
+      "volume24hr_usd": 7855.785145000001,
       "volume_total_usd": 10130338.57250987,
       "end_date": "2026-12-31",
       "options": [
@@ -21,12 +21,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 4780.90885,
+      "volume24hr_usd": 3860.31885,
       "volume_total_usd": 217786.57936399986,
       "end_date": "2025-12-31",
       "options": [
@@ -39,25 +39,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "world",
       "market_id": "1397269",
       "slug": "will-russia-capture-lyman-by-june-30-2026-413",
       "question": "Will Russia capture Lyman by June 30, 2026?",
-      "volume24hr_usd": 1965.250642,
-      "volume_total_usd": 262393.6071869991,
+      "volume24hr_usd": 1024.430642,
+      "volume_total_usd": 262446.7271869991,
       "end_date": "2025-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 7.5,
-        "No": 92.5
+        "Yes": 6.5,
+        "No": 93.5
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "world",
       "market_id": "644510",
       "slug": "spain-snap-election-called-by-june-30-2026",
@@ -75,12 +75,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "world",
       "market_id": "700881",
       "slug": "will-israel-annex-any-territory-by-june-30",
       "question": "Will Israel annex any territory by June 30?",
-      "volume24hr_usd": 106.57999999999998,
+      "volume24hr_usd": 21.11,
       "volume_total_usd": 181275.5970410002,
       "end_date": "2026-06-30",
       "options": [
@@ -93,7 +93,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -111,13 +111,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "915771",
       "slug": "spacex-ipo-closing-market-cap-above-1pt8t-631-261",
       "question": "SpaceX IPO closing market cap above $1.8T?",
-      "volume24hr_usd": 141922.731019,
-      "volume_total_usd": 1056224.8584209993,
+      "volume24hr_usd": 144475.405984,
+      "volume_total_usd": 1061640.4033859994,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -129,13 +129,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
+      "category": "tech",
+      "market_id": "915770",
+      "slug": "spacex-ipo-closing-market-cap-above-2t-649-783",
+      "question": "SpaceX IPO closing market cap above $2T?",
+      "volume24hr_usd": 92212.11676799999,
+      "volume_total_usd": 1178296.5735340053,
+      "end_date": "2027-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 67.5,
+        "No": 32.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "2308023",
       "slug": "spacex-ipo-closing-market-cap-above-2pt8t",
       "question": "SpaceX IPO closing market cap above $2.8T?",
-      "volume24hr_usd": 89188.723527,
-      "volume_total_usd": 494284.2778930002,
+      "volume24hr_usd": 90088.66361300001,
+      "volume_total_usd": 495547.6714070003,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -147,13 +165,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "2308024",
       "slug": "spacex-ipo-closing-market-cap-above-2pt6t",
       "question": "SpaceX IPO closing market cap above $2.6T?",
-      "volume24hr_usd": 84371.68796600001,
-      "volume_total_usd": 696291.7254279999,
+      "volume24hr_usd": 86186.76643300001,
+      "volume_total_usd": 698411.7054279998,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -165,85 +183,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "1326787",
       "slug": "spacex-ipo-closing-market-cap-above-3t-337-436",
       "question": "SpaceX IPO closing market cap above $3T?",
-      "volume24hr_usd": 80844.46414699999,
-      "volume_total_usd": 1876105.4739769998,
+      "volume24hr_usd": 82648.37277399999,
+      "volume_total_usd": 1879452.1130189998,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 6.5,
-        "No": 93.5
+        "Yes": 5.5,
+        "No": 94.5
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "909466",
       "slug": "spacex-ipo-closing-market-cap-above-1t-274-469",
       "question": "SpaceX IPO closing market cap above $1T?",
-      "volume24hr_usd": 79375.23655899994,
-      "volume_total_usd": 761195.3718559993,
+      "volume24hr_usd": 77714.04565899992,
+      "volume_total_usd": 762658.9953959995,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 98.95,
-        "No": 1.05
+        "Yes": 99.15,
+        "No": 0.85
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
-      "category": "tech",
-      "market_id": "915770",
-      "slug": "spacex-ipo-closing-market-cap-above-2t-649-783",
-      "question": "SpaceX IPO closing market cap above $2T?",
-      "volume24hr_usd": 74194.93704099998,
-      "volume_total_usd": 1155271.9998820054,
-      "end_date": "2027-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 64.5,
-        "No": 35.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
-      "category": "tech",
-      "market_id": "631153",
-      "slug": "will-bytedance-have-the-best-ai-model-at-the-end-of-june-2026",
-      "question": "Will ByteDance have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 66223.95300000001,
-      "volume_total_usd": 676037.903000008,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "1326778",
       "slug": "spacex-ipo-closing-market-cap-above-2pt4t-574-858-552",
       "question": "SpaceX IPO closing market cap above $2.4T?",
-      "volume24hr_usd": 64884.026747,
-      "volume_total_usd": 908269.1520229987,
+      "volume24hr_usd": 69845.80429399999,
+      "volume_total_usd": 914042.1044789986,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -255,31 +237,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
-      "category": "tech",
-      "market_id": "915769",
-      "slug": "spacex-ipo-closing-market-cap-above-1pt6t-514-594-116",
-      "question": "SpaceX IPO closing market cap above $1.6T?",
-      "volume24hr_usd": 64775.28000400001,
-      "volume_total_usd": 565909.9592879995,
-      "end_date": "2027-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 92.6,
-        "No": 7.4
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "909467",
       "slug": "spacex-ipo-closing-market-cap-above-1pt4t-128-653",
       "question": "SpaceX IPO closing market cap above $1.4T?",
-      "volume24hr_usd": 63792.80227800001,
-      "volume_total_usd": 444172.5673429997,
+      "volume24hr_usd": 69837.32283700001,
+      "volume_total_usd": 450532.1506519997,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -291,103 +255,157 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
+      "category": "tech",
+      "market_id": "915769",
+      "slug": "spacex-ipo-closing-market-cap-above-1pt6t-514-594-116",
+      "question": "SpaceX IPO closing market cap above $1.6T?",
+      "volume24hr_usd": 64827.66453700001,
+      "volume_total_usd": 569846.7878229993,
+      "end_date": "2027-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 92.55,
+        "No": 7.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "909468",
       "slug": "spacex-ipo-closing-market-cap-above-1pt2t-797-138",
       "question": "SpaceX IPO closing market cap above $1.2T?",
-      "volume24hr_usd": 62875.596373999986,
-      "volume_total_usd": 491927.6745570002,
+      "volume24hr_usd": 62290.839724,
+      "volume_total_usd": 492119.9199060001,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 98.0,
-        "No": 2.0
+        "Yes": 98.05,
+        "No": 1.95
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
-      "category": "tech",
-      "market_id": "2473233",
-      "slug": "will-the-next-claude-mythos-model-added-to-the-arena-leaderboard-debut-at-a-score-of-at-least-1530",
-      "question": "Will the next Claude Mythos model added to the Arena Leaderboard debut at a score of at least 1530?",
-      "volume24hr_usd": 58184.773094,
-      "volume_total_usd": 75560.14239099999,
-      "end_date": "",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 98.0,
-        "No": 2.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
-      "category": "tech",
-      "market_id": "1326777",
-      "slug": "spacex-ipo-closing-market-cap-above-2pt2t-391-286-145",
-      "question": "SpaceX IPO closing market cap above $2.2T?",
-      "volume24hr_usd": 57496.572647,
-      "volume_total_usd": 551329.5957369995,
-      "end_date": "2027-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 41.5,
-        "No": 58.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "2308003",
       "slug": "spacex-ipo-closing-market-cap-above-4t",
       "question": "SpaceX IPO closing market cap above $4T?",
-      "volume24hr_usd": 51095.07233799998,
-      "volume_total_usd": 419480.4887809999,
+      "volume24hr_usd": 62163.68554899999,
+      "volume_total_usd": 431092.7619919997,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.35,
-        "No": 98.65
+        "Yes": 1.25,
+        "No": 98.75
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
-      "market_id": "656312",
-      "slug": "will-openai-ipo-by-december-31-2026",
-      "question": "Will OpenAI IPO by December 31 2026?",
-      "volume24hr_usd": 45387.929342,
-      "volume_total_usd": 693015.916017997,
+      "market_id": "1326777",
+      "slug": "spacex-ipo-closing-market-cap-above-2pt2t-391-286-145",
+      "question": "SpaceX IPO closing market cap above $2.2T?",
+      "volume24hr_usd": 59504.821364999996,
+      "volume_total_usd": 565028.4395729996,
+      "end_date": "2027-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 42.5,
+        "No": 57.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
+      "category": "tech",
+      "market_id": "2473233",
+      "slug": "will-the-next-claude-mythos-model-added-to-the-arena-leaderboard-debut-at-a-score-of-at-least-1530",
+      "question": "Will the next Claude Mythos model added to the Arena Leaderboard debut at a score of at least 1530?",
+      "volume24hr_usd": 58761.903093999994,
+      "volume_total_usd": 77177.68239099998,
       "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 41.0,
-        "No": 59.0
+        "Yes": 98.25,
+        "No": 1.75
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
+      "category": "tech",
+      "market_id": "631153",
+      "slug": "will-bytedance-have-the-best-ai-model-at-the-end-of-june-2026",
+      "question": "Will ByteDance have the best AI model at the end of June 2026?",
+      "volume24hr_usd": 48997.832,
+      "volume_total_usd": 676101.943000008,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
+      "category": "tech",
+      "market_id": "656312",
+      "slug": "will-openai-ipo-by-december-31-2026",
+      "question": "Will OpenAI IPO by December 31 2026?",
+      "volume24hr_usd": 45377.726782,
+      "volume_total_usd": 693108.2934579969,
+      "end_date": "",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 42.0,
+        "No": 58.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "631150",
       "slug": "will-meta-have-the-best-ai-model-at-the-end-of-june-2026",
       "question": "Will Meta have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 44920.673999999985,
-      "volume_total_usd": 769015.447593004,
+      "volume24hr_usd": 44178.03799999998,
+      "volume_total_usd": 769462.4805930039,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.2,
+        "No": 99.8
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
+      "category": "tech",
+      "market_id": "631142",
+      "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026",
+      "question": "Will Alibaba have the best AI model at the end of June 2026?",
+      "volume24hr_usd": 42076.798999999985,
+      "volume_total_usd": 855480.8831520076,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -399,67 +417,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
+      "category": "tech",
+      "market_id": "2473234",
+      "slug": "will-the-next-claude-mythos-model-added-to-the-arena-leaderboard-debut-at-a-score-of-at-least-1540",
+      "question": "Will the next Claude Mythos model added to the Arena Leaderboard debut at a score of at least 1540?",
+      "volume24hr_usd": 39042.45300499996,
+      "volume_total_usd": 61087.74416999998,
+      "end_date": "",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.75,
+        "No": 99.25
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "2446118",
       "slug": "will-any-other-model-be-the-best-ai-model-on-june-13-2026",
       "question": "Will any other model be the best AI model on June 13, 2026?",
-      "volume24hr_usd": 41390.96302799999,
-      "volume_total_usd": 56511.55184200004,
+      "volume24hr_usd": 38100.085491,
+      "volume_total_usd": 56630.518747000046,
       "end_date": "2026-06-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 18.2,
-        "No": 81.8
+        "Yes": 14.55,
+        "No": 85.45
       }
     },
     {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
-      "category": "tech",
-      "market_id": "631142",
-      "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026",
-      "question": "Will Alibaba have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 40186.53999999999,
-      "volume_total_usd": 852338.8641520075,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
-      "category": "tech",
-      "market_id": "2473234",
-      "slug": "will-the-next-claude-mythos-model-added-to-the-arena-leaderboard-debut-at-a-score-of-at-least-1540",
-      "question": "Will the next Claude Mythos model added to the Arena Leaderboard debut at a score of at least 1540?",
-      "volume24hr_usd": 39602.36390099997,
-      "volume_total_usd": 60680.71506599998,
-      "end_date": "",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.75,
-        "No": 98.25
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-11T13:26:01+00:00",
+      "captured_at_utc": "2026-06-11T15:14:16+00:00",
       "category": "tech",
       "market_id": "631144",
       "slug": "will-xai-have-the-best-ai-model-at-the-end-of-june-2026",
       "question": "Will xAI have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 38899.98,
-      "volume_total_usd": 1613708.1584409333,
+      "volume24hr_usd": 37270.101,
+      "volume_total_usd": 1613771.0054409334,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
