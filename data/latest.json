@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-06-12T11:20:21+00:00",
+  "captured_at_utc": "2026-06-12T13:15:40+00:00",
   "count": 26,
   "rows": [
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 30804.864502,
-      "volume_total_usd": 10160101.89558787,
+      "volume24hr_usd": 31440.663077999998,
+      "volume_total_usd": 10161779.235587873,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -21,13 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 3871.53981,
-      "volume_total_usd": 221140.6191739999,
+      "volume24hr_usd": 3360.342536,
+      "volume_total_usd": 221142.8918999999,
       "end_date": "2025-12-31",
       "options": [
         "Yes",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "world",
       "market_id": "1397269",
       "slug": "will-russia-capture-lyman-by-june-30-2026-413",
@@ -52,12 +52,30 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 7.0,
-        "No": 93.0
+        "Yes": 6.0,
+        "No": 94.0
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
+      "category": "world",
+      "market_id": "700881",
+      "slug": "will-israel-annex-any-territory-by-june-30",
+      "question": "Will Israel annex any territory by June 30?",
+      "volume24hr_usd": 30.0,
+      "volume_total_usd": 181305.5970410002,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 2.05,
+        "No": 97.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "world",
       "market_id": "644510",
       "slug": "spain-snap-election-called-by-june-30-2026",
@@ -75,25 +93,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
-      "category": "world",
-      "market_id": "700881",
-      "slug": "will-israel-annex-any-territory-by-june-30",
-      "question": "Will Israel annex any territory by June 30?",
-      "volume24hr_usd": 10.0,
-      "volume_total_usd": 181285.5970410002,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.05,
-        "No": 97.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -106,108 +106,90 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 16.0,
-        "No": 84.0
+        "Yes": 15.0,
+        "No": 85.0
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "915770",
       "slug": "spacex-ipo-closing-market-cap-above-2t-649-783",
       "question": "SpaceX IPO closing market cap above $2T?",
-      "volume24hr_usd": 326920.8011379999,
-      "volume_total_usd": 1462130.7208320077,
+      "volume24hr_usd": 391832.180043,
+      "volume_total_usd": 1536638.733947008,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 76.5,
-        "No": 23.5
+        "Yes": 76.0,
+        "No": 24.0
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "1326778",
       "slug": "spacex-ipo-closing-market-cap-above-2pt4t-574-858-552",
       "question": "SpaceX IPO closing market cap above $2.4T?",
-      "volume24hr_usd": 314020.8956149999,
-      "volume_total_usd": 1218569.9923759983,
+      "volume24hr_usd": 359020.207158,
+      "volume_total_usd": 1267285.3591809983,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 39.5,
-        "No": 60.5
+        "Yes": 37.0,
+        "No": 63.0
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "915771",
       "slug": "spacex-ipo-closing-market-cap-above-1pt8t-631-261",
       "question": "SpaceX IPO closing market cap above $1.8T?",
-      "volume24hr_usd": 283355.8756879998,
-      "volume_total_usd": 1325687.370488,
+      "volume24hr_usd": 318307.9457459999,
+      "volume_total_usd": 1374532.8041670003,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 89.5,
-        "No": 10.5
+        "Yes": 88.5,
+        "No": 11.5
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "1326777",
       "slug": "spacex-ipo-closing-market-cap-above-2pt2t-391-286-145",
       "question": "SpaceX IPO closing market cap above $2.2T?",
-      "volume24hr_usd": 242931.70302999977,
-      "volume_total_usd": 792565.7081670007,
+      "volume24hr_usd": 269636.7149829998,
+      "volume_total_usd": 820963.9297690009,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 59.5,
-        "No": 40.5
+        "Yes": 58.5,
+        "No": 41.5
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
-      "category": "tech",
-      "market_id": "915769",
-      "slug": "spacex-ipo-closing-market-cap-above-1pt6t-514-594-116",
-      "question": "SpaceX IPO closing market cap above $1.6T?",
-      "volume24hr_usd": 205666.275933,
-      "volume_total_usd": 761366.3217759997,
-      "end_date": "2027-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 95.5,
-        "No": 4.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "1326787",
       "slug": "spacex-ipo-closing-market-cap-above-3t-337-436",
       "question": "SpaceX IPO closing market cap above $3T?",
-      "volume24hr_usd": 180692.250967,
-      "volume_total_usd": 2055996.946735999,
+      "volume24hr_usd": 260534.16089300002,
+      "volume_total_usd": 2136576.71487,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
@@ -219,157 +201,211 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
+      "category": "tech",
+      "market_id": "915769",
+      "slug": "spacex-ipo-closing-market-cap-above-1pt6t-514-594-116",
+      "question": "SpaceX IPO closing market cap above $1.6T?",
+      "volume24hr_usd": 205155.8161500001,
+      "volume_total_usd": 771025.7754409998,
+      "end_date": "2027-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 95.05,
+        "No": 4.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "909466",
       "slug": "spacex-ipo-closing-market-cap-above-1t-274-469",
       "question": "SpaceX IPO closing market cap above $1T?",
-      "volume24hr_usd": 165108.36823599998,
-      "volume_total_usd": 920744.4425869993,
+      "volume24hr_usd": 181566.56464399994,
+      "volume_total_usd": 939214.8130819991,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 99.2,
-        "No": 0.8
+        "Yes": 99.4,
+        "No": 0.6
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
-      "category": "tech",
-      "market_id": "2308024",
-      "slug": "spacex-ipo-closing-market-cap-above-2pt6t",
-      "question": "SpaceX IPO closing market cap above $2.6T?",
-      "volume24hr_usd": 152579.65739100002,
-      "volume_total_usd": 833575.167221,
-      "end_date": "2027-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 21.5,
-        "No": 78.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "2308003",
       "slug": "spacex-ipo-closing-market-cap-above-4t",
       "question": "SpaceX IPO closing market cap above $4T?",
-      "volume24hr_usd": 144809.1469259998,
-      "volume_total_usd": 561426.5321079956,
+      "volume24hr_usd": 175540.9405999998,
+      "volume_total_usd": 594018.8776579956,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.4,
-        "No": 98.6
+        "Yes": 1.65,
+        "No": 98.35
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
+      "category": "tech",
+      "market_id": "2308024",
+      "slug": "spacex-ipo-closing-market-cap-above-2pt6t",
+      "question": "SpaceX IPO closing market cap above $2.6T?",
+      "volume24hr_usd": 156491.213365,
+      "volume_total_usd": 847524.30136,
+      "end_date": "2027-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 23.5,
+        "No": 76.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "909467",
       "slug": "spacex-ipo-closing-market-cap-above-1pt4t-128-653",
       "question": "SpaceX IPO closing market cap above $1.4T?",
-      "volume24hr_usd": 127858.39686,
-      "volume_total_usd": 569329.3337840001,
+      "volume24hr_usd": 136795.538831,
+      "volume_total_usd": 580531.4395100003,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 97.4,
-        "No": 2.6
+        "Yes": 97.55,
+        "No": 2.45
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "909468",
       "slug": "spacex-ipo-closing-market-cap-above-1pt2t-797-138",
       "question": "SpaceX IPO closing market cap above $1.2T?",
-      "volume24hr_usd": 118738.47243999995,
-      "volume_total_usd": 608640.9702690004,
+      "volume24hr_usd": 120088.21600999996,
+      "volume_total_usd": 610993.2651490009,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 98.7,
-        "No": 1.3
+        "Yes": 99.05,
+        "No": 0.95
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "2308023",
       "slug": "spacex-ipo-closing-market-cap-above-2pt8t",
       "question": "SpaceX IPO closing market cap above $2.8T?",
-      "volume24hr_usd": 78428.48873,
-      "volume_total_usd": 568713.6031980007,
+      "volume24hr_usd": 96329.766033,
+      "volume_total_usd": 589569.8139260004,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 12.5,
-        "No": 87.5
+        "Yes": 10.5,
+        "No": 89.5
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "1720655",
       "slug": "will-spacexs-market-cap-be-between-2pt0t-and-2pt5t-at-market-close-on-ipo-day",
       "question": "Will SpaceX's market cap be between $2.0T and $2.5T at market close on IPO day?",
-      "volume24hr_usd": 76967.100593,
-      "volume_total_usd": 313056.708258,
+      "volume24hr_usd": 84136.84354399994,
+      "volume_total_usd": 320866.99418600026,
       "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 58.5,
-        "No": 41.5
+        "Yes": 56.0,
+        "No": 44.0
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
+      "category": "tech",
+      "market_id": "1706878",
+      "slug": "will-elon-musk-buy-onlyfans",
+      "question": "Will Elon Musk buy OnlyFans?",
+      "volume24hr_usd": 73915.928985,
+      "volume_total_usd": 234912.6539549999,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.6,
+        "No": 99.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "2497554",
       "slug": "will-spacexs-opening-share-price-on-its-first-day-of-trading-be-at-least-250-20260609222205275",
       "question": "Will SpaceX’s opening share price on its first day of trading be at least $250?",
-      "volume24hr_usd": 62373.42529200001,
-      "volume_total_usd": 63176.811111,
+      "volume24hr_usd": 64735.00327999999,
+      "volume_total_usd": 65822.06368199999,
       "end_date": "2026-06-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.85,
-        "No": 99.15
+        "Yes": 4.1,
+        "No": 95.9
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
+      "category": "tech",
+      "market_id": "2308007",
+      "slug": "spacex-ipo-closing-market-cap-above-3pt4t",
+      "question": "SpaceX IPO closing market cap above $3.4T?",
+      "volume24hr_usd": 59754.417275,
+      "volume_total_usd": 183516.26614600004,
+      "end_date": "2027-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 5.05,
+        "No": 94.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "631181",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-june-30-824",
       "question": "Will NVIDIA be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 59462.98942699999,
-      "volume_total_usd": 2739579.502608951,
+      "volume24hr_usd": 59692.61953999999,
+      "volume_total_usd": 2740879.9007679513,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -381,93 +417,57 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
-      "market_id": "1720653",
-      "slug": "will-spacexs-market-cap-be-between-1pt0t-and-1pt5t-at-market-close-on-ipo-day",
-      "question": "Will SpaceX's market cap be between $1.0T and $1.5T at market close on IPO day?",
-      "volume24hr_usd": 53039.119329,
-      "volume_total_usd": 241111.98034799943,
-      "end_date": "",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 5.4,
-        "No": 94.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
-      "category": "tech",
-      "market_id": "1720658",
-      "slug": "will-spacexs-market-cap-be-at-least-3pt5t-at-market-close-on-ipo-day",
-      "question": "Will SpaceX's market cap be at least $3.5T at market close on IPO day?",
-      "volume24hr_usd": 45474.31086500001,
-      "volume_total_usd": 205375.84697799996,
-      "end_date": "",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 3.5,
-        "No": 96.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
-      "category": "tech",
-      "market_id": "1250810",
-      "slug": "will-spacexs-market-cap-be-greater-than-2pt0t-at-market-close-on-ipo-day-277",
-      "question": "Will SpaceX's market cap be greater than $2.0T at market close on IPO day?",
-      "volume24hr_usd": 41667.676795000014,
-      "volume_total_usd": 405532.42470800277,
+      "market_id": "2308008",
+      "slug": "spacex-ipo-closing-market-cap-above-3pt2t",
+      "question": "SpaceX IPO closing market cap above $3.2T?",
+      "volume24hr_usd": 54461.277194999995,
+      "volume_total_usd": 422719.627559,
       "end_date": "2027-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 77.0,
-        "No": 23.0
+        "Yes": 6.0,
+        "No": 94.0
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
       "market_id": "1720656",
       "slug": "will-spacexs-market-cap-be-between-2pt5t-and-3pt0t-at-market-close-on-ipo-day",
       "question": "Will SpaceX's market cap be between $2.5T and $3.0T at market close on IPO day?",
-      "volume24hr_usd": 40635.823519000005,
-      "volume_total_usd": 955442.6115200006,
+      "volume24hr_usd": 53549.902683,
+      "volume_total_usd": 969321.5518340006,
       "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 13.45,
-        "No": 86.55
+        "Yes": 19.2,
+        "No": 80.8
       }
     },
     {
-      "captured_at_utc": "2026-06-12T11:20:21+00:00",
+      "captured_at_utc": "2026-06-12T13:15:40+00:00",
       "category": "tech",
-      "market_id": "2308007",
-      "slug": "spacex-ipo-closing-market-cap-above-3pt4t",
-      "question": "SpaceX IPO closing market cap above $3.4T?",
-      "volume24hr_usd": 40479.825334,
-      "volume_total_usd": 158155.834205,
-      "end_date": "2027-12-31",
+      "market_id": "1720653",
+      "slug": "will-spacexs-market-cap-be-between-1pt0t-and-1pt5t-at-market-close-on-ipo-day",
+      "question": "Will SpaceX's market cap be between $1.0T and $1.5T at market close on IPO day?",
+      "volume24hr_usd": 53468.223299,
+      "volume_total_usd": 243180.8343179994,
+      "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 5.55,
-        "No": 94.45
+        "Yes": 3.25,
+        "No": 96.75
       }
     }
   ]
