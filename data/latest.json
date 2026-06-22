@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-06-22T13:03:29+00:00",
+  "captured_at_utc": "2026-06-22T15:42:15+00:00",
   "count": 26,
   "rows": [
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 19243.196651,
-      "volume_total_usd": 10453438.418134889,
+      "volume24hr_usd": 19791.471952,
+      "volume_total_usd": 10454245.513435889,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -34,17 +34,17 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 13.0,
-        "No": 87.0
+        "Yes": 13.5,
+        "No": 86.5
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "world",
       "market_id": "1397269",
       "slug": "will-russia-capture-lyman-by-june-30-2026-413",
       "question": "Will Russia capture Lyman by June 30, 2026?",
-      "volume24hr_usd": 2581.237315,
+      "volume24hr_usd": 2552.360315,
       "volume_total_usd": 328831.6236699993,
       "end_date": "2025-12-31",
       "options": [
@@ -52,35 +52,53 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 6.3,
-        "No": 93.7
+        "Yes": 6.35,
+        "No": 93.65
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "world",
       "market_id": "644510",
       "slug": "spain-snap-election-called-by-june-30-2026",
       "question": "Spain snap election called by June 30, 2026?",
-      "volume24hr_usd": 987.186018,
-      "volume_total_usd": 83099.40305899995,
+      "volume24hr_usd": 1092.426018,
+      "volume_total_usd": 83204.64305899995,
       "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.55,
-        "No": 95.45
+        "Yes": 4.5,
+        "No": 95.5
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
+      "category": "world",
+      "market_id": "700881",
+      "slug": "will-israel-annex-any-territory-by-june-30",
+      "question": "Will Israel annex any territory by June 30?",
+      "volume24hr_usd": 1075.08,
+      "volume_total_usd": 183881.69696500018,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.7,
+        "No": 99.3
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 565.802768,
+      "volume24hr_usd": 413.11276799999996,
       "volume_total_usd": 257618.53385300015,
       "end_date": "2025-12-31",
       "options": [
@@ -93,49 +111,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
-      "category": "world",
-      "market_id": "700881",
-      "slug": "will-israel-annex-any-territory-by-june-30",
-      "question": "Will Israel annex any territory by June 30?",
-      "volume24hr_usd": 548.75,
-      "volume_total_usd": 183355.3669650002,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.35,
-        "No": 99.65
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "2268863",
       "slug": "will-gpt-5pt6-be-released-between-june-22-and-june-28-2026",
       "question": "Will GPT-5.6 be released between June 22 and June 28, 2026?",
-      "volume24hr_usd": 72610.747891,
-      "volume_total_usd": 169906.1803889996,
+      "volume24hr_usd": 76338.78960600003,
+      "volume_total_usd": 175652.27277999962,
       "end_date": "2026-06-28",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 30.7,
-        "No": 69.3
+        "Yes": 34.25,
+        "No": 65.75
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "1321570",
       "slug": "will-revolut-have-the-highest-ipo-market-cap-2026-963",
       "question": "Will Revolut have the highest IPO Market Cap 2026?",
-      "volume24hr_usd": 71710.0,
-      "volume_total_usd": 220497.966629,
+      "volume24hr_usd": 71740.0,
+      "volume_total_usd": 234347.966629,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -147,49 +147,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "2534929",
       "slug": "will-claude-fable-5-be-restored-for-us-customers-by-july-1-20260613193829179-129-881-748-432-345",
       "question": "Will Claude Fable 5 be restored for US customers by July 1?",
-      "volume24hr_usd": 68938.05611100003,
-      "volume_total_usd": 516433.9985640003,
+      "volume24hr_usd": 63784.878452000004,
+      "volume_total_usd": 522591.78846200014,
       "end_date": "2026-07-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 39.0,
-        "No": 61.0
+        "Yes": 38.0,
+        "No": 62.0
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "2268864",
       "slug": "will-gpt-5pt6-not-be-released-by-june-28-2026",
       "question": "Will GPT-5.6 not be released by June 28, 2026?",
-      "volume24hr_usd": 58903.57345599997,
-      "volume_total_usd": 166686.57257599998,
+      "volume24hr_usd": 60226.69937099997,
+      "volume_total_usd": 170227.69949399997,
       "end_date": "2026-06-28",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 68.3,
-        "No": 31.7
+        "Yes": 63.85,
+        "No": 36.15
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "631185",
       "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
       "question": "Will Tesla be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 50662.14,
-      "volume_total_usd": 4071464.7897499697,
+      "volume24hr_usd": 51688.16,
+      "volume_total_usd": 4072490.8097499697,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -201,49 +201,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
-      "category": "tech",
-      "market_id": "631141",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-june-2026",
-      "question": "Will OpenAI have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 46224.10719899999,
-      "volume_total_usd": 1378944.4551719953,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.65,
-        "No": 97.35
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "631140",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-june-2026",
       "question": "Will Anthropic have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 45763.52417600001,
-      "volume_total_usd": 2073900.3659640038,
+      "volume24hr_usd": 49869.01812400001,
+      "volume_total_usd": 2084341.2385810039,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 93.0,
-        "No": 7.0
+        "Yes": 93.7,
+        "No": 6.3
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
+      "category": "tech",
+      "market_id": "2534928",
+      "slug": "will-claude-fable-5-be-restored-for-us-customers-by-june-22-20260613193829178-738-167-332-255",
+      "question": "Will Claude Fable 5 be restored for US customers by June 22?",
+      "volume24hr_usd": 49669.627591,
+      "volume_total_usd": 366906.1086970002,
+      "end_date": "2026-06-22",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 6.75,
+        "No": 93.25
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "631181",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-june-30-824",
       "question": "Will NVIDIA be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 42798.04859900002,
-      "volume_total_usd": 3298723.2174689374,
+      "volume24hr_usd": 48681.51205700003,
+      "volume_total_usd": 3306994.5743299373,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -255,31 +255,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
-      "market_id": "631139",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-june-2026",
-      "question": "Will Google have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 38776.214674,
-      "volume_total_usd": 1422347.1325720085,
+      "market_id": "631184",
+      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
+      "question": "Will Alphabet be the largest company in the world by market cap on June 30?",
+      "volume24hr_usd": 47638.391832999994,
+      "volume_total_usd": 2288427.3681120137,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.05,
-        "No": 95.95
+        "Yes": 0.25,
+        "No": 99.75
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
+      "category": "tech",
+      "market_id": "631139",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-june-2026",
+      "question": "Will Google have the best AI model at the end of June 2026?",
+      "volume24hr_usd": 42072.63322400001,
+      "volume_total_usd": 1436053.9428010087,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 5.1,
+        "No": 94.9
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "631144",
       "slug": "will-xai-have-the-best-ai-model-at-the-end-of-june-2026",
       "question": "Will xAI have the best AI model at the end of June 2026?",
-      "volume24hr_usd": 34534.70700000002,
-      "volume_total_usd": 2031890.661182941,
+      "volume24hr_usd": 38391.176,
+      "volume_total_usd": 2040546.0641829406,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -291,43 +309,43 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
-      "market_id": "2534928",
-      "slug": "will-claude-fable-5-be-restored-for-us-customers-by-june-22-20260613193829178-738-167-332-255",
-      "question": "Will Claude Fable 5 be restored for US customers by June 22?",
-      "volume24hr_usd": 33847.59065299999,
-      "volume_total_usd": 345957.5446590006,
-      "end_date": "2026-06-22",
+      "market_id": "631141",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-june-2026",
+      "question": "Will OpenAI have the best AI model at the end of June 2026?",
+      "volume24hr_usd": 36860.248809,
+      "volume_total_usd": 1379540.5984389957,
+      "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.5,
-        "No": 95.5
+        "Yes": 1.6,
+        "No": 98.4
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
-      "market_id": "2556162",
-      "slug": "will-claude-fable-5-be-restored-for-us-customers-by-june-26",
-      "question": "Will Claude Fable 5 be restored for US customers by June 26?",
-      "volume24hr_usd": 26617.879124999927,
-      "volume_total_usd": 173960.3287349987,
-      "end_date": "2026-06-26",
+      "market_id": "2298906",
+      "slug": "will-spacexs-valuation-hit-high-4pt0t-by-june-30",
+      "question": "Will SpaceX's valuation hit (HIGH) $4.0T by June 30?",
+      "volume24hr_usd": 23074.713725999998,
+      "volume_total_usd": 293669.22981900006,
+      "end_date": "2026-07-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 24.5,
-        "No": 75.5
+        "Yes": 0.45,
+        "No": 99.55
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "631187",
       "slug": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-june-30-123",
@@ -345,129 +363,111 @@
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "608410",
       "slug": "will-anthropic-not-ipo-by-june-30-2026",
       "question": "Will Anthropic not IPO by June 30, 2026?",
-      "volume24hr_usd": 21486.123941,
-      "volume_total_usd": 375415.38956700184,
+      "volume24hr_usd": 21674.234727,
+      "volume_total_usd": 375662.7638530019,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 99.6,
-        "No": 0.4
+        "Yes": 99.75,
+        "No": 0.25
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
-      "market_id": "2100069",
-      "slug": "gpt-5pt6-released-by-june-30-2026-522-692-467",
-      "question": "GPT-5.6 released by June 30, 2026?",
-      "volume24hr_usd": 19139.469016999996,
-      "volume_total_usd": 205033.62650900005,
-      "end_date": "2026-06-30",
+      "market_id": "2556162",
+      "slug": "will-claude-fable-5-be-restored-for-us-customers-by-june-26",
+      "question": "Will Claude Fable 5 be restored for US customers by June 26?",
+      "volume24hr_usd": 21218.85373499999,
+      "volume_total_usd": 178567.95404699873,
+      "end_date": "2026-06-26",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 46.0,
-        "No": 54.0
+        "Yes": 27.0,
+        "No": 73.0
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
-      "category": "tech",
-      "market_id": "2298906",
-      "slug": "will-spacexs-valuation-hit-high-4pt0t-by-june-30",
-      "question": "Will SpaceX's valuation hit (HIGH) $4.0T by June 30?",
-      "volume24hr_usd": 17840.609710999997,
-      "volume_total_usd": 288216.04580400005,
-      "end_date": "2026-07-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.5,
-        "No": 99.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
       "market_id": "2298911",
       "slug": "will-spacexs-valuation-hit-high-3pt0t-by-june-30",
       "question": "Will SpaceX's valuation hit (HIGH) $3.0T by June 30?",
-      "volume24hr_usd": 17553.199683000003,
-      "volume_total_usd": 393858.67916299996,
+      "volume24hr_usd": 21051.979611999996,
+      "volume_total_usd": 399026.99269399996,
       "end_date": "2026-07-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 7.85,
-        "No": 92.15
+        "Yes": 4.7,
+        "No": 95.3
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
-      "market_id": "2430338",
-      "slug": "will-amazon-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will Amazon have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 14650.326000000003,
-      "volume_total_usd": 68636.44416199994,
-      "end_date": "2026-07-31",
+      "market_id": "2477200",
+      "slug": "spacex-ipo-closing-price-updown-end-of-first-month-20260608182738233",
+      "question": "SpaceX IPO: Closing Price Up/Down End of First Month?",
+      "volume24hr_usd": 20015.070268,
+      "volume_total_usd": 146714.387072,
+      "end_date": "2026-07-01",
+      "options": [
+        "Up",
+        "Down"
+      ],
+      "results_pct": {
+        "Up": 73.5,
+        "Down": 26.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
+      "category": "tech",
+      "market_id": "2482977",
+      "slug": "will-spacexs-market-cap-be-between-2pt5t-and-3pt0t-at-market-close-on-last-trading-day-of-ipo-month-20260606222847122",
+      "question": "Will SpaceX's market cap be between $2.5T and $3.0T at market close on last trading day of IPO month?",
+      "volume24hr_usd": 19614.716455000013,
+      "volume_total_usd": 140635.60660900007,
+      "end_date": "2026-07-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
+        "Yes": 12.95,
+        "No": 87.05
       }
     },
     {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
+      "captured_at_utc": "2026-06-22T15:42:15+00:00",
       "category": "tech",
-      "market_id": "2430326",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will Google have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 14435.356913999998,
-      "volume_total_usd": 62534.11308399996,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 10.85,
-        "No": 89.15
-      }
-    },
-    {
-      "captured_at_utc": "2026-06-22T13:03:29+00:00",
-      "category": "tech",
-      "market_id": "631183",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-june-30-416",
-      "question": "Will Apple be the largest company in the world by market cap on June 30?",
-      "volume24hr_usd": 13638.834657,
-      "volume_total_usd": 2230199.833313004,
+      "market_id": "2270168",
+      "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-june-30-883",
+      "question": "Will Alphabet be the second-largest company in the world by market cap on June 30?",
+      "volume24hr_usd": 17470.384022,
+      "volume_total_usd": 114369.0586629998,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.45,
-        "No": 99.55
+        "Yes": 26.0,
+        "No": 74.0
       }
     }
   ]
