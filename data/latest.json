@@ -1,104 +1,86 @@
 {
-  "captured_at_utc": "2026-07-02T12:08:38+00:00",
+  "captured_at_utc": "2026-07-02T15:15:24+00:00",
   "count": 26,
   "rows": [
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 107266.20645499995,
-      "volume_total_usd": 10906318.153570894,
+      "volume24hr_usd": 75576.299431,
+      "volume_total_usd": 10910484.636546895,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 5.55,
-        "No": 94.45
+        "Yes": 5.45,
+        "No": 94.55
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
-      "category": "world",
-      "market_id": "700881",
-      "slug": "will-israel-annex-any-territory-by-june-30",
-      "question": "Will Israel annex any territory by June 30?",
-      "volume24hr_usd": 4828.805323,
-      "volume_total_usd": 190876.82422800054,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
       "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 1608.340102,
-      "volume_total_usd": 11235.911483,
+      "volume24hr_usd": 2947.068429,
+      "volume_total_usd": 12862.920403999999,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 32.0,
-        "No": 68.0
+        "Yes": 28.5,
+        "No": 71.5
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "world",
       "market_id": "2676035",
       "slug": "spain-snap-election-called-by-august-31-2026-20260624205647682",
       "question": "Spain snap election called by August 31, 2026?",
-      "volume24hr_usd": 516.613816,
-      "volume_total_usd": 3008.1622730000004,
+      "volume24hr_usd": 562.613816,
+      "volume_total_usd": 3054.1622730000004,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 7.0,
-        "No": 93.0
+        "Yes": 6.0,
+        "No": 94.0
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 437.658985,
-      "volume_total_usd": 337126.19611000014,
+      "volume24hr_usd": 466.10138200000006,
+      "volume_total_usd": 337372.81850700016,
       "end_date": "2025-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 63.0,
-        "No": 37.0
+        "Yes": 62.5,
+        "No": 37.5
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
       "question": "Will Israel annex any territory by December 31?",
-      "volume24hr_usd": 60.0,
+      "volume24hr_usd": 12.1,
       "volume_total_usd": 25696.59653000002,
       "end_date": "2026-12-31",
       "options": [
@@ -111,13 +93,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
+      "category": "world",
+      "market_id": "700881",
+      "slug": "will-israel-annex-any-territory-by-june-30",
+      "question": "Will Israel annex any territory by June 30?",
+      "volume24hr_usd": 9.94,
+      "volume_total_usd": 190876.82422800054,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2673621",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
       "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 111916.54968400004,
-      "volume_total_usd": 272323.26856599917,
+      "volume24hr_usd": 126545.41467800002,
+      "volume_total_usd": 341820.1873459991,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -129,13 +129,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
+      "category": "tech",
+      "market_id": "1846801",
+      "slug": "will-tesla-deliver-475000-or-more-vehicles-in-q2-2026",
+      "question": "Will Tesla deliver 475000 or more vehicles in Q2 2026",
+      "volume24hr_usd": 101517.416727,
+      "volume_total_usd": 237272.40899299984,
+      "end_date": "2026-06-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.65,
+        "No": 0.35
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2584948",
       "slug": "will-claude-mythos-5-be-restored-for-us-customers-by-june-30-20260613213553562",
       "question": "Will Claude Mythos 5 be restored for US customers by June 30?",
-      "volume24hr_usd": 80920.144016,
-      "volume_total_usd": 258863.7419869996,
+      "volume24hr_usd": 96418.350779,
+      "volume_total_usd": 281755.9719869997,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
@@ -147,13 +165,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2430332",
       "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will DeepSeek have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 40990.491999999984,
-      "volume_total_usd": 234757.3269280001,
+      "volume24hr_usd": 55407.102999999974,
+      "volume_total_usd": 250239.061928,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -165,157 +183,103 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
-      "category": "tech",
-      "market_id": "2658038",
-      "slug": "gpt-5pt6-released-by-july-6-2026",
-      "question": "GPT-5.6 released by July 6, 2026?",
-      "volume24hr_usd": 40048.925899,
-      "volume_total_usd": 162703.85011499992,
-      "end_date": "2026-07-06",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 6.3,
-        "No": 93.7
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
-      "category": "tech",
-      "market_id": "2430326",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will Google have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 39355.53163700001,
-      "volume_total_usd": 237779.64696900008,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 9.55,
-        "No": 90.45
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2430327",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Anthropic have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 39223.86163200001,
-      "volume_total_usd": 273707.5558480005,
+      "volume24hr_usd": 47689.26526700004,
+      "volume_total_usd": 291633.0507220006,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 87.5,
-        "No": 12.5
+        "Yes": 90.5,
+        "No": 9.5
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
+      "category": "tech",
+      "market_id": "2430336",
+      "slug": "will-microsoft-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will Microsoft have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 46702.03999999998,
+      "volume_total_usd": 238823.79640000034,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
+      "category": "tech",
+      "market_id": "2430326",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will Google have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 46120.324107,
+      "volume_total_usd": 253417.31422500007,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 7.85,
+        "No": 92.15
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2648798",
       "slug": "gpt-5pt6-released-by-july-3-2026",
       "question": "GPT-5.6 released by July 3, 2026?",
-      "volume24hr_usd": 37278.89494400001,
-      "volume_total_usd": 126997.63316300003,
+      "volume24hr_usd": 45929.38849300001,
+      "volume_total_usd": 137169.92021,
       "end_date": "2026-07-03",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.25,
-        "No": 97.75
+        "Yes": 1.45,
+        "No": 98.55
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
-      "category": "tech",
-      "market_id": "1846801",
-      "slug": "will-tesla-deliver-475000-or-more-vehicles-in-q2-2026",
-      "question": "Will Tesla deliver 475000 or more vehicles in Q2 2026",
-      "volume24hr_usd": 36590.027906999996,
-      "volume_total_usd": 167320.01819999985,
-      "end_date": "2026-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 56.65,
-        "No": 43.35
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
-      "category": "tech",
-      "market_id": "2430336",
-      "slug": "will-microsoft-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will Microsoft have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 34525.32399999999,
-      "volume_total_usd": 223180.86240000042,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2430328",
       "slug": "will-openai-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will OpenAI have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 32385.19006900001,
-      "volume_total_usd": 275986.6353400004,
+      "volume24hr_usd": 45664.021414999996,
+      "volume_total_usd": 294480.6869540008,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.35,
-        "No": 97.65
+        "Yes": 1.5,
+        "No": 98.5
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
-      "category": "tech",
-      "market_id": "2649066",
-      "slug": "will-gpt-5pt6-be-released-on-july-7-2026-20260623051440908",
-      "question": "Will GPT-5.6 be released on July 7, 2026?",
-      "volume24hr_usd": 31396.287221,
-      "volume_total_usd": 64707.91322800001,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 70.5,
-        "No": 29.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2430339",
       "slug": "will-baidu-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Baidu have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 28695.32800000001,
-      "volume_total_usd": 203122.1754670001,
+      "volume24hr_usd": 43322.283,
+      "volume_total_usd": 218628.01046700007,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -327,13 +291,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2430333",
       "slug": "will-moonshot-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Moonshot have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 28331.22900000001,
-      "volume_total_usd": 215077.8980770003,
+      "volume24hr_usd": 42840.346000000005,
+      "volume_total_usd": 230616.1190770002,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -345,31 +309,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
-      "category": "tech",
-      "market_id": "2430331",
-      "slug": "will-xai-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will xAI have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 27855.092500000013,
-      "volume_total_usd": 273589.67585200013,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.45,
-        "No": 99.55
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2430330",
       "slug": "will-zai-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Z.ai have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 26131.21400000001,
-      "volume_total_usd": 242024.8835750002,
+      "volume24hr_usd": 40320.423,
+      "volume_total_usd": 257339.81957500018,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -381,31 +327,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
-      "category": "tech",
-      "market_id": "676739",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 25681.752708000007,
-      "volume_total_usd": 717841.511856008,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 65.5,
-        "No": 34.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2430337",
       "slug": "will-meta-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Meta have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 25569.892000000007,
-      "volume_total_usd": 254599.76755700007,
+      "volume24hr_usd": 39906.975999999995,
+      "volume_total_usd": 269736.29855700006,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -417,13 +345,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2430335",
       "slug": "will-meituan-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Meituan have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 25447.954000000005,
-      "volume_total_usd": 193969.32839800013,
+      "volume24hr_usd": 39729.481,
+      "volume_total_usd": 209106.41839800007,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -435,31 +363,85 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
+      "category": "tech",
+      "market_id": "2658038",
+      "slug": "gpt-5pt6-released-by-july-6-2026",
+      "question": "GPT-5.6 released by July 6, 2026?",
+      "volume24hr_usd": 39090.193653,
+      "volume_total_usd": 163072.58592999988,
+      "end_date": "2026-07-06",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 6.4,
+        "No": 93.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
+      "category": "tech",
+      "market_id": "2430331",
+      "slug": "will-xai-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will xAI have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 38318.38283200001,
+      "volume_total_usd": 288531.9109340003,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.25,
+        "No": 99.75
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
+      "category": "tech",
+      "market_id": "2430329",
+      "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will Alibaba have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 36969.50199999999,
+      "volume_total_usd": 238636.42024700035,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
       "market_id": "2363609",
       "slug": "trump-orders-federal-review-of-ai-model-releases-by-june-30",
       "question": "Trump orders federal review of AI model releases by June 30?",
-      "volume24hr_usd": 25398.814671,
-      "volume_total_usd": 212077.81448800137,
+      "volume24hr_usd": 36941.834671,
+      "volume_total_usd": 224158.3344880014,
       "end_date": "2026-06-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.4,
-        "No": 98.6
+        "Yes": 1.05,
+        "No": 98.95
       }
     },
     {
-      "captured_at_utc": "2026-07-02T12:08:38+00:00",
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
       "category": "tech",
-      "market_id": "2430329",
-      "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will Alibaba have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 22825.80900000001,
-      "volume_total_usd": 223397.6502470004,
+      "market_id": "2430340",
+      "slug": "will-bytedance-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will ByteDance have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 36679.350000000006,
+      "volume_total_usd": 227184.8106780004,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -468,6 +450,24 @@
       "results_pct": {
         "Yes": 0.15,
         "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-02T15:15:24+00:00",
+      "category": "tech",
+      "market_id": "2649066",
+      "slug": "will-gpt-5pt6-be-released-on-july-7-2026-20260623051440908",
+      "question": "Will GPT-5.6 be released on July 7, 2026?",
+      "volume24hr_usd": 30571.915044,
+      "volume_total_usd": 67660.11195900003,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 66.0,
+        "No": 34.0
       }
     }
   ]
