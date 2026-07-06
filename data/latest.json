@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-07-06T16:20:32+00:00",
+  "captured_at_utc": "2026-07-06T18:54:34+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 16555.70026,
-      "volume_total_usd": 10990122.808241911,
+      "volume24hr_usd": 16776.37026,
+      "volume_total_usd": 10990592.808241911,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -21,31 +21,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
       "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 3931.521031999999,
-      "volume_total_usd": 19384.34643800002,
+      "volume24hr_usd": 2973.4407679999995,
+      "volume_total_usd": 20708.17643800002,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 25.5,
-        "No": 74.5
+        "Yes": 30.0,
+        "No": 70.0
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 1170.258987,
-      "volume_total_usd": 348405.6617710002,
+      "volume24hr_usd": 245.56898700000002,
+      "volume_total_usd": 348452.1517710002,
       "end_date": "2025-12-31",
       "options": [
         "Yes",
@@ -57,25 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
-      "category": "world",
-      "market_id": "2676035",
-      "slug": "spain-snap-election-called-by-august-31-2026-20260624205647682",
-      "question": "Spain snap election called by August 31, 2026?",
-      "volume24hr_usd": 50.0,
-      "volume_total_usd": 3254.1622730000004,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 4.5,
-        "No": 95.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -93,138 +75,120 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
+      "category": "world",
+      "market_id": "2676035",
+      "slug": "spain-snap-election-called-by-august-31-2026-20260624205647682",
+      "question": "Spain snap election called by August 31, 2026?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 3254.1622730000004,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 4.5,
+        "No": 95.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
       "market_id": "2658038",
       "slug": "gpt-5pt6-released-by-july-6-2026",
       "question": "GPT-5.6 released by July 6, 2026?",
-      "volume24hr_usd": 84732.03237500001,
-      "volume_total_usd": 333521.31183099945,
+      "volume24hr_usd": 96956.44607500001,
+      "volume_total_usd": 346529.74848199944,
       "end_date": "2026-07-06",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.4,
-        "No": 99.6
+        "Yes": 0.2,
+        "No": 99.8
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
       "market_id": "2760614",
       "slug": "gpt-5pt6-released-by-july-7-2026",
       "question": "GPT-5.6 released by July 7, 2026?",
-      "volume24hr_usd": 57820.879048999996,
-      "volume_total_usd": 130383.10857999999,
+      "volume24hr_usd": 57045.84891800001,
+      "volume_total_usd": 132638.98050099998,
       "end_date": "2026-07-07",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 14.0,
-        "No": 86.0
+        "Yes": 11.5,
+        "No": 88.5
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
       "market_id": "2673621",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
       "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 46649.291431,
-      "volume_total_usd": 569849.5915279991,
+      "volume24hr_usd": 44361.199418,
+      "volume_total_usd": 573382.874440999,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 78.5,
-        "No": 21.5
+        "Yes": 79.5,
+        "No": 20.5
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
       "market_id": "2430327",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Anthropic have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 42631.608559999986,
-      "volume_total_usd": 453875.25943499844,
+      "volume24hr_usd": 39052.68718899998,
+      "volume_total_usd": 455650.92459899845,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 84.5,
-        "No": 15.5
+        "Yes": 85.0,
+        "No": 15.0
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
-      "category": "tech",
-      "market_id": "2430328",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will OpenAI have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 34156.454489,
-      "volume_total_usd": 432242.91880700033,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 3.75,
-        "No": 96.25
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
       "market_id": "2658039",
       "slug": "gpt-5pt6-released-by-july-8-2026-789",
       "question": "GPT-5.6 released by July 8, 2026?",
-      "volume24hr_usd": 32538.45490600001,
-      "volume_total_usd": 141665.90459999983,
+      "volume24hr_usd": 32593.893371,
+      "volume_total_usd": 142614.05979899986,
       "end_date": "2026-07-08",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 17.0,
-        "No": 83.0
+        "Yes": 18.5,
+        "No": 81.5
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
-      "category": "tech",
-      "market_id": "2649068",
-      "slug": "will-gpt-5pt6-be-released-on-july-9-2026-20260623051440910",
-      "question": "Will GPT-5.6 be released on July 9, 2026?",
-      "volume24hr_usd": 31843.763669999993,
-      "volume_total_usd": 78890.09285299994,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 62.5,
-        "No": 37.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
       "market_id": "1831769",
       "slug": "will-any-ai-model-reach-1560-coding-arena-score-by-december-31-2026",
       "question": "Will any AI model reach 1560 Coding Arena Score by December 31, 2026?",
-      "volume24hr_usd": 30608.893318000002,
+      "volume24hr_usd": 30278.693318,
       "volume_total_usd": 57540.47655300006,
       "end_date": "2026-12-31",
       "options": [
@@ -232,126 +196,126 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 50.5,
-        "No": 49.5
+        "Yes": 46.0,
+        "No": 54.0
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
-      "market_id": "2100070",
-      "slug": "gpt-5pt6-released-by-july-31-2026-454-326-913-252-967-594-228-346-674-229-357",
-      "question": "GPT-5.6 released by July 31, 2026?",
-      "volume24hr_usd": 27443.20031499999,
-      "volume_total_usd": 554924.8896519986,
+      "market_id": "2430331",
+      "slug": "will-xai-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will xAI have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 29678.157497999997,
+      "volume_total_usd": 403419.42771600053,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 96.65,
-        "No": 3.35
+        "Yes": 0.35,
+        "No": 99.65
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
+      "category": "tech",
+      "market_id": "2649068",
+      "slug": "will-gpt-5pt6-be-released-on-july-9-2026-20260623051440910",
+      "question": "Will GPT-5.6 be released on July 9, 2026?",
+      "volume24hr_usd": 29499.227102,
+      "volume_total_usd": 80962.10450999993,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 63.0,
+        "No": 37.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
+      "category": "tech",
+      "market_id": "2430328",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will OpenAI have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 29079.62874500001,
+      "volume_total_usd": 435210.9627320003,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 2.95,
+        "No": 97.05
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
       "market_id": "2760620",
       "slug": "gpt-5pt6-released-by-july-9-2026",
       "question": "GPT-5.6 released by July 9, 2026?",
-      "volume24hr_usd": 24981.076796,
-      "volume_total_usd": 64593.71325799995,
+      "volume24hr_usd": 27023.001179000003,
+      "volume_total_usd": 68574.50138199994,
       "end_date": "2026-07-09",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 77.5,
-        "No": 22.5
+        "Yes": 75.5,
+        "No": 24.5
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
-      "market_id": "1831351",
-      "slug": "will-any-ai-model-reach-1510-overall-arena-score-by-september-30-2026",
-      "question": "Will any AI model reach 1510 Overall Arena Score by September 30, 2026?",
-      "volume24hr_usd": 23456.228906,
-      "volume_total_usd": 38536.30229200003,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 41.5,
-        "No": 58.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
-      "category": "tech",
-      "market_id": "2649066",
-      "slug": "will-gpt-5pt6-be-released-on-july-7-2026-20260623051440908",
-      "question": "Will GPT-5.6 be released on July 7, 2026?",
-      "volume24hr_usd": 22078.03974300001,
-      "volume_total_usd": 182840.62345699975,
+      "market_id": "2100070",
+      "slug": "gpt-5pt6-released-by-july-31-2026-454-326-913-252-967-594-228-346-674-229-357",
+      "question": "GPT-5.6 released by July 31, 2026?",
+      "volume24hr_usd": 25719.461553999987,
+      "volume_total_usd": 555717.3083229988,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 14.55,
-        "No": 85.45
+        "Yes": 96.45,
+        "No": 3.55
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
-      "market_id": "2668022",
-      "slug": "will-the-next-gpt-model-released-by-openai-debut-at-a-score-of-at-least-1490-by-december-31-2026",
-      "question": "Will the next GPT model released by OpenAI debut at a score of at least 1490 by December 31, 2026?",
-      "volume24hr_usd": 21278.144709,
-      "volume_total_usd": 34608.771543999996,
-      "end_date": "2026-12-31",
+      "market_id": "1831351",
+      "slug": "will-any-ai-model-reach-1510-overall-arena-score-by-september-30-2026",
+      "question": "Will any AI model reach 1510 Overall Arena Score by September 30, 2026?",
+      "volume24hr_usd": 24743.978906,
+      "volume_total_usd": 39824.05229200003,
+      "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 20.5,
-        "No": 79.5
+        "Yes": 36.5,
+        "No": 63.5
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
-      "category": "tech",
-      "market_id": "2648866",
-      "slug": "gpt-5pt6-released-by-july-10-2026-416-792",
-      "question": "GPT-5.6 released by July 10, 2026?",
-      "volume24hr_usd": 21083.128681000006,
-      "volume_total_usd": 135935.74216099983,
-      "end_date": "2026-07-10",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 81.0,
-        "No": 19.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
       "market_id": "2430337",
       "slug": "will-meta-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Meta have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 19081.287,
-      "volume_total_usd": 394033.8050570003,
+      "volume24hr_usd": 23347.015000000007,
+      "volume_total_usd": 399317.86305700033,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -363,61 +327,97 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
-      "market_id": "2430326",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will Google have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 18707.036829,
-      "volume_total_usd": 379477.26161799906,
+      "market_id": "2648866",
+      "slug": "gpt-5pt6-released-by-july-10-2026-416-792",
+      "question": "GPT-5.6 released by July 10, 2026?",
+      "volume24hr_usd": 22061.891891000003,
+      "volume_total_usd": 137285.8278349999,
+      "end_date": "2026-07-10",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 79.5,
+        "No": 20.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
+      "category": "tech",
+      "market_id": "2649066",
+      "slug": "will-gpt-5pt6-be-released-on-july-7-2026-20260623051440908",
+      "question": "Will GPT-5.6 be released on July 7, 2026?",
+      "volume24hr_usd": 21802.695705000006,
+      "volume_total_usd": 184746.85132399976,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 12.45,
-        "No": 87.55
+        "Yes": 11.85,
+        "No": 88.15
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
-      "market_id": "1831760",
-      "slug": "will-any-ai-model-reach-1580-coding-arena-score-by-december-31-2026-846",
-      "question": "Will any AI model reach 1580 Coding Arena Score by December 31, 2026?",
-      "volume24hr_usd": 17822.439608999994,
-      "volume_total_usd": 43323.39592000002,
+      "market_id": "2668022",
+      "slug": "will-the-next-gpt-model-released-by-openai-debut-at-a-score-of-at-least-1490-by-december-31-2026",
+      "question": "Will the next GPT model released by OpenAI debut at a score of at least 1490 by December 31, 2026?",
+      "volume24hr_usd": 21249.144709,
+      "volume_total_usd": 34629.771543999996,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 28.5,
-        "No": 71.5
+        "Yes": 20.5,
+        "No": 79.5
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
-      "market_id": "2430331",
-      "slug": "will-xai-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will xAI have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 17442.513166,
-      "volume_total_usd": 385910.1968840005,
+      "market_id": "1831760",
+      "slug": "will-any-ai-model-reach-1580-coding-arena-score-by-december-31-2026-846",
+      "question": "Will any AI model reach 1580 Coding Arena Score by December 31, 2026?",
+      "volume24hr_usd": 17390.359609,
+      "volume_total_usd": 44671.39592000002,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 29.5,
+        "No": 70.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
+      "category": "tech",
+      "market_id": "2430326",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will Google have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 14653.821007,
+      "volume_total_usd": 381153.307412999,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.25,
-        "No": 99.75
+        "Yes": 12.25,
+        "No": 87.75
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
       "market_id": "2668020",
       "slug": "will-the-next-gpt-model-released-by-openai-debut-at-a-score-of-at-least-1470-by-december-31-2026",
@@ -435,7 +435,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-06T16:20:32+00:00",
+      "captured_at_utc": "2026-07-06T18:54:34+00:00",
       "category": "tech",
       "market_id": "2659166",
       "slug": "will-the-next-gpt-model-released-by-openai-debut-at-a-score-of-at-least-1500-by-december-31-2026-20260623205144680-546-515",
@@ -448,8 +448,8 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 8.0,
-        "No": 92.0
+        "Yes": 7.3,
+        "No": 92.7
       }
     }
   ]
