@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-07-08T02:42:59+00:00",
+  "captured_at_utc": "2026-07-08T05:51:28+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 6967.436709,
-      "volume_total_usd": 11002462.715542916,
+      "volume24hr_usd": 7906.636005999999,
+      "volume_total_usd": 11003418.954839915,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -21,12 +21,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 2369.110772,
+      "volume24hr_usd": 2275.110772,
       "volume_total_usd": 350821.26254300005,
       "end_date": "2025-12-31",
       "options": [
@@ -39,7 +39,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "world",
       "market_id": "2676035",
       "slug": "spain-snap-election-called-by-august-31-2026-20260624205647682",
@@ -52,12 +52,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 4.0,
-        "No": 96.0
+        "Yes": 4.5,
+        "No": 95.5
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -93,50 +93,14 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
       "market_id": "2673621",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
       "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 132749.24316500005,
-      "volume_total_usd": 716414.7751059989,
+      "volume24hr_usd": 130229.5934390001,
+      "volume_total_usd": 720784.1044079992,
       "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 80.0,
-        "No": 20.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
-      "category": "tech",
-      "market_id": "2760614",
-      "slug": "gpt-5pt6-released-by-july-7-2026",
-      "question": "GPT-5.6 released by July 7, 2026?",
-      "volume24hr_usd": 73158.00521100001,
-      "volume_total_usd": 217769.53372099984,
-      "end_date": "2026-07-07",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.3,
-        "No": 99.7
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
-      "category": "tech",
-      "market_id": "2760620",
-      "slug": "gpt-5pt6-released-by-july-9-2026",
-      "question": "GPT-5.6 released by July 9, 2026?",
-      "volume24hr_usd": 56920.67818199998,
-      "volume_total_usd": 137142.68625499986,
-      "end_date": "2026-07-09",
       "options": [
         "Yes",
         "No"
@@ -147,14 +111,68 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
+      "category": "tech",
+      "market_id": "2760620",
+      "slug": "gpt-5pt6-released-by-july-9-2026",
+      "question": "GPT-5.6 released by July 9, 2026?",
+      "volume24hr_usd": 89808.364732,
+      "volume_total_usd": 171100.8245619997,
+      "end_date": "2026-07-09",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 98.65,
+        "No": 1.35
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
+      "category": "tech",
+      "market_id": "2658039",
+      "slug": "gpt-5pt6-released-by-july-8-2026-789",
+      "question": "GPT-5.6 released by July 8, 2026?",
+      "volume24hr_usd": 85770.99937499998,
+      "volume_total_usd": 243043.0889019999,
+      "end_date": "2026-07-08",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.6,
+        "No": 98.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
       "market_id": "2649066",
       "slug": "will-gpt-5pt6-be-released-on-july-7-2026-20260623051440908",
       "question": "Will GPT-5.6 be released on July 7, 2026?",
-      "volume24hr_usd": 50237.272529999995,
-      "volume_total_usd": 264016.13940299966,
+      "volume24hr_usd": 82848.352866,
+      "volume_total_usd": 305391.8294029996,
       "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
+      "category": "tech",
+      "market_id": "2760614",
+      "slug": "gpt-5pt6-released-by-july-7-2026",
+      "question": "GPT-5.6 released by July 7, 2026?",
+      "volume24hr_usd": 73768.807529,
+      "volume_total_usd": 221891.9638199999,
+      "end_date": "2026-07-07",
       "options": [
         "Yes",
         "No"
@@ -165,14 +183,50 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
+      "category": "tech",
+      "market_id": "2649068",
+      "slug": "will-gpt-5pt6-be-released-on-july-9-2026-20260623051440910",
+      "question": "Will GPT-5.6 be released on July 9, 2026?",
+      "volume24hr_usd": 69712.29399,
+      "volume_total_usd": 168328.18020299976,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 98.25,
+        "No": 1.75
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
       "market_id": "2100070",
       "slug": "gpt-5pt6-released-by-july-31-2026-454-326-913-252-967-594-228-346-674-229-357",
       "question": "GPT-5.6 released by July 31, 2026?",
-      "volume24hr_usd": 48622.44145299999,
-      "volume_total_usd": 644552.7693220001,
+      "volume24hr_usd": 63369.55364399999,
+      "volume_total_usd": 661637.0793729995,
       "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.75,
+        "No": 0.25
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
+      "category": "tech",
+      "market_id": "2658111",
+      "slug": "gpt-5pt6-released-by-july-15-2026-272",
+      "question": "GPT-5.6 released by July 15, 2026?",
+      "volume24hr_usd": 34470.961694,
+      "volume_total_usd": 96847.876565,
+      "end_date": "2026-07-15",
       "options": [
         "Yes",
         "No"
@@ -183,247 +237,175 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
-      "market_id": "2658039",
-      "slug": "gpt-5pt6-released-by-july-8-2026-789",
-      "question": "GPT-5.6 released by July 8, 2026?",
-      "volume24hr_usd": 33698.062691,
-      "volume_total_usd": 189112.02688799996,
-      "end_date": "2026-07-08",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 4.5,
-        "No": 95.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
-      "category": "tech",
-      "market_id": "2649068",
-      "slug": "will-gpt-5pt6-be-released-on-july-9-2026-20260623051440910",
-      "question": "Will GPT-5.6 be released on July 9, 2026?",
-      "volume24hr_usd": 28121.056123,
-      "volume_total_usd": 125380.55433899986,
+      "market_id": "2649067",
+      "slug": "will-gpt-5pt6-be-released-on-july-8-2026-20260623051440909",
+      "question": "Will GPT-5.6 be released on July 8, 2026?",
+      "volume24hr_usd": 33324.40628,
+      "volume_total_usd": 94518.47666999995,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 78.05,
-        "No": 21.95
+        "Yes": 1.25,
+        "No": 98.75
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
-      "category": "tech",
-      "market_id": "2673623",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
-      "question": "Will Apple be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 27265.532764000007,
-      "volume_total_usd": 113261.20149100009,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 10.9,
-        "No": 89.1
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
-      "category": "tech",
-      "market_id": "2673624",
-      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329844",
-      "question": "Will Alphabet be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 26244.424948000007,
-      "volume_total_usd": 81985.73278000006,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 10.2,
-        "No": 89.8
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
-      "category": "tech",
-      "market_id": "2648985",
-      "slug": "gpt-5pt6-released-by-july-24-2026-296-664-193-839",
-      "question": "GPT-5.6 released by July 24, 2026?",
-      "volume24hr_usd": 23603.230578000006,
-      "volume_total_usd": 123850.69893900015,
-      "end_date": "2026-07-24",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 97.45,
-        "No": 2.55
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
-      "category": "tech",
-      "market_id": "2658111",
-      "slug": "gpt-5pt6-released-by-july-15-2026-272",
-      "question": "GPT-5.6 released by July 15, 2026?",
-      "volume24hr_usd": 23417.847397999998,
-      "volume_total_usd": 85323.22226899996,
-      "end_date": "2026-07-15",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 94.6,
-        "No": 5.4
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
-      "category": "tech",
-      "market_id": "2673626",
-      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329846",
-      "question": "Will Saudi Aramco be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 19822.283000000003,
-      "volume_total_usd": 76080.17950000001,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
-      "category": "tech",
-      "market_id": "2430327",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will Anthropic have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 19346.550245000006,
-      "volume_total_usd": 481749.43036999827,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 86.0,
-        "No": 14.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
       "market_id": "2648866",
       "slug": "gpt-5pt6-released-by-july-10-2026-416-792",
       "question": "GPT-5.6 released by July 10, 2026?",
-      "volume24hr_usd": 19135.462563000005,
-      "volume_total_usd": 162727.42906299976,
+      "volume24hr_usd": 29263.408863000004,
+      "volume_total_usd": 174075.34469799974,
       "end_date": "2026-07-10",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 84.5,
-        "No": 15.5
+        "Yes": 98.55,
+        "No": 1.45
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
-      "market_id": "2430331",
-      "slug": "will-xai-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will xAI have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 18129.234,
-      "volume_total_usd": 425649.01171600056,
+      "market_id": "2673623",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
+      "question": "Will Apple be the largest company in the world by market cap on July 31?",
+      "volume24hr_usd": 26735.675664000006,
+      "volume_total_usd": 113587.60931000009,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.2,
-        "No": 99.8
+        "Yes": 10.6,
+        "No": 89.4
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
-      "market_id": "2649067",
-      "slug": "will-gpt-5pt6-be-released-on-july-8-2026-20260623051440909",
-      "question": "Will GPT-5.6 be released on July 8, 2026?",
-      "volume24hr_usd": 17385.656456,
-      "volume_total_usd": 77521.61979299993,
+      "market_id": "2673624",
+      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329844",
+      "question": "Will Alphabet be the largest company in the world by market cap on July 31?",
+      "volume24hr_usd": 26239.41712800001,
+      "volume_total_usd": 82067.24496000007,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.3,
-        "No": 96.7
+        "Yes": 9.35,
+        "No": 90.65
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
       "market_id": "2658110",
       "slug": "gpt-5pt6-released-by-july-13-2026-974",
       "question": "GPT-5.6 released by July 13, 2026?",
-      "volume24hr_usd": 16330.446039000002,
-      "volume_total_usd": 77386.95792799997,
+      "volume24hr_usd": 22161.271204000004,
+      "volume_total_usd": 83383.87256499998,
       "end_date": "2026-07-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 92.5,
-        "No": 7.5
+        "Yes": 98.65,
+        "No": 1.35
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
-      "market_id": "2430328",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will OpenAI have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 16249.373734,
-      "volume_total_usd": 463589.17294200015,
+      "market_id": "2430327",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will Anthropic have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 20241.71442100001,
+      "volume_total_usd": 483237.7285669983,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.15,
-        "No": 96.85
+        "Yes": 86.5,
+        "No": 13.5
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
-      "market_id": "2673628",
-      "slug": "will-broadcom-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329848",
-      "question": "Will Broadcom be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 15054.187,
-      "volume_total_usd": 53357.62816099997,
+      "market_id": "2649070",
+      "slug": "will-gpt-5pt6-be-released-on-july-10-2026-20260623051440911",
+      "question": "Will GPT-5.6 be released on July 10, 2026?",
+      "volume24hr_usd": 19794.022356,
+      "volume_total_usd": 37027.532909,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.6,
+        "No": 99.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
+      "category": "tech",
+      "market_id": "2648984",
+      "slug": "gpt-5pt6-released-by-july-17-2026-458-893-534-577",
+      "question": "GPT-5.6 released by July 17, 2026?",
+      "volume24hr_usd": 19752.741023,
+      "volume_total_usd": 112320.81023500001,
+      "end_date": "2026-07-17",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 98.95,
+        "No": 1.05
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
+      "category": "tech",
+      "market_id": "2430328",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will OpenAI have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 18630.600799000003,
+      "volume_total_usd": 467260.6468650002,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 3.65,
+        "No": 96.35
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
+      "category": "tech",
+      "market_id": "2430331",
+      "slug": "will-xai-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will xAI have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 18449.232000000004,
+      "volume_total_usd": 426253.1177160006,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -435,13 +417,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-08T02:42:59+00:00",
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
       "category": "tech",
       "market_id": "2673622",
       "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329842",
       "question": "Will Microsoft be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 12425.054,
-      "volume_total_usd": 57929.08722199996,
+      "volume24hr_usd": 17430.059,
+      "volume_total_usd": 63010.09222199994,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-08T05:51:28+00:00",
+      "category": "tech",
+      "market_id": "2673626",
+      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329846",
+      "question": "Will Saudi Aramco be the largest company in the world by market cap on July 31?",
+      "volume24hr_usd": 15964.671000000002,
+      "volume_total_usd": 78085.68950000001,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
