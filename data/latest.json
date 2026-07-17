@@ -1,14 +1,14 @@
 {
-  "captured_at_utc": "2026-07-17T13:37:30+00:00",
+  "captured_at_utc": "2026-07-17T15:13:06+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 7234.422533,
+      "volume24hr_usd": 7126.980099,
       "volume_total_usd": 11358437.693830965,
       "end_date": "2026-12-31",
       "options": [
@@ -21,12 +21,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
       "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 1450.1454529999999,
+      "volume24hr_usd": 1400.1454529999999,
       "volume_total_usd": 27787.68767300003,
       "end_date": "2026-09-30",
       "options": [
@@ -39,7 +39,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "world",
       "market_id": "2676035",
       "slug": "spain-snap-election-called-by-august-31-2026-20260624205647682",
@@ -93,50 +93,140 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2673621",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
       "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 92604.15779200001,
-      "volume_total_usd": 1398584.6834009965,
+      "volume24hr_usd": 86758.61814399998,
+      "volume_total_usd": 1402394.7624179956,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 53.5,
-        "No": 46.5
+        "Yes": 60.0,
+        "No": 40.0
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2430333",
       "slug": "will-moonshot-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Moonshot have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 81223.23628499998,
-      "volume_total_usd": 568669.930627,
+      "volume24hr_usd": 76522.576035,
+      "volume_total_usd": 574027.549377,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.3,
-        "No": 99.7
+        "Yes": 0.6,
+        "No": 99.4
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2911983",
       "slug": "will-spacex-starship-flight-test-13-launch-by-july-17-20260713194332727",
       "question": "Will SpaceX Starship Flight Test 13 launch by July 17?",
-      "volume24hr_usd": 44664.485143000005,
-      "volume_total_usd": 48496.976205,
+      "volume24hr_usd": 49904.24514300001,
+      "volume_total_usd": 53750.926204999996,
       "end_date": "2026-07-17",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.25,
+        "No": 99.75
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
+      "category": "tech",
+      "market_id": "676741",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
+      "question": "Will Apple be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 42641.91562600001,
+      "volume_total_usd": 523183.9783750007,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 25.5,
+        "No": 74.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
+      "category": "tech",
+      "market_id": "2673624",
+      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329844",
+      "question": "Will Alphabet be the largest company in the world by market cap on July 31?",
+      "volume24hr_usd": 35149.86883900001,
+      "volume_total_usd": 236287.6859299998,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.35,
+        "No": 98.65
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
+      "category": "tech",
+      "market_id": "2673623",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
+      "question": "Will Apple be the largest company in the world by market cap on July 31?",
+      "volume24hr_usd": 33898.109629,
+      "volume_total_usd": 236609.57950799962,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 38.4,
+        "No": 61.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
+      "category": "tech",
+      "market_id": "2430327",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will Anthropic have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 33087.667472999994,
+      "volume_total_usd": 738437.8290059991,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 97.5,
+        "No": 2.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
+      "category": "tech",
+      "market_id": "676740",
+      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
+      "question": "Will Microsoft be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 29161.853166,
+      "volume_total_usd": 560390.0234860004,
+      "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
@@ -147,97 +237,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
-      "category": "tech",
-      "market_id": "676741",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
-      "question": "Will Apple be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 42761.81800800001,
-      "volume_total_usd": 520651.88083900075,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 33.15,
-        "No": 66.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
-      "category": "tech",
-      "market_id": "676740",
-      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-      "question": "Will Microsoft be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 36894.364416,
-      "volume_total_usd": 558111.5417360002,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.5,
-        "No": 99.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
-      "category": "tech",
-      "market_id": "2673624",
-      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329844",
-      "question": "Will Alphabet be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 33594.244454,
-      "volume_total_usd": 231015.39278399985,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.05,
-        "No": 97.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
-      "category": "tech",
-      "market_id": "2673623",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
-      "question": "Will Apple be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 32248.917706,
-      "volume_total_usd": 232204.5508939997,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 44.65,
-        "No": 55.35
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
-      "category": "tech",
-      "market_id": "2430327",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will Anthropic have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 31669.255309,
-      "volume_total_usd": 736090.2990919991,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 97.95,
-        "No": 2.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2430332",
       "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-july-2026",
@@ -255,31 +255,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2674076",
       "slug": "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
       "question": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 26132.209853,
-      "volume_total_usd": 115276.88653999995,
+      "volume24hr_usd": 27675.03473700001,
+      "volume_total_usd": 121066.02142399995,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 38.0,
-        "No": 62.0
+        "Yes": 39.5,
+        "No": 60.5
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "676745",
       "slug": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-december-31-376",
       "question": "Will Amazon be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 25738.447999999997,
-      "volume_total_usd": 579997.0068359979,
+      "volume24hr_usd": 26985.837499999998,
+      "volume_total_usd": 581279.3360859979,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -291,13 +291,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2479865",
       "slug": "will-spacex-starship-flight-test-13-superheavy-pop",
       "question": "Will SpaceX Starship Flight Test 13 Superheavy explode?",
-      "volume24hr_usd": 23605.220721,
-      "volume_total_usd": 52445.48071600001,
+      "volume24hr_usd": 23817.370243,
+      "volume_total_usd": 52689.290238000016,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -309,30 +309,48 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2898504",
       "slug": "will-anthropic-extend-claude-fable-5-paid-plan-access-again-by-july-19-20260712201937544",
       "question": "Will Anthropic extend Claude Fable 5 paid-plan access again by July 19?",
-      "volume24hr_usd": 20790.945402,
-      "volume_total_usd": 69875.35775899996,
+      "volume24hr_usd": 20819.019279000004,
+      "volume_total_usd": 70894.89224099998,
       "end_date": "2026-07-19",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 69.5,
-        "No": 30.5
+        "Yes": 65.5,
+        "No": 34.5
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
+      "category": "tech",
+      "market_id": "676739",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 20782.528054999995,
+      "volume_total_usd": 825121.0996260081,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.5,
+        "No": 49.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2430329",
       "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Alibaba have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 20043.095,
+      "volume24hr_usd": 19043.095,
       "volume_total_usd": 366549.9382470011,
       "end_date": "2026-07-31",
       "options": [
@@ -345,48 +363,48 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
-      "market_id": "676739",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 16164.352617999997,
-      "volume_total_usd": 818930.2085880078,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 49.5,
-        "No": 50.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
-      "category": "tech",
-      "market_id": "2674078",
-      "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749112",
-      "question": "Will Apple be the second-largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 15438.047296,
-      "volume_total_usd": 80280.713858,
+      "market_id": "2674079",
+      "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749113",
+      "question": "Will Alphabet be the second-largest company in the world by market cap on July 31?",
+      "volume24hr_usd": 18360.300902,
+      "volume_total_usd": 68688.61949699999,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 56.0,
-        "No": 44.0
+        "Yes": 6.0,
+        "No": 94.0
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
+      "category": "tech",
+      "market_id": "2431243",
+      "slug": "will-moonshot-have-the-best-chinese-ai-model-at-the-end-of-july-2026",
+      "question": "Will Moonshot have the best Chinese AI model at the end of July 2026?",
+      "volume24hr_usd": 15600.486102000003,
+      "volume_total_usd": 43994.75789999999,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 57.05,
+        "No": 42.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2863245",
       "slug": "will-the-next-claude-opus-model-be-released-by-july-31-2026-20260709185050343-272-345-875",
       "question": "Will the next Claude Opus model be released by July 31, 2026?",
-      "volume24hr_usd": 15220.633212,
+      "volume24hr_usd": 15048.706547,
       "volume_total_usd": 51614.561243000004,
       "end_date": "2026-07-31",
       "options": [
@@ -399,31 +417,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2479863",
       "slug": "will-spacex-starship-flight-test-13-launch-by-july-31",
       "question": "Will SpaceX Starship Flight Test 13 launch by July 31?",
-      "volume24hr_usd": 14642.729701,
-      "volume_total_usd": 71630.30681300006,
+      "volume24hr_usd": 14681.910026000001,
+      "volume_total_usd": 71812.78035000006,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 90.65,
-        "No": 9.35
+        "Yes": 90.7,
+        "No": 9.3
       }
     },
     {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
+      "captured_at_utc": "2026-07-17T15:13:06+00:00",
       "category": "tech",
       "market_id": "2430326",
       "slug": "will-google-have-the-best-ai-model-at-the-end-of-july-2026",
       "question": "Will Google have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 14377.818890999999,
-      "volume_total_usd": 577591.5674959996,
+      "volume24hr_usd": 14502.705238999999,
+      "volume_total_usd": 578115.8674959996,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -432,24 +450,6 @@
       "results_pct": {
         "Yes": 1.1,
         "No": 98.9
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-17T13:37:30+00:00",
-      "category": "tech",
-      "market_id": "2431243",
-      "slug": "will-moonshot-have-the-best-chinese-ai-model-at-the-end-of-july-2026",
-      "question": "Will Moonshot have the best Chinese AI model at the end of July 2026?",
-      "volume24hr_usd": 14215.557954000005,
-      "volume_total_usd": 41432.70666499999,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 47.0,
-        "No": 53.0
       }
     }
   ]
