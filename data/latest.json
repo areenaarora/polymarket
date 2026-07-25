@@ -1,9 +1,9 @@
 {
-  "captured_at_utc": "2026-07-25T18:00:38+00:00",
+  "captured_at_utc": "2026-07-25T20:10:10+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -21,25 +21,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 7095.466031000002,
-      "volume_total_usd": 11525256.063586004,
+      "volume24hr_usd": 7186.946786000002,
+      "volume_total_usd": 11525550.274341004,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.9,
-        "No": 95.1
+        "Yes": 5.0,
+        "No": 95.0
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
@@ -52,18 +52,18 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 50.0,
-        "No": 50.0
+        "Yes": 50.5,
+        "No": 49.5
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
       "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 783.53,
-      "volume_total_usd": 32291.770111000034,
+      "volume24hr_usd": 860.453075,
+      "volume_total_usd": 32368.693186000033,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "world",
       "market_id": "2676035",
       "slug": "spain-snap-election-called-by-august-31-2026-20260624205647682",
@@ -93,12 +93,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2966411",
       "slug": "will-dow-say-carbon-5-times-during-earnings-call-20260717163814086",
       "question": "Will Dow say \"Carbon\" 5+ times during earnings call?",
-      "volume24hr_usd": 239546.97887900003,
+      "volume24hr_usd": 226852.28,
       "volume_total_usd": 421995.0583549999,
       "end_date": "2026-07-23",
       "options": [
@@ -111,13 +111,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
+      "category": "tech",
+      "market_id": "2430326",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will Google have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 152511.683,
+      "volume_total_usd": 825561.1838070006,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
+      "category": "tech",
+      "market_id": "2430327",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will Anthropic have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 100887.66768800005,
+      "volume_total_usd": 969325.6611250004,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 98.9,
+        "No": 1.1
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2673621",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
       "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 130453.60149999986,
-      "volume_total_usd": 1963361.2417749916,
+      "volume24hr_usd": 63334.40525999985,
+      "volume_total_usd": 1966846.6531229918,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -129,67 +165,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
-      "category": "tech",
-      "market_id": "2430327",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will Anthropic have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 98136.98518300003,
-      "volume_total_usd": 966171.8000140005,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 98.8,
-        "No": 1.2
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2673623",
       "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
       "question": "Will Apple be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 56181.580864,
-      "volume_total_usd": 509775.3642869995,
+      "volume24hr_usd": 48611.20279600002,
+      "volume_total_usd": 510127.1942869995,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 22.6,
-        "No": 77.4
+        "Yes": 22.05,
+        "No": 77.95
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
-      "category": "tech",
-      "market_id": "2673624",
-      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329844",
-      "question": "Will Alphabet be the largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 38703.119000000006,
-      "volume_total_usd": 804242.5924180059,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2874988",
       "slug": "will-the-next-google-gemini-pro-model-be-released-by-august-7-2026",
       "question": "Will the next Google Gemini Pro model be released by August 7, 2026?",
-      "volume24hr_usd": 28419.36302,
-      "volume_total_usd": 35571.98446599997,
+      "volume24hr_usd": 28968.644688000004,
+      "volume_total_usd": 36141.97446599997,
       "end_date": "2026-08-07",
       "options": [
         "Yes",
@@ -201,13 +201,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
+      "category": "tech",
+      "market_id": "2430328",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-july-2026",
+      "question": "Will OpenAI have the best AI model at the end of July 2026?",
+      "volume24hr_usd": 21609.457997999998,
+      "volume_total_usd": 934529.2863630004,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.2,
+        "No": 99.8
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
+      "category": "tech",
+      "market_id": "2673624",
+      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329844",
+      "question": "Will Alphabet be the largest company in the world by market cap on July 31?",
+      "volume24hr_usd": 21481.479000000007,
+      "volume_total_usd": 804288.0494180062,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2674079",
       "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749113",
       "question": "Will Alphabet be the second-largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 18832.768057,
-      "volume_total_usd": 115412.50321100006,
+      "volume24hr_usd": 18491.946457000002,
+      "volume_total_usd": 115420.27161100006,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
@@ -219,79 +255,43 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2431240",
       "slug": "will-alibaba-have-the-best-chinese-ai-model-at-the-end-of-july-2026",
       "question": "Will Alibaba have the best Chinese AI model at the end of July 2026?",
-      "volume24hr_usd": 16752.095314000002,
-      "volume_total_usd": 163681.85137600012,
+      "volume24hr_usd": 18016.398859999998,
+      "volume_total_usd": 165779.78022400013,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 83.45,
-        "No": 16.55
+        "Yes": 80.05,
+        "No": 19.95
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
-      "market_id": "2430326",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will Google have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 14773.475666,
-      "volume_total_usd": 679363.8528070006,
+      "market_id": "2674076",
+      "slug": "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
+      "question": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
+      "volume24hr_usd": 11131.300840999997,
+      "volume_total_usd": 161067.4320440001,
       "end_date": "2026-07-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
+        "Yes": 19.5,
+        "No": 80.5
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
-      "category": "tech",
-      "market_id": "2430328",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-july-2026",
-      "question": "Will OpenAI have the best AI model at the end of July 2026?",
-      "volume24hr_usd": 13538.603998999999,
-      "volume_total_usd": 926407.3223640005,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
-      "category": "tech",
-      "market_id": "2431243",
-      "slug": "will-moonshot-have-the-best-chinese-ai-model-at-the-end-of-july-2026",
-      "question": "Will Moonshot have the best Chinese AI model at the end of July 2026?",
-      "volume24hr_usd": 9210.9682,
-      "volume_total_usd": 145301.91320899987,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 15.65,
-        "No": 84.35
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2430333",
       "slug": "will-moonshot-have-the-best-ai-model-at-the-end-of-july-2026",
@@ -309,31 +309,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
-      "category": "tech",
-      "market_id": "2674076",
-      "slug": "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
-      "question": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
-      "volume24hr_usd": 8699.410528999999,
-      "volume_total_usd": 157794.4420440001,
-      "end_date": "2026-07-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 20.5,
-        "No": 79.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2850825",
       "slug": "will-gpt-6-be-released-by-august-31-2026-778",
       "question": "Will GPT-6 be released by August 31, 2026?",
-      "volume24hr_usd": 8561.247832000001,
-      "volume_total_usd": 60039.122788999994,
+      "volume24hr_usd": 8353.55223,
+      "volume_total_usd": 60173.58344699999,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
@@ -345,7 +327,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
+      "category": "tech",
+      "market_id": "2431243",
+      "slug": "will-moonshot-have-the-best-chinese-ai-model-at-the-end-of-july-2026",
+      "question": "Will Moonshot have the best Chinese AI model at the end of July 2026?",
+      "volume24hr_usd": 7737.839885,
+      "volume_total_usd": 145733.91320899987,
+      "end_date": "2026-07-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 15.6,
+        "No": 84.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2430334",
       "slug": "will-mistral-have-the-best-ai-model-at-the-end-of-july-2026",
@@ -363,61 +363,61 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
-      "category": "tech",
-      "market_id": "3007835",
-      "slug": "will-anthropic-have-the-best-ai-agent-at-the-end-of-september-2026-20260716211946457",
-      "question": "Will Anthropic have the best AI Agent at the end of September 2026?",
-      "volume24hr_usd": 5876.316964000001,
-      "volume_total_usd": 7728.430334,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 76.5,
-        "No": 23.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "1831672",
       "slug": "will-any-ai-model-reach-1575-math-arena-score-by-december-31-2026",
       "question": "Will any AI model reach 1575 Math Arena Score by December 31, 2026?",
-      "volume24hr_usd": 5398.316665,
-      "volume_total_usd": 20516.089594,
+      "volume24hr_usd": 5746.00897,
+      "volume_total_usd": 20863.781899,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 53.0,
-        "No": 47.0
+        "Yes": 62.5,
+        "No": 37.5
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "3008011",
       "slug": "will-moonshot-have-the-best-code-arena-webdev-ai-at-the-end-of-september-2026-20260717140116513",
       "question": "Will Moonshot have the best Code Arena | WebDev AI at the end of September 2026?",
-      "volume24hr_usd": 5393.26,
-      "volume_total_usd": 5421.260000000001,
+      "volume24hr_usd": 5510.14,
+      "volume_total_usd": 5538.140000000001,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 33.5,
-        "No": 66.5
+        "Yes": 37.0,
+        "No": 63.0
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
+      "category": "tech",
+      "market_id": "2874987",
+      "slug": "will-the-next-google-gemini-pro-model-be-released-by-july-30-2026",
+      "question": "Will the next Google Gemini Pro model be released by July 30, 2026?",
+      "volume24hr_usd": 5493.371908,
+      "volume_total_usd": 14467.650139000001,
+      "end_date": "2026-07-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.9,
+        "No": 99.1
+      }
+    },
+    {
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2430331",
       "slug": "will-xai-have-the-best-ai-model-at-the-end-of-july-2026",
@@ -435,12 +435,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-07-25T18:00:38+00:00",
+      "captured_at_utc": "2026-07-25T20:10:10+00:00",
       "category": "tech",
       "market_id": "2926628",
       "slug": "will-the-next-google-gemini-pro-model-be-released-by-august-31-2026",
       "question": "Will the next Google Gemini Pro model be released by August 31, 2026?",
-      "volume24hr_usd": 5206.490729,
+      "volume24hr_usd": 4776.490729,
       "volume_total_usd": 10641.597288,
       "end_date": "2026-08-31",
       "options": [
