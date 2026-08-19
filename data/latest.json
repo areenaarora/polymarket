@@ -1,51 +1,33 @@
 {
-  "captured_at_utc": "2026-08-19T15:30:36+00:00",
+  "captured_at_utc": "2026-08-19T16:30:36+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 169719.93527599995,
-      "volume_total_usd": 12266186.370433988,
+      "volume24hr_usd": 185006.62183499997,
+      "volume_total_usd": 12281473.056992985,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.15,
-        "No": 95.85
+        "Yes": 4.25,
+        "No": 95.75
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
-      "category": "world",
-      "market_id": "2676277",
-      "slug": "will-russia-capture-lyman-by-september-30-2026",
-      "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 9652.519999999999,
-      "volume_total_usd": 103714.72231699998,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 8.5,
-        "No": 91.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 1307.458919,
-      "volume_total_usd": 412388.4013230001,
+      "volume24hr_usd": 1217.260975,
+      "volume_total_usd": 412388.40132299985,
       "end_date": "2025-12-31",
       "options": [
         "Yes",
@@ -57,31 +39,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "world",
       "market_id": "2676035",
       "slug": "spain-snap-election-called-by-august-31-2026-20260624205647682",
       "question": "Spain snap election called by August 31, 2026?",
-      "volume24hr_usd": 200.0,
-      "volume_total_usd": 11644.328448999999,
+      "volume24hr_usd": 244.82,
+      "volume_total_usd": 11689.148449,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 7.25,
-        "No": 92.75
+        "Yes": 3.25,
+        "No": 96.75
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
       "question": "Will Israel annex any territory by December 31?",
       "volume24hr_usd": 12.5,
-      "volume_total_usd": 92071.881203,
+      "volume_total_usd": 92071.88120299998,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -93,67 +75,85 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
+      "category": "world",
+      "market_id": "2676277",
+      "slug": "will-russia-capture-lyman-by-september-30-2026",
+      "question": "Will Russia capture Lyman by September 30, 2026?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 103714.722317,
+      "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 8.5,
+        "No": 91.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "2955043",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285",
       "question": "Will Anthropic have the best AI model at the end of August 2026?",
-      "volume24hr_usd": 30655.30321099999,
-      "volume_total_usd": 435581.8086890002,
+      "volume24hr_usd": 32454.64793799999,
+      "volume_total_usd": 438623.1413570003,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 98.1,
-        "No": 1.9
+        "Yes": 98.8,
+        "No": 1.2
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
-      "category": "tech",
-      "market_id": "2850825",
-      "slug": "will-gpt-6-be-released-by-august-31-2026-778",
-      "question": "Will GPT-6 be released by August 31, 2026?",
-      "volume24hr_usd": 15677.971801999998,
-      "volume_total_usd": 223170.496209,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.4,
-        "No": 97.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "2955053",
       "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210295",
       "question": "Will DeepSeek have the best AI model at the end of August 2026?",
-      "volume24hr_usd": 15172.1,
-      "volume_total_usd": 253062.036304,
+      "volume24hr_usd": 27648.359,
+      "volume_total_usd": 265660.79630399996,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
+        "Yes": 0.05,
+        "No": 99.95
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
+      "category": "tech",
+      "market_id": "2850825",
+      "slug": "will-gpt-6-be-released-by-august-31-2026-778",
+      "question": "Will GPT-6 be released by August 31, 2026?",
+      "volume24hr_usd": 15705.763863999999,
+      "volume_total_usd": 223198.28827099997,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 2.1,
+        "No": 97.9
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "3275538",
       "slug": "will-openais-astra-model-be-released-by-august-31-2026-20260801214557731",
       "question": "Will OpenAI’s Astra model be released by August 31, 2026?",
-      "volume24hr_usd": 14668.443799999997,
-      "volume_total_usd": 86576.83284199996,
+      "volume24hr_usd": 14564.907135999996,
+      "volume_total_usd": 86589.96284200001,
       "end_date": "2026-08-30",
       "options": [
         "Yes",
@@ -165,13 +165,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "2955048",
       "slug": "will-openai-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210290",
       "question": "Will OpenAI have the best AI model at the end of August 2026?",
-      "volume24hr_usd": 14366.662607999997,
-      "volume_total_usd": 181836.378599,
+      "volume24hr_usd": 14138.360244999996,
+      "volume_total_usd": 181838.37859900002,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
@@ -183,12 +183,84 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
+      "category": "tech",
+      "market_id": "2941315",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "volume24hr_usd": 12685.019726999997,
+      "volume_total_usd": 530783.5968780002,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 95.5,
+        "No": 4.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
+      "category": "tech",
+      "market_id": "2955045",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210287",
+      "question": "Will Google have the best AI model at the end of August 2026?",
+      "volume24hr_usd": 11631.330832,
+      "volume_total_usd": 163357.325098,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
+      "category": "tech",
+      "market_id": "2955052",
+      "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210294",
+      "question": "Will SpaceXAI have the best AI model at the end of August 2026?",
+      "volume24hr_usd": 10783.2955,
+      "volume_total_usd": 203160.156614,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.1,
+        "No": 99.9
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
+      "category": "tech",
+      "market_id": "2955044",
+      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210286",
+      "question": "Will Meta have the best AI model at the end of August 2026?",
+      "volume24hr_usd": 10639.225999999999,
+      "volume_total_usd": 170361.76885199995,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "3212494",
       "slug": "will-spacex-be-the-third-largest-company-in-the-world-by-market-cap-on-september-30",
       "question": "Will SpaceX be the third-largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 13423.51,
+      "volume24hr_usd": 10000.0,
       "volume_total_usd": 14154.51,
       "end_date": "2026-09-30",
       "options": [
@@ -201,85 +273,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
-      "category": "tech",
-      "market_id": "2955045",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210287",
-      "question": "Will Google have the best AI model at the end of August 2026?",
-      "volume24hr_usd": 11750.110832000002,
-      "volume_total_usd": 163355.18509800002,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
-      "category": "tech",
-      "market_id": "2955052",
-      "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210294",
-      "question": "Will SpaceXAI have the best AI model at the end of August 2026?",
-      "volume24hr_usd": 10894.195500000002,
-      "volume_total_usd": 203160.15661399998,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.1,
-        "No": 99.9
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
-      "category": "tech",
-      "market_id": "2955044",
-      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210286",
-      "question": "Will Meta have the best AI model at the end of August 2026?",
-      "volume24hr_usd": 10760.125999999998,
-      "volume_total_usd": 170361.768852,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
-      "category": "tech",
-      "market_id": "2941315",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
-      "volume24hr_usd": 10259.809239,
-      "volume_total_usd": 527644.8663899999,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 96.8,
-        "No": 3.2
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "2853462",
       "slug": "will-gpt-6-be-released-by-august-21-2026",
       "question": "Will GPT-6 be released by August 21, 2026?",
-      "volume24hr_usd": 9061.176991,
-      "volume_total_usd": 150575.16679500006,
+      "volume24hr_usd": 9103.421324,
+      "volume_total_usd": 150620.00112800003,
       "end_date": "2026-08-21",
       "options": [
         "Yes",
@@ -291,13 +291,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "676739",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 8589.140369,
-      "volume_total_usd": 1069916.964217,
+      "volume24hr_usd": 8589.820369000001,
+      "volume_total_usd": 1069921.9642170002,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -309,12 +309,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "2914146",
       "slug": "will-unitree-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230560",
       "question": "Will Unitree be removed from Chinese Military Companies list by June 30, 2027?",
-      "volume24hr_usd": 8420.009999999998,
+      "volume24hr_usd": 8259.009999999998,
       "volume_total_usd": 18639.45482,
       "end_date": "2027-06-30",
       "options": [
@@ -327,43 +327,43 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "2941288",
       "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602574",
       "question": "Will Apple be the second-largest company in the world by market cap on August 31?",
-      "volume24hr_usd": 8042.096134999999,
-      "volume_total_usd": 139935.969118,
+      "volume24hr_usd": 8067.511893,
+      "volume_total_usd": 140006.309542,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 92.5,
-        "No": 7.5
+        "Yes": 93.5,
+        "No": 6.5
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "3212180",
       "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
       "question": "Will Alphabet be the largest company in the world by market cap on September 30?",
       "volume24hr_usd": 6359.183455,
-      "volume_total_usd": 43037.209444,
+      "volume_total_usd": 43037.20944399999,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.4,
-        "No": 97.6
+        "Yes": 2.55,
+        "No": 97.45
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "3212185",
       "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
@@ -381,25 +381,43 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "2954951",
       "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
       "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
       "volume24hr_usd": 5991.119362,
-      "volume_total_usd": 126539.247031,
+      "volume_total_usd": 126539.24703099999,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.45,
-        "No": 99.55
+        "Yes": 0.4,
+        "No": 99.6
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
+      "category": "tech",
+      "market_id": "2941321",
+      "slug": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138605",
+      "question": "Will Amazon be the largest company in the world by market cap on August 31?",
+      "volume24hr_usd": 5784.524999999999,
+      "volume_total_usd": 260367.43232199992,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "1499672",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
@@ -412,44 +430,26 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 58.5,
-        "No": 41.5
+        "Yes": 53.5,
+        "No": 46.5
       }
     },
     {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
+      "captured_at_utc": "2026-08-19T16:30:36+00:00",
       "category": "tech",
       "market_id": "2941317",
       "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138601",
       "question": "Will Apple be the largest company in the world by market cap on August 31?",
-      "volume24hr_usd": 5459.966765999999,
-      "volume_total_usd": 312485.33164200006,
+      "volume24hr_usd": 5623.357676999999,
+      "volume_total_usd": 313585.8216420001,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.75,
-        "No": 97.25
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-19T15:30:36+00:00",
-      "category": "tech",
-      "market_id": "3529046",
-      "slug": "will-the-ornn-b200-index-be-at-least-6pt50-on-october-31-2026-20260811191113943",
-      "question": "Will the Ornn B200 Index be at least $6.50 on October 31, 2026?",
-      "volume24hr_usd": 5103.200000000001,
-      "volume_total_usd": 8478.380000000001,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 35.5,
-        "No": 64.5
+        "Yes": 2.55,
+        "No": 97.45
       }
     }
   ]
