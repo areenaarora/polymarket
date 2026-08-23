@@ -1,27 +1,45 @@
 {
-  "captured_at_utc": "2026-08-23T01:19:17+00:00",
+  "captured_at_utc": "2026-08-23T03:01:53+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 73756.30164199999,
-      "volume_total_usd": 12425646.360613992,
+      "volume24hr_usd": 73168.06327099999,
+      "volume_total_usd": 12427266.470613983,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.25,
-        "No": 95.75
+        "Yes": 4.15,
+        "No": 95.85
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
+      "category": "world",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
+      "volume24hr_usd": 221.84,
+      "volume_total_usd": 413449.581323,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 37.5,
+        "No": 62.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
@@ -39,43 +57,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "world",
       "market_id": "2676035",
       "slug": "spain-snap-election-called-by-august-31-2026-20260624205647682",
       "question": "Spain snap election called by August 31, 2026?",
       "volume24hr_usd": 25.0,
-      "volume_total_usd": 11879.548449,
+      "volume_total_usd": 11879.548448999998,
       "end_date": "2026-09-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.2,
-        "No": 97.8
+        "Yes": 1.75,
+        "No": 98.25
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
-      "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 15.0,
-      "volume_total_usd": 413242.7413229999,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 38.5,
-        "No": 61.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -93,49 +93,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
-      "category": "tech",
-      "market_id": "676743",
-      "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-december-31-139",
-      "question": "Will Tesla be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 20950.589,
-      "volume_total_usd": 716536.7418570003,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
       "market_id": "2954946",
       "slug": "will-alibaba-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241593",
       "question": "Will Alibaba have the best Chinese AI model at the end of August 2026?",
-      "volume24hr_usd": 20897.855332000003,
-      "volume_total_usd": 195031.65155599997,
+      "volume24hr_usd": 22088.411086,
+      "volume_total_usd": 196262.20730999997,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 92.6,
-        "No": 7.4
+        "Yes": 92.45,
+        "No": 7.55
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
+      "category": "tech",
+      "market_id": "2955050",
+      "slug": "will-zptai-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210292",
+      "question": "Will Z.ai have the best AI model at the end of August 2026?",
+      "volume24hr_usd": 20946.293332999998,
+      "volume_total_usd": 229236.110812,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.3,
+        "No": 99.7
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
       "market_id": "3231247",
       "slug": "situational-awareness-announces-fund-wind-down-by-december-31-2026-20260730183020992",
       "question": "Situational Awareness announces fund wind-down by December 31, 2026?",
       "volume24hr_usd": 14588.799547,
-      "volume_total_usd": 66489.18616099996,
+      "volume_total_usd": 66489.18616099998,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -147,121 +147,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
-      "category": "tech",
-      "market_id": "2955050",
-      "slug": "will-zptai-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210292",
-      "question": "Will Z.ai have the best AI model at the end of August 2026?",
-      "volume24hr_usd": 13487.853333,
-      "volume_total_usd": 220777.67081200003,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
       "market_id": "2955045",
       "slug": "will-google-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210287",
       "question": "Will Google have the best AI model at the end of August 2026?",
-      "volume24hr_usd": 13487.315399,
-      "volume_total_usd": 205451.03449700002,
+      "volume24hr_usd": 13479.735399,
+      "volume_total_usd": 205451.034497,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.95,
-        "No": 99.05
+        "Yes": 0.85,
+        "No": 99.15
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
+      "category": "tech",
+      "market_id": "2954949",
+      "slug": "will-zptai-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241596",
+      "question": "Will Z.ai have the best Chinese AI model at the end of August 2026?",
+      "volume24hr_usd": 11110.194712,
+      "volume_total_usd": 123542.58121800004,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 3.6,
+        "No": 96.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
       "market_id": "668591",
       "slug": "gta-6-launch-postponed-again",
       "question": "GTA 6 launch postponed again?",
-      "volume24hr_usd": 10878.140668,
-      "volume_total_usd": 697444.5489030003,
+      "volume24hr_usd": 10923.350946,
+      "volume_total_usd": 697495.377153,
       "end_date": "2026-11-19",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 11.0,
-        "No": 89.0
+        "Yes": 12.5,
+        "No": 87.5
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
-      "category": "tech",
-      "market_id": "2431419",
-      "slug": "will-moonshot-have-the-best-ai-model-at-the-end-of-december-2026",
-      "question": "Will Moonshot have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 10373.904704,
-      "volume_total_usd": 64314.33637700001,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.25,
-        "No": 98.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
-      "category": "tech",
-      "market_id": "2954949",
-      "slug": "will-zptai-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241596",
-      "question": "Will Z.ai have the best Chinese AI model at the end of August 2026?",
-      "volume24hr_usd": 10189.198998999998,
-      "volume_total_usd": 122611.58550500002,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 3.15,
-        "No": 96.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
-      "category": "tech",
-      "market_id": "2487206",
-      "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
-      "question": "Next Mythos-Class Model released by September 30, 2026?",
-      "volume24hr_usd": 8850.86807,
-      "volume_total_usd": 94342.50756699998,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 59.5,
-        "No": 40.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
       "market_id": "2955055",
       "slug": "will-bytedance-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210297",
       "question": "Will Bytedance have the best AI model at the end of August 2026?",
       "volume24hr_usd": 8650.0,
-      "volume_total_usd": 146168.32549999998,
+      "volume_total_usd": 146168.3255,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
@@ -273,7 +219,43 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
+      "category": "tech",
+      "market_id": "2487206",
+      "slug": "next-mythos-class-model-released-by-september-30-2026-695-854",
+      "question": "Next Mythos-Class Model released by September 30, 2026?",
+      "volume24hr_usd": 8502.507413,
+      "volume_total_usd": 94344.14690999998,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 60.0,
+        "No": 40.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
+      "category": "tech",
+      "market_id": "2955043",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285",
+      "question": "Will Anthropic have the best AI model at the end of August 2026?",
+      "volume24hr_usd": 8237.020848,
+      "volume_total_usd": 468603.11819000024,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 98.05,
+        "No": 1.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
       "market_id": "2955051",
       "slug": "will-xiaomi-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210293",
@@ -291,31 +273,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
-      "category": "tech",
-      "market_id": "2955043",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285",
-      "question": "Will Anthropic have the best AI model at the end of August 2026?",
-      "volume24hr_usd": 7889.981398999999,
-      "volume_total_usd": 467210.6633520003,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 98.1,
-        "No": 1.9
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
       "market_id": "676745",
       "slug": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-december-31-376",
       "question": "Will Amazon be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 6698.602,
-      "volume_total_usd": 770516.059361,
+      "volume24hr_usd": 6693.099,
+      "volume_total_usd": 770524.5723610002,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -327,85 +291,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
       "market_id": "2954947",
       "slug": "will-moonshot-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241594",
       "question": "Will Moonshot have the best Chinese AI model at the end of August 2026?",
-      "volume24hr_usd": 5548.311785,
-      "volume_total_usd": 65319.82587800002,
+      "volume24hr_usd": 6241.941499,
+      "volume_total_usd": 66031.60909200001,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.6,
-        "No": 96.4
+        "Yes": 3.85,
+        "No": 96.15
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
-      "category": "tech",
-      "market_id": "2955044",
-      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210286",
-      "question": "Will Meta have the best AI model at the end of August 2026?",
-      "volume24hr_usd": 5497.469,
-      "volume_total_usd": 185267.745852,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
       "market_id": "3554185",
       "slug": "will-moonshot-be-the-third-best-ai-agent-lab-at-the-end-of-september-2026-20260812152814559",
       "question": "Will Moonshot be the third-best AI Agent Lab at the end of September 2026?",
-      "volume24hr_usd": 5480.682228,
-      "volume_total_usd": 13236.987158,
+      "volume24hr_usd": 5967.002571,
+      "volume_total_usd": 15075.816573999999,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 55.75,
-        "No": 44.25
+        "Yes": 61.4,
+        "No": 38.6
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
-      "category": "tech",
-      "market_id": "3008875",
-      "slug": "will-meta-be-the-2-ai-lab-at-the-end-of-august-2026-20260720231255332",
-      "question": "Will Meta be the #2 AI lab at the end of August 2026?",
-      "volume24hr_usd": 5338.934442000001,
-      "volume_total_usd": 23644.792406000004,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 92.5,
-        "No": 7.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
       "market_id": "2954950",
       "slug": "will-xiaomi-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241597",
       "question": "Will Xiaomi have the best Chinese AI model at the end of August 2026?",
-      "volume24hr_usd": 5241.399288,
-      "volume_total_usd": 41911.30609599999,
+      "volume24hr_usd": 5821.111621,
+      "volume_total_usd": 42491.018428999996,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
@@ -417,39 +345,111 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
-      "market_id": "3008604",
-      "slug": "will-moonshot-be-the-second-best-chinese-ai-company-at-the-end-of-august-2026-20260720223339924",
-      "question": "Will Moonshot be the second-best Chinese AI company at the end of August 2026?",
-      "volume24hr_usd": 4983.760537,
-      "volume_total_usd": 31049.743454,
+      "market_id": "676743",
+      "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-december-31-139",
+      "question": "Will Tesla be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 5637.729,
+      "volume_total_usd": 716540.1628570001,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
+      "category": "tech",
+      "market_id": "2955044",
+      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210286",
+      "question": "Will Meta have the best AI model at the end of August 2026?",
+      "volume24hr_usd": 5489.889,
+      "volume_total_usd": 185267.74585199996,
       "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 25.5,
-        "No": 74.5
+        "Yes": 0.05,
+        "No": 99.95
       }
     },
     {
-      "captured_at_utc": "2026-08-23T01:19:17+00:00",
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
       "category": "tech",
-      "market_id": "3554404",
-      "slug": "will-google-be-the-second-best-math-ai-lab-at-the-end-of-october-2026-20260811194841832",
-      "question": "Will Google be the second-best Math AI lab at the end of October 2026?",
-      "volume24hr_usd": 4980.09,
-      "volume_total_usd": 22532.659684000002,
-      "end_date": "2026-10-31",
+      "market_id": "2954955",
+      "slug": "will-tencent-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241603",
+      "question": "Will Tencent have the best Chinese AI model at the end of August 2026?",
+      "volume24hr_usd": 4960.112,
+      "volume_total_usd": 39657.88331,
+      "end_date": "2026-08-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 63.0,
-        "No": 37.0
+        "Yes": 0.25,
+        "No": 99.75
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
+      "category": "tech",
+      "market_id": "3205508",
+      "slug": "gemini-4pt0-released-by-september-30-2026",
+      "question": "Gemini 4.0 released by September 30, 2026?",
+      "volume24hr_usd": 4936.991736,
+      "volume_total_usd": 58720.582381,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 22.5,
+        "No": 77.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
+      "category": "tech",
+      "market_id": "2954951",
+      "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241598",
+      "question": "Will DeepSeek have the best Chinese AI model at the end of August 2026?",
+      "volume24hr_usd": 4881.9269410000015,
+      "volume_total_usd": 136422.185297,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.25,
+        "No": 99.75
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-23T03:01:53+00:00",
+      "category": "tech",
+      "market_id": "2954948",
+      "slug": "will-baidu-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241595",
+      "question": "Will Baidu have the best Chinese AI model at the end of August 2026?",
+      "volume24hr_usd": 4806.198713000002,
+      "volume_total_usd": 84954.892424,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
       }
     }
   ]
