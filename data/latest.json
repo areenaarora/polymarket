@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-08-28T13:51:26+00:00",
+  "captured_at_utc": "2026-08-28T23:25:29+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 17727.061234999997,
-      "volume_total_usd": 12808590.374889005,
+      "volume24hr_usd": 14368.428569999996,
+      "volume_total_usd": 12808659.321377004,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,13 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
       "question": "Will Russia capture Lyman by September 30, 2026?",
       "volume24hr_usd": 7935.937433,
-      "volume_total_usd": 114454.836604,
+      "volume_total_usd": 114454.83660400001,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -39,31 +39,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 1843.9366599999996,
-      "volume_total_usd": 426003.488526,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 28.5,
-        "No": 71.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
       "category": "world",
       "market_id": "2676035",
       "slug": "spain-snap-election-called-by-august-31-2026-20260624205647682",
       "question": "Spain snap election called by August 31, 2026?",
-      "volume24hr_usd": 497.40299699999997,
-      "volume_total_usd": 12796.403779,
+      "volume24hr_usd": 697.4484970000001,
+      "volume_total_usd": 12996.449279000002,
       "end_date": "2026-09-01",
       "options": [
         "Yes",
@@ -75,13 +57,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "world",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
+      "volume24hr_usd": 469.376665,
+      "volume_total_usd": 426365.0251909999,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 27.0,
+        "No": 73.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
       "question": "Will Israel annex any territory by December 31?",
       "volume24hr_usd": 26.52,
-      "volume_total_usd": 92331.30120299997,
+      "volume_total_usd": 92331.30120299998,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -93,176 +93,68 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "2955055",
+      "slug": "will-bytedance-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210297",
+      "question": "Will Bytedance have the best AI model at the end of August 2026?",
+      "volume24hr_usd": 75996.255,
+      "volume_total_usd": 425604.08050000004,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "2487205",
+      "slug": "next-mythos-class-model-released-by-august-31-2026",
+      "question": "Next Mythos-Class Model released by August 31, 2026?",
+      "volume24hr_usd": 68746.166995,
+      "volume_total_usd": 207096.601896,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 30.5,
+        "No": 69.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
       "category": "tech",
       "market_id": "920401",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "question": "Will Apple release a foldable iPhone before 2027?",
-      "volume24hr_usd": 44877.14674199999,
-      "volume_total_usd": 406450.8131249999,
+      "volume24hr_usd": 37207.653613,
+      "volume_total_usd": 407481.8903520001,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 92.75,
-        "No": 7.25
+        "Yes": 94.6,
+        "No": 5.4
       }
     },
     {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
       "category": "tech",
-      "market_id": "3212185",
-      "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 35450.510256999994,
-      "volume_total_usd": 179716.154766,
+      "market_id": "3212187",
+      "slug": "will-company-c-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will Apple be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 20278.038083000003,
+      "volume_total_usd": 128919.67215900001,
       "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 92.5,
-        "No": 7.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "2487205",
-      "slug": "next-mythos-class-model-released-by-august-31-2026",
-      "question": "Next Mythos-Class Model released by August 31, 2026?",
-      "volume24hr_usd": 33262.09419900001,
-      "volume_total_usd": 152197.42661700005,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 25.5,
-        "No": 74.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "2941318",
-      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138602",
-      "question": "Will Alphabet be the largest company in the world by market cap on August 31?",
-      "volume24hr_usd": 31029.985,
-      "volume_total_usd": 504737.82386600005,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "2941317",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138601",
-      "question": "Will Apple be the largest company in the world by market cap on August 31?",
-      "volume24hr_usd": 24219.503123,
-      "volume_total_usd": 519183.42062300013,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "2941320",
-      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138604",
-      "question": "Will Saudi Aramco be the largest company in the world by market cap on August 31?",
-      "volume24hr_usd": 24000.0,
-      "volume_total_usd": 176242.97945300004,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "2941315",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
-      "volume24hr_usd": 18561.972377000006,
-      "volume_total_usd": 759527.1705520006,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.75,
-        "No": 0.25
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "3212180",
-      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "question": "Will Alphabet be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 17827.88,
-      "volume_total_usd": 113108.07922399997,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.65,
-        "No": 98.35
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "1333258",
-      "slug": "will-gpt-6-be-released-by-september-30-2026-543-325-933-952-413",
-      "question": "Will GPT-6 be released by September 30, 2026?",
-      "volume24hr_usd": 14853.312028,
-      "volume_total_usd": 292653.46812300023,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 24.5,
-        "No": 75.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "676742",
-      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
-      "question": "Will Alphabet be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 12936.372297000002,
-      "volume_total_usd": 661649.001435,
-      "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
@@ -273,14 +165,86 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
       "category": "tech",
-      "market_id": "3212187",
-      "slug": "will-company-c-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "question": "Will Apple be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 12850.677608,
-      "volume_total_usd": 121031.59835400003,
+      "market_id": "2941315",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "volume24hr_usd": 15754.535533000004,
+      "volume_total_usd": 772051.3294260002,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.6,
+        "No": 0.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "3212185",
+      "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 15129.704225000001,
+      "volume_total_usd": 186448.96699500002,
       "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 89.5,
+        "No": 10.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "2941289",
+      "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
+      "question": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
+      "volume24hr_usd": 13978.755153,
+      "volume_total_usd": 166716.83838999996,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.55,
+        "No": 99.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "1333258",
+      "slug": "will-gpt-6-be-released-by-september-30-2026-543-325-933-952-413",
+      "question": "Will GPT-6 be released by September 30, 2026?",
+      "volume24hr_usd": 13458.715273999996,
+      "volume_total_usd": 295537.8914549999,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 29.5,
+        "No": 70.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "668591",
+      "slug": "gta-6-launch-postponed-again",
+      "question": "GTA 6 launch postponed again?",
+      "volume24hr_usd": 11437.195224,
+      "volume_total_usd": 761851.4919360002,
+      "end_date": "2026-11-19",
       "options": [
         "Yes",
         "No"
@@ -291,157 +255,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "2954946",
-      "slug": "will-alibaba-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241593",
-      "question": "Will Alibaba have the best Chinese AI model at the end of August 2026?",
-      "volume24hr_usd": 12213.111561,
-      "volume_total_usd": 242973.491707,
-      "end_date": "2026-08-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 93.85,
-        "No": 6.15
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
       "category": "tech",
       "market_id": "3759614",
       "slug": "next-mythos-class-model-released-by-september-9-2026-643-974",
       "question": "Next Mythos-Class Model released by September 9, 2026?",
-      "volume24hr_usd": 10455.260973999997,
-      "volume_total_usd": 36208.34324300001,
+      "volume24hr_usd": 10951.635460000001,
+      "volume_total_usd": 44413.18610100002,
       "end_date": "2026-09-09",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 70.5,
-        "No": 29.5
+        "Yes": 72.0,
+        "No": 28.0
       }
     },
     {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "3212189",
-      "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "question": "Will SpaceX be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 9627.338000000002,
-      "volume_total_usd": 64221.609174,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "676739",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 9384.783745,
-      "volume_total_usd": 1104144.754311,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 80.5,
-        "No": 19.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "676741",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
-      "question": "Will Apple be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 9374.959674,
-      "volume_total_usd": 849692.100017,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 11.15,
-        "No": 88.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "2487206",
-      "slug": "next-mythos-class-model-released-by-september-30-2026-695-854-184-325",
-      "question": "Next Mythos-Class Model released by September 30, 2026?",
-      "volume24hr_usd": 9290.129142,
-      "volume_total_usd": 137032.658342,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 90.5,
-        "No": 9.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "3008509",
-      "slug": "will-minimax-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137068",
-      "question": "Will MiniMax have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 9086.641817999998,
-      "volume_total_usd": 23406.172043999995,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
-      "category": "tech",
-      "market_id": "2926628",
-      "slug": "will-the-next-google-gemini-pro-model-be-released-by-august-31-2026-339",
-      "question": "Will the next Google Gemini Pro model be released by August 31, 2026?",
-      "volume24hr_usd": 8896.802167,
-      "volume_total_usd": 332476.75785600016,
-      "end_date": "2026-09-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.0,
-        "No": 98.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-08-28T13:51:26+00:00",
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
       "category": "tech",
       "market_id": "3212184",
       "slug": "will-broadcom-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
       "question": "Will Broadcom be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 8422.746,
-      "volume_total_usd": 61287.1165,
+      "volume24hr_usd": 10618.863,
+      "volume_total_usd": 63504.254499999995,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
@@ -450,6 +288,168 @@
       "results_pct": {
         "Yes": 0.15,
         "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "2954946",
+      "slug": "will-alibaba-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241593",
+      "question": "Will Alibaba have the best Chinese AI model at the end of August 2026?",
+      "volume24hr_usd": 10329.068016000001,
+      "volume_total_usd": 246808.667608,
+      "end_date": "2026-08-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 94.65,
+        "No": 5.35
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "676741",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
+      "question": "Will Apple be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 10087.817797999998,
+      "volume_total_usd": 855614.180057,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 14.4,
+        "No": 85.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "3212182",
+      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will Saudi Aramco be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 10007.868,
+      "volume_total_usd": 65686.595,
+      "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "676739",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 9786.193698,
+      "volume_total_usd": 1112534.9441449998,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 74.5,
+        "No": 25.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "1429755",
+      "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
+      "question": "Will Stripe acquire any part of Paypal in 2026?",
+      "volume24hr_usd": 8361.62502,
+      "volume_total_usd": 82226.56314199998,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 9.5,
+        "No": 90.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "2487206",
+      "slug": "next-mythos-class-model-released-by-september-30-2026-695-854-184-325",
+      "question": "Next Mythos-Class Model released by September 30, 2026?",
+      "volume24hr_usd": 8158.620051000002,
+      "volume_total_usd": 139572.47782000003,
+      "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 87.5,
+        "No": 12.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "3212188",
+      "slug": "will-company-d-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will Amazon be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 7597.847999999999,
+      "volume_total_usd": 102271.92103799999,
+      "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "3275539",
+      "slug": "will-openais-astra-model-be-released-by-september-30-2026-20260801214557732",
+      "question": "Will OpenAI’s Astra model be released by September 30, 2026?",
+      "volume24hr_usd": 7580.892035999999,
+      "volume_total_usd": 73365.83433799999,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 78.75,
+        "No": 21.25
+      }
+    },
+    {
+      "captured_at_utc": "2026-08-28T23:25:29+00:00",
+      "category": "tech",
+      "market_id": "3806752",
+      "slug": "next-mythos-class-model-released-by-october-31-2026-374-866",
+      "question": "Next Mythos-Class Model released by October 31, 2026?",
+      "volume24hr_usd": 7385.609722000001,
+      "volume_total_usd": 17568.458361,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 93.0,
+        "No": 7.0
       }
     }
   ]
