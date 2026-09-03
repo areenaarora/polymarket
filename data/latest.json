@@ -1,33 +1,51 @@
 {
-  "captured_at_utc": "2026-09-03T13:16:50+00:00",
-  "count": 24,
+  "captured_at_utc": "2026-09-03T17:32:57+00:00",
+  "count": 40,
   "rows": [
     {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 38617.90900800002,
-      "volume_total_usd": 12928152.155587994,
+      "volume24hr_usd": 35717.57210700002,
+      "volume_total_usd": 12930218.365587978,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.75,
-        "No": 95.25
+        "Yes": 4.85,
+        "No": 95.15
       }
     },
     {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "2676277",
+      "slug": "will-russia-capture-lyman-by-september-30-2026",
+      "question": "Will Russia capture Lyman by September 30, 2026?",
+      "volume24hr_usd": 412.74,
+      "volume_total_usd": 116266.46793100002,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 3.3,
+        "No": 96.7
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 937.79,
-      "volume_total_usd": 445664.11958500015,
+      "volume24hr_usd": 152.66,
+      "volume_total_usd": 445664.119585,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -39,338 +57,446 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
       "category": "world",
-      "market_id": "2676277",
-      "slug": "will-russia-capture-lyman-by-september-30-2026",
-      "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 447.21,
-      "volume_total_usd": 116266.46793100002,
+      "market_id": "4191606",
+      "slug": "will-jonas-gahr-store-attend-king-harald-vs-funeral",
+      "question": "Will Jonas Gahr Støre attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191605",
+      "slug": "will-jd-vance-attend-king-harald-vs-funeral",
+      "question": "Will JD Vance attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191604",
+      "slug": "will-mark-rutte-attend-king-harald-vs-funeral",
+      "question": "Will Mark Rutte attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191603",
+      "slug": "will-ursula-von-der-leyen-attend-king-harald-vs-funeral",
+      "question": "Will Ursula von der Leyen attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191602",
+      "slug": "will-frank-walter-steinmeier-attend-king-harald-vs-funeral",
+      "question": "Will Frank-Walter Steinmeier attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191601",
+      "slug": "will-emmanuel-macron-attend-king-harald-vs-funeral",
+      "question": "Will Emmanuel Macron attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191600",
+      "slug": "will-halla-tomasdottir-attend-king-harald-vs-funeral",
+      "question": "Will Halla Tómasdóttir attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191599",
+      "slug": "will-alexander-stubb-attend-king-harald-vs-funeral",
+      "question": "Will Alexander Stubb attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191598",
+      "slug": "will-prince-william-attend-king-harald-vs-funeral",
+      "question": "Will Prince William attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191597",
+      "slug": "will-queen-camilla-attend-king-harald-vs-funeral",
+      "question": "Will Queen Camilla attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191596",
+      "slug": "will-prince-albert-ii-attend-king-harald-vs-funeral",
+      "question": "Will Prince Albert II attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191595",
+      "slug": "will-king-felipe-vi-attend-king-harald-vs-funeral",
+      "question": "Will King Felipe VI attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191594",
+      "slug": "will-king-carl-xvi-gustaf-attend-king-harald-vs-funeral",
+      "question": "Will King Carl XVI Gustaf attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191593",
+      "slug": "will-gitanas-nauseda-attend-king-harald-vs-funeral",
+      "question": "Will Gitanas Nausėda attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191592",
+      "slug": "will-edgars-rinkevics-attend-king-harald-vs-funeral",
+      "question": "Will Edgars Rinkēvičs attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191591",
+      "slug": "will-alar-karis-attend-king-harald-vs-funeral",
+      "question": "Will Alar Karis attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "world",
+      "market_id": "4191590",
+      "slug": "will-princess-beatrix-attend-king-harald-vs-funeral",
+      "question": "Will Princess Beatrix attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "4054698",
+      "slug": "will-openais-astra-model-be-released-by-september-3-2026",
+      "question": "Will OpenAI’s Astra model be released by September 3, 2026?",
+      "volume24hr_usd": 252098.24774799988,
+      "volume_total_usd": 304778.1061689999,
+      "end_date": "2026-09-03",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 93.45,
+        "No": 6.55
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "4060942",
+      "slug": "will-openais-astra-model-be-released-on-september-3-2026",
+      "question": "Will OpenAI's Astra model be released on September 3, 2026?",
+      "volume24hr_usd": 84374.349372,
+      "volume_total_usd": 90240.21197100001,
+      "end_date": "2026-09-03",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 94.4,
+        "No": 5.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "1333258",
+      "slug": "will-gpt-6-be-released-by-september-30-2026-543-325-933-952-413",
+      "question": "Will GPT-6 be released by September 30, 2026?",
+      "volume24hr_usd": 72498.81257799998,
+      "volume_total_usd": 521300.75079900003,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.35,
-        "No": 96.65
+        "Yes": 98.45,
+        "No": 1.55
       }
     },
     {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "world",
-      "market_id": "1939065",
-      "slug": "will-israel-annex-any-territory-by-december-31-348",
-      "question": "Will Israel annex any territory by December 31?",
-      "volume24hr_usd": 0.0,
-      "volume_total_usd": 92886.76735399997,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 9.0,
-        "No": 91.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
       "category": "tech",
       "market_id": "3584199",
       "slug": "will-gpt-6-be-released-by-september-15-2026",
       "question": "Will GPT-6 be released by September 15, 2026?",
-      "volume24hr_usd": 120115.92056599994,
-      "volume_total_usd": 146357.128118,
+      "volume24hr_usd": 69783.85839299999,
+      "volume_total_usd": 187279.33382399997,
       "end_date": "2026-09-16",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 93.0,
-        "No": 7.0
+        "Yes": 98.2,
+        "No": 1.8
       }
     },
     {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "1333258",
-      "slug": "will-gpt-6-be-released-by-september-30-2026-543-325-933-952-413",
-      "question": "Will GPT-6 be released by September 30, 2026?",
-      "volume24hr_usd": 110413.74837800008,
-      "volume_total_usd": 489597.3358489999,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 95.5,
-        "No": 4.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
       "category": "tech",
       "market_id": "676829",
       "slug": "will-gpt-6-be-released-by-december-31-2026-834-362-194-984-527-328-225",
       "question": "Will GPT-6 be released by December 31, 2026?",
-      "volume24hr_usd": 91621.72086399997,
-      "volume_total_usd": 294268.254412,
+      "volume24hr_usd": 64873.95156700003,
+      "volume_total_usd": 313651.24234799994,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 96.8,
-        "No": 3.2
+        "Yes": 99.85,
+        "No": 0.15
       }
     },
     {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "4054698",
-      "slug": "will-openais-astra-model-be-released-by-september-3-2026",
-      "question": "Will OpenAI’s Astra model be released by September 3, 2026?",
-      "volume24hr_usd": 79947.20406199999,
-      "volume_total_usd": 108289.53279999994,
-      "end_date": "2026-09-03",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 88.0,
-        "No": 12.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
       "category": "tech",
       "market_id": "3008499",
       "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
       "question": "Will OpenAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 37055.431341999996,
-      "volume_total_usd": 120078.49474300002,
+      "volume24hr_usd": 44007.66286999998,
+      "volume_total_usd": 134323.48437399996,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 9.55,
-        "No": 90.45
+        "Yes": 11.45,
+        "No": 88.55
       }
     },
     {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
       "category": "tech",
       "market_id": "3008494",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
       "question": "Will Anthropic have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 33813.793841,
-      "volume_total_usd": 196589.96188199997,
+      "volume24hr_usd": 40384.34977799999,
+      "volume_total_usd": 206506.46790299995,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 87.5,
-        "No": 12.5
+        "Yes": 85.5,
+        "No": 14.5
       }
     },
     {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
       "category": "tech",
-      "market_id": "4060942",
-      "slug": "will-openais-astra-model-be-released-on-september-3-2026",
-      "question": "Will OpenAI's Astra model be released on September 3, 2026?",
-      "volume24hr_usd": 33468.379798999995,
-      "volume_total_usd": 36833.600514,
-      "end_date": "2026-09-03",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 88.55,
-        "No": 11.45
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "3205508",
-      "slug": "gemini-4pt0-released-by-september-30-2026",
-      "question": "Gemini 4.0 released by September 30, 2026?",
-      "volume24hr_usd": 28307.615219999996,
-      "volume_total_usd": 217742.21440399997,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 34.0,
-        "No": 66.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "3008495",
-      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
-      "question": "Will Meta have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 27394.819125,
-      "volume_total_usd": 89731.262144,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.25,
-        "No": 99.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "3584209",
-      "slug": "will-gpt-6-be-released-by-november-30-2026",
-      "question": "Will GPT-6 be released by November 30, 2026?",
-      "volume24hr_usd": 22783.330057,
-      "volume_total_usd": 23866.345435000003,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 96.6,
-        "No": 3.4
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "3008503",
-      "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137062",
-      "question": "Will SpaceXAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 20779.414007000003,
-      "volume_total_usd": 93868.583635,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.4,
-        "No": 99.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "1831352",
-      "slug": "will-any-ai-model-reach-1520-overall-arena-score-by-september-30-2026",
-      "question": "Will any AI model reach 1520 Overall Arena Score by September 30, 2026?",
-      "volume24hr_usd": 20743.757672999996,
-      "volume_total_usd": 50373.283349,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 94.05,
-        "No": 5.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "3591682",
-      "slug": "will-openais-astra-model-be-released-between-august-31-and-september-6-2026",
-      "question": "Will OpenAI’s Astra model be released between August 31 and September 6, 2026?",
-      "volume24hr_usd": 18862.740358999996,
-      "volume_total_usd": 21132.861899999993,
-      "end_date": "2026-12-06",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 96.4,
-        "No": 3.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "3379789",
-      "slug": "will-openais-astra-model-be-released-by-september-15-2026-835-392-233-788",
-      "question": "Will OpenAI’s Astra model be released by September 15, 2026?",
-      "volume24hr_usd": 18032.171069,
-      "volume_total_usd": 110304.966856,
-      "end_date": "2026-09-15",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 97.9,
-        "No": 2.1
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "3008496",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137055",
-      "question": "Will Google have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 16685.590876,
-      "volume_total_usd": 108699.89428499999,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.8,
-        "No": 97.2
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "4054699",
-      "slug": "will-openais-astra-model-be-released-by-september-4-2026",
-      "question": "Will OpenAI’s Astra model be released by September 4, 2026?",
-      "volume24hr_usd": 16196.432756999999,
-      "volume_total_usd": 28798.929795000004,
-      "end_date": "2026-09-04",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 94.0,
-        "No": 6.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "3008504",
-      "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137063",
-      "question": "Will DeepSeek have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 14694.847999999998,
-      "volume_total_usd": 71844.11472900001,
-      "end_date": "2026-10-01",
+      "market_id": "3212184",
+      "slug": "will-broadcom-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will Broadcom be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 40015.766,
+      "volume_total_usd": 118963.2375,
+      "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
@@ -381,57 +507,219 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
       "category": "tech",
-      "market_id": "3584200",
-      "slug": "will-gpt-6-be-released-by-october-31-2026",
-      "question": "Will GPT-6 be released by October 31, 2026?",
-      "volume24hr_usd": 14128.884102,
-      "volume_total_usd": 25161.220920000007,
-      "end_date": "2026-11-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 95.85,
-        "No": 4.15
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "3212185",
-      "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 13593.402706000006,
-      "volume_total_usd": 241301.173722,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 92.5,
-        "No": 7.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T13:16:50+00:00",
-      "category": "tech",
-      "market_id": "3008497",
-      "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137056",
-      "question": "Will Alibaba have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 13181.512500000003,
-      "volume_total_usd": 100472.062275,
+      "market_id": "3008495",
+      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
+      "question": "Will Meta have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 39428.715625000004,
+      "volume_total_usd": 104313.34764400001,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.25,
-        "No": 99.75
+        "Yes": 1.15,
+        "No": 98.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "4054699",
+      "slug": "will-openais-astra-model-be-released-by-september-4-2026",
+      "question": "Will OpenAI’s Astra model be released by September 4, 2026?",
+      "volume24hr_usd": 36367.49312600001,
+      "volume_total_usd": 56714.11376500001,
+      "end_date": "2026-09-04",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 97.35,
+        "No": 2.65
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "3275539",
+      "slug": "will-openais-astra-model-be-released-by-september-30-2026-20260801214557732-695-129-613-539",
+      "question": "Will OpenAI’s Astra model be released by September 30, 2026?",
+      "volume24hr_usd": 31398.388856999998,
+      "volume_total_usd": 149515.77869,
+      "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.9,
+        "No": 0.1
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "3591682",
+      "slug": "will-openais-astra-model-be-released-between-august-31-and-september-6-2026",
+      "question": "Will OpenAI’s Astra model be released between August 31 and September 6, 2026?",
+      "volume24hr_usd": 25410.557536999997,
+      "volume_total_usd": 31701.322084999996,
+      "end_date": "2026-12-06",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.2,
+        "No": 0.8
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "676746",
+      "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+      "question": "Will SpaceX be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 25398.158460999995,
+      "volume_total_usd": 603955.9516689999,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.95,
+        "No": 99.05
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "1831352",
+      "slug": "will-any-ai-model-reach-1520-overall-arena-score-by-september-30-2026",
+      "question": "Will any AI model reach 1520 Overall Arena Score by September 30, 2026?",
+      "volume24hr_usd": 23923.773626,
+      "volume_total_usd": 53873.259302,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 86.2,
+        "No": 13.8
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "3379789",
+      "slug": "will-openais-astra-model-be-released-by-september-15-2026-835-392-233-788",
+      "question": "Will OpenAI’s Astra model be released by September 15, 2026?",
+      "volume24hr_usd": 23779.544857999997,
+      "volume_total_usd": 120914.12154000002,
+      "end_date": "2026-09-15",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 98.95,
+        "No": 1.05
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "3205508",
+      "slug": "gemini-4pt0-released-by-september-30-2026",
+      "question": "Gemini 4.0 released by September 30, 2026?",
+      "volume24hr_usd": 21402.804724999995,
+      "volume_total_usd": 219053.88440399998,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 33.5,
+        "No": 66.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "3008496",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137055",
+      "question": "Will Google have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 17998.755157,
+      "volume_total_usd": 114485.17980499999,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 2.6,
+        "No": 97.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "3008504",
+      "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137063",
+      "question": "Will DeepSeek have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 17122.740999999998,
+      "volume_total_usd": 76837.68472899999,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "3008503",
+      "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137062",
+      "question": "Will SpaceXAI have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 16964.620564999997,
+      "volume_total_usd": 100040.92730099999,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.5,
+        "No": 99.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T17:32:57+00:00",
+      "category": "tech",
+      "market_id": "3008501",
+      "slug": "will-zptai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137060",
+      "question": "Will Z.ai have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 15875.216835999996,
+      "volume_total_usd": 85332.744438,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.4,
+        "No": 99.6
       }
     }
   ]
