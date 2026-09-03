@@ -1,33 +1,33 @@
 {
-  "captured_at_utc": "2026-09-03T08:35:30+00:00",
+  "captured_at_utc": "2026-09-03T13:16:50+00:00",
   "count": 24,
   "rows": [
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 24328.659528999997,
-      "volume_total_usd": 12910484.268820988,
+      "volume24hr_usd": 38617.90900800002,
+      "volume_total_usd": 12928152.155587994,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.65,
-        "No": 95.35
+        "Yes": 4.75,
+        "No": 95.25
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 961.305819,
-      "volume_total_usd": 445664.1195850001,
+      "volume24hr_usd": 937.79,
+      "volume_total_usd": 445664.11958500015,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -39,25 +39,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
       "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 589.912757,
-      "volume_total_usd": 116266.46793099999,
+      "volume24hr_usd": 447.21,
+      "volume_total_usd": 116266.46793100002,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.3,
-        "No": 96.7
+        "Yes": 3.35,
+        "No": 96.65
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -75,121 +75,157 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
-      "category": "tech",
-      "market_id": "1333258",
-      "slug": "will-gpt-6-be-released-by-september-30-2026-543-325-933-952-413",
-      "question": "Will GPT-6 be released by September 30, 2026?",
-      "volume24hr_usd": 118647.26286100005,
-      "volume_total_usd": 481835.6981300001,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 92.0,
-        "No": 8.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
       "market_id": "3584199",
       "slug": "will-gpt-6-be-released-by-september-15-2026",
       "question": "Will GPT-6 be released by September 15, 2026?",
-      "volume24hr_usd": 115361.61522699997,
-      "volume_total_usd": 137098.83594199998,
+      "volume24hr_usd": 120115.92056599994,
+      "volume_total_usd": 146357.128118,
       "end_date": "2026-09-16",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 86.5,
-        "No": 13.5
+        "Yes": 93.0,
+        "No": 7.0
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "category": "tech",
+      "market_id": "1333258",
+      "slug": "will-gpt-6-be-released-by-september-30-2026-543-325-933-952-413",
+      "question": "Will GPT-6 be released by September 30, 2026?",
+      "volume24hr_usd": 110413.74837800008,
+      "volume_total_usd": 489597.3358489999,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 95.5,
+        "No": 4.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
       "market_id": "676829",
       "slug": "will-gpt-6-be-released-by-december-31-2026-834-362-194-984-527-328-225",
       "question": "Will GPT-6 be released by December 31, 2026?",
-      "volume24hr_usd": 94144.67114199999,
-      "volume_total_usd": 281813.42861800006,
+      "volume24hr_usd": 91621.72086399997,
+      "volume_total_usd": 294268.254412,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 95.75,
-        "No": 4.25
+        "Yes": 96.8,
+        "No": 3.2
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
       "market_id": "4054698",
       "slug": "will-openais-astra-model-be-released-by-september-3-2026",
       "question": "Will OpenAI’s Astra model be released by September 3, 2026?",
-      "volume24hr_usd": 66609.83346700003,
-      "volume_total_usd": 86977.09934699991,
+      "volume24hr_usd": 79947.20406199999,
+      "volume_total_usd": 108289.53279999994,
       "end_date": "2026-09-03",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 79.5,
-        "No": 20.5
+        "Yes": 88.0,
+        "No": 12.0
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "category": "tech",
+      "market_id": "3008499",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
+      "question": "Will OpenAI have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 37055.431341999996,
+      "volume_total_usd": 120078.49474300002,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 9.55,
+        "No": 90.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
       "market_id": "3008494",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
       "question": "Will Anthropic have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 33803.508317,
-      "volume_total_usd": 194028.897671,
+      "volume24hr_usd": 33813.793841,
+      "volume_total_usd": 196589.96188199997,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 88.5,
-        "No": 11.5
+        "Yes": 87.5,
+        "No": 12.5
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "category": "tech",
+      "market_id": "4060942",
+      "slug": "will-openais-astra-model-be-released-on-september-3-2026",
+      "question": "Will OpenAI's Astra model be released on September 3, 2026?",
+      "volume24hr_usd": 33468.379798999995,
+      "volume_total_usd": 36833.600514,
+      "end_date": "2026-09-03",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 88.55,
+        "No": 11.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
       "market_id": "3205508",
       "slug": "gemini-4pt0-released-by-september-30-2026",
       "question": "Gemini 4.0 released by September 30, 2026?",
-      "volume24hr_usd": 29499.882512999997,
-      "volume_total_usd": 217273.14440400002,
+      "volume24hr_usd": 28307.615219999996,
+      "volume_total_usd": 217742.21440399997,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 35.5,
-        "No": 64.5
+        "Yes": 34.0,
+        "No": 66.0
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
       "market_id": "3008495",
       "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
       "question": "Will Meta have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 25903.444625,
-      "volume_total_usd": 87656.31864400001,
+      "volume24hr_usd": 27394.819125,
+      "volume_total_usd": 89731.262144,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -201,122 +237,122 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
-      "category": "tech",
-      "market_id": "4060942",
-      "slug": "will-openais-astra-model-be-released-on-september-3-2026",
-      "question": "Will OpenAI's Astra model be released on September 3, 2026?",
-      "volume24hr_usd": 22657.319382999995,
-      "volume_total_usd": 24072.458152,
-      "end_date": "2026-09-03",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 80.25,
-        "No": 19.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
-      "category": "tech",
-      "market_id": "3008503",
-      "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137062",
-      "question": "Will SpaceXAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 22564.644841,
-      "volume_total_usd": 91741.00646900001,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.45,
-        "No": 99.55
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
       "market_id": "3584209",
       "slug": "will-gpt-6-be-released-by-november-30-2026",
       "question": "Will GPT-6 be released by November 30, 2026?",
-      "volume24hr_usd": 21620.573463,
-      "volume_total_usd": 22145.398841,
+      "volume24hr_usd": 22783.330057,
+      "volume_total_usd": 23866.345435000003,
       "end_date": "2026-12-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 95.7,
-        "No": 4.3
+        "Yes": 96.6,
+        "No": 3.4
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
-      "market_id": "3008499",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
-      "question": "Will OpenAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 21494.030619,
-      "volume_total_usd": 103079.765525,
+      "market_id": "3008503",
+      "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137062",
+      "question": "Will SpaceXAI have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 20779.414007000003,
+      "volume_total_usd": 93868.583635,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 8.95,
-        "No": 91.05
+        "Yes": 0.4,
+        "No": 99.6
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
       "market_id": "1831352",
       "slug": "will-any-ai-model-reach-1520-overall-arena-score-by-september-30-2026",
       "question": "Will any AI model reach 1520 Overall Arena Score by September 30, 2026?",
-      "volume24hr_usd": 19804.778528999996,
-      "volume_total_usd": 49434.30420500001,
+      "volume24hr_usd": 20743.757672999996,
+      "volume_total_usd": 50373.283349,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 94.3,
-        "No": 5.7
+        "Yes": 94.05,
+        "No": 5.95
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "category": "tech",
+      "market_id": "3591682",
+      "slug": "will-openais-astra-model-be-released-between-august-31-and-september-6-2026",
+      "question": "Will OpenAI’s Astra model be released between August 31 and September 6, 2026?",
+      "volume24hr_usd": 18862.740358999996,
+      "volume_total_usd": 21132.861899999993,
+      "end_date": "2026-12-06",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 96.4,
+        "No": 3.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "category": "tech",
+      "market_id": "3379789",
+      "slug": "will-openais-astra-model-be-released-by-september-15-2026-835-392-233-788",
+      "question": "Will OpenAI’s Astra model be released by September 15, 2026?",
+      "volume24hr_usd": 18032.171069,
+      "volume_total_usd": 110304.966856,
+      "end_date": "2026-09-15",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 97.9,
+        "No": 2.1
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
       "market_id": "3008496",
       "slug": "will-google-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137055",
       "question": "Will Google have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 19113.376960999994,
-      "volume_total_usd": 106520.95082500004,
+      "volume24hr_usd": 16685.590876,
+      "volume_total_usd": 108699.89428499999,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.65,
-        "No": 97.35
+        "Yes": 2.8,
+        "No": 97.2
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
-      "market_id": "3584200",
-      "slug": "will-gpt-6-be-released-by-october-31-2026",
-      "question": "Will GPT-6 be released by October 31, 2026?",
-      "volume24hr_usd": 18885.698391,
-      "volume_total_usd": 24266.255209000003,
-      "end_date": "2026-11-01",
+      "market_id": "4054699",
+      "slug": "will-openais-astra-model-be-released-by-september-4-2026",
+      "question": "Will OpenAI’s Astra model be released by September 4, 2026?",
+      "volume24hr_usd": 16196.432756999999,
+      "volume_total_usd": 28798.929795000004,
+      "end_date": "2026-09-04",
       "options": [
         "Yes",
         "No"
@@ -327,85 +363,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
-      "category": "tech",
-      "market_id": "3379789",
-      "slug": "will-openais-astra-model-be-released-by-september-15-2026-835-392-233-788",
-      "question": "Will OpenAI’s Astra model be released by September 15, 2026?",
-      "volume24hr_usd": 15150.607753,
-      "volume_total_usd": 105447.131485,
-      "end_date": "2026-09-15",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 97.6,
-        "No": 2.4
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
-      "category": "tech",
-      "market_id": "4054699",
-      "slug": "will-openais-astra-model-be-released-by-september-4-2026",
-      "question": "Will OpenAI’s Astra model be released by September 4, 2026?",
-      "volume24hr_usd": 14507.970146,
-      "volume_total_usd": 24687.722499000003,
-      "end_date": "2026-09-04",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 89.0,
-        "No": 11.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
-      "category": "tech",
-      "market_id": "3212187",
-      "slug": "will-company-c-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "question": "Will Apple be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 14367.602666,
-      "volume_total_usd": 170507.00668599998,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 6.5,
-        "No": 93.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
-      "category": "tech",
-      "market_id": "3212185",
-      "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 12986.909346000002,
-      "volume_total_usd": 240476.551362,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 92.5,
-        "No": 7.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
       "market_id": "3008504",
       "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137063",
       "question": "Will DeepSeek have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 12748.017,
-      "volume_total_usd": 69401.515729,
+      "volume24hr_usd": 14694.847999999998,
+      "volume_total_usd": 71844.11472900001,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -417,21 +381,57 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-03T08:35:30+00:00",
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
       "category": "tech",
-      "market_id": "3591682",
-      "slug": "will-openais-astra-model-be-released-between-august-31-and-september-6-2026",
-      "question": "Will OpenAI’s Astra model be released between August 31 and September 6, 2026?",
-      "volume24hr_usd": 12267.143178999999,
-      "volume_total_usd": 12911.676971999997,
-      "end_date": "2026-12-06",
+      "market_id": "3584200",
+      "slug": "will-gpt-6-be-released-by-october-31-2026",
+      "question": "Will GPT-6 be released by October 31, 2026?",
+      "volume24hr_usd": 14128.884102,
+      "volume_total_usd": 25161.220920000007,
+      "end_date": "2026-11-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 92.0,
-        "No": 8.0
+        "Yes": 95.85,
+        "No": 4.15
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "category": "tech",
+      "market_id": "3212185",
+      "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 13593.402706000006,
+      "volume_total_usd": 241301.173722,
+      "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 92.5,
+        "No": 7.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-03T13:16:50+00:00",
+      "category": "tech",
+      "market_id": "3008497",
+      "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137056",
+      "question": "Will Alibaba have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 13181.512500000003,
+      "volume_total_usd": 100472.062275,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.25,
+        "No": 99.75
       }
     }
   ]
