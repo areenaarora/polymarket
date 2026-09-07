@@ -1,16 +1,70 @@
 {
-  "captured_at_utc": "2026-09-07T08:59:08+00:00",
+  "captured_at_utc": "2026-09-07T15:00:06+00:00",
   "count": 40,
   "rows": [
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 8824.219186,
-      "volume_total_usd": 13010351.310440991,
+      "volume24hr_usd": 32906.521067,
+      "volume_total_usd": 13039172.53900899,
       "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 4.05,
+        "No": 95.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "world",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
+      "volume24hr_usd": 3467.803191,
+      "volume_total_usd": 455364.81277600006,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 17.5,
+        "No": 82.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "world",
+      "market_id": "2676277",
+      "slug": "will-russia-capture-lyman-by-september-30-2026",
+      "question": "Will Russia capture Lyman by September 30, 2026?",
+      "volume24hr_usd": 1260.12,
+      "volume_total_usd": 120835.382658,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 2.05,
+        "No": 97.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "world",
+      "market_id": "4191579",
+      "slug": "will-king-charles-iii-attend-king-harald-vs-funeral",
+      "question": "Will King Charles III attend King Harald V's funeral?",
+      "volume24hr_usd": 309.9201,
+      "volume_total_usd": 1770.0734149999998,
+      "end_date": "2026-09-13",
       "options": [
         "Yes",
         "No"
@@ -21,115 +75,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 2503.4449999999997,
-      "volume_total_usd": 454266.38458500005,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 18.5,
-        "No": 81.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "world",
-      "market_id": "4191582",
-      "slug": "will-mette-frederiksen-attend-king-harald-vs-funeral",
-      "question": "Will Mette Frederiksen attend King Harald V's funeral?",
-      "volume24hr_usd": 764.6300000000001,
-      "volume_total_usd": 1130.463332,
-      "end_date": "2026-09-13",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 8.0,
-        "No": 92.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "world",
-      "market_id": "2676277",
-      "slug": "will-russia-capture-lyman-by-september-30-2026",
-      "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 219.01999999999998,
-      "volume_total_usd": 119686.372658,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.2,
-        "No": 97.8
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "world",
-      "market_id": "4191594",
-      "slug": "will-king-carl-xvi-gustaf-attend-king-harald-vs-funeral",
-      "question": "Will King Carl XVI Gustaf attend King Harald V's funeral?",
-      "volume24hr_usd": 212.6,
-      "volume_total_usd": 897.19285,
-      "end_date": "2026-09-13",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 98.95,
-        "No": 1.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "world",
-      "market_id": "4191579",
-      "slug": "will-king-charles-iii-attend-king-harald-vs-funeral",
-      "question": "Will King Charles III attend King Harald V's funeral?",
-      "volume24hr_usd": 131.426765,
-      "volume_total_usd": 1578.1634149999998,
-      "end_date": "2026-09-13",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 3.3,
-        "No": 96.7
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "world",
-      "market_id": "4191597",
-      "slug": "will-queen-camilla-attend-king-harald-vs-funeral",
-      "question": "Will Queen Camilla attend King Harald V's funeral?",
-      "volume24hr_usd": 51.400000000000006,
-      "volume_total_usd": 364.31197299999997,
-      "end_date": "2026-09-13",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.55,
-        "No": 99.45
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191598",
       "slug": "will-prince-william-attend-king-harald-vs-funeral",
@@ -147,7 +93,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191604",
       "slug": "will-mark-rutte-attend-king-harald-vs-funeral",
@@ -160,12 +106,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 2.85,
-        "No": 97.15
+        "Yes": 2.6,
+        "No": 97.4
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191602",
       "slug": "will-frank-walter-steinmeier-attend-king-harald-vs-funeral",
@@ -183,7 +129,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191596",
       "slug": "will-prince-albert-ii-attend-king-harald-vs-funeral",
@@ -201,43 +147,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
-      "market_id": "4191590",
-      "slug": "will-princess-beatrix-attend-king-harald-vs-funeral",
-      "question": "Will Princess Beatrix attend King Harald V's funeral?",
+      "market_id": "4191582",
+      "slug": "will-mette-frederiksen-attend-king-harald-vs-funeral",
+      "question": "Will Mette Frederiksen attend King Harald V's funeral?",
       "volume24hr_usd": 10.0,
-      "volume_total_usd": 10.0,
+      "volume_total_usd": 1130.463332,
       "end_date": "2026-09-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 62.5,
-        "No": 37.5
+        "Yes": 16.0,
+        "No": 84.0
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "world",
-      "market_id": "4191589",
-      "slug": "will-crown-prince-fumihito-attend-king-harald-vs-funeral",
-      "question": "Will Crown Prince Fumihito attend King Harald V's funeral?",
-      "volume24hr_usd": 10.0,
-      "volume_total_usd": 74.0309,
-      "end_date": "2026-09-13",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 95.7,
-        "No": 4.3
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191606",
       "slug": "will-jonas-gahr-store-attend-king-harald-vs-funeral",
@@ -250,12 +178,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 96.1,
-        "No": 3.9
+        "Yes": 96.2,
+        "No": 3.8
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191605",
       "slug": "will-jd-vance-attend-king-harald-vs-funeral",
@@ -273,7 +201,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191603",
       "slug": "will-ursula-von-der-leyen-attend-king-harald-vs-funeral",
@@ -291,7 +219,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191601",
       "slug": "will-emmanuel-macron-attend-king-harald-vs-funeral",
@@ -304,12 +232,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 8.0,
-        "No": 92.0
+        "Yes": 7.5,
+        "No": 92.5
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191600",
       "slug": "will-halla-tomasdottir-attend-king-harald-vs-funeral",
@@ -322,12 +250,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 62.1,
-        "No": 37.9
+        "Yes": 61.6,
+        "No": 38.4
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191599",
       "slug": "will-alexander-stubb-attend-king-harald-vs-funeral",
@@ -340,12 +268,30 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 61.45,
-        "No": 38.55
+        "Yes": 61.35,
+        "No": 38.65
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "world",
+      "market_id": "4191597",
+      "slug": "will-queen-camilla-attend-king-harald-vs-funeral",
+      "question": "Will Queen Camilla attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 364.31197299999997,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.05,
+        "No": 98.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "world",
       "market_id": "4191595",
       "slug": "will-king-felipe-vi-attend-king-harald-vs-funeral",
@@ -358,144 +304,252 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 96.8,
-        "No": 3.2
+        "Yes": 96.75,
+        "No": 3.25
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "tech",
-      "market_id": "3008499",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
-      "question": "Will OpenAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 52807.302888000006,
-      "volume_total_usd": 455545.88923600013,
-      "end_date": "2026-10-01",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "world",
+      "market_id": "4191594",
+      "slug": "will-king-carl-xvi-gustaf-attend-king-harald-vs-funeral",
+      "question": "Will King Carl XVI Gustaf attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 897.19285,
+      "end_date": "2026-09-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 11.1,
-        "No": 88.9
+        "Yes": 99.3,
+        "No": 0.7
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "world",
+      "market_id": "4191593",
+      "slug": "will-gitanas-nauseda-attend-king-harald-vs-funeral",
+      "question": "Will Gitanas Nausėda attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 26.00765,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 62.5,
+        "No": 37.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "world",
+      "market_id": "4191592",
+      "slug": "will-edgars-rinkevics-attend-king-harald-vs-funeral",
+      "question": "Will Edgars Rinkēvičs attend King Harald V's funeral?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 60.0,
+        "No": 40.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
-      "market_id": "653788",
-      "slug": "openai-announces-it-has-achieved-agi-before-2027",
-      "question": "OpenAI announces it has achieved AGI before 2027?",
-      "volume24hr_usd": 52049.584998,
-      "volume_total_usd": 198160.98329399995,
+      "market_id": "676743",
+      "slug": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-december-31-139",
+      "question": "Will Tesla be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 72065.379,
+      "volume_total_usd": 825187.0818570004,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 30.5,
-        "No": 69.5
+        "Yes": 0.15,
+        "No": 99.85
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
-      "market_id": "3008495",
-      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
-      "question": "Will Meta have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 30902.761166,
-      "volume_total_usd": 305304.5507299999,
+      "market_id": "3008499",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
+      "question": "Will OpenAI have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 45778.898668,
+      "volume_total_usd": 460317.5402180002,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.45,
-        "No": 99.55
+        "Yes": 11.5,
+        "No": 88.5
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "tech",
+      "market_id": "3212182",
+      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will Saudi Aramco be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 45239.19499999999,
+      "volume_total_usd": 135491.37199999997,
+      "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "tech",
+      "market_id": "676745",
+      "slug": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-december-31-376",
+      "question": "Will Amazon be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 41582.522,
+      "volume_total_usd": 858403.1118609997,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "tech",
+      "market_id": "653788",
+      "slug": "openai-announces-it-has-achieved-agi-before-2027",
+      "question": "OpenAI announces it has achieved AGI before 2027?",
+      "volume24hr_usd": 31548.96216,
+      "volume_total_usd": 208712.66941299997,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 23.5,
+        "No": 76.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
       "market_id": "3008494",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
       "question": "Will Anthropic have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 26419.695608,
-      "volume_total_usd": 529193.490318,
+      "volume24hr_usd": 28830.639674,
+      "volume_total_usd": 536752.057035,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 85.5,
-        "No": 14.5
+        "Yes": 86.5,
+        "No": 13.5
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "tech",
+      "market_id": "3212186",
+      "slug": "will-company-b-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will Microsoft be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 25720.646,
+      "volume_total_usd": 142893.18128299998,
+      "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "tech",
+      "market_id": "3212188",
+      "slug": "will-company-d-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will Amazon be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 20175.85,
+      "volume_total_usd": 149107.190038,
+      "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "tech",
+      "market_id": "3008495",
+      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
+      "question": "Will Meta have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 19183.501416,
+      "volume_total_usd": 305377.19097999996,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.5,
+        "No": 99.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
       "market_id": "3008503",
       "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137062",
       "question": "Will SpaceXAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 26182.309333,
-      "volume_total_usd": 230031.26013000007,
+      "volume24hr_usd": 17347.975333,
+      "volume_total_usd": 234577.67313000007,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.25,
-        "No": 99.75
+        "Yes": 0.3,
+        "No": 99.7
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "tech",
-      "market_id": "3572982",
-      "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1510",
-      "question": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1510?",
-      "volume24hr_usd": 14451.941729000002,
-      "volume_total_usd": 48662.95833800001,
-      "end_date": "",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 16.5,
-        "No": 83.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "tech",
-      "market_id": "3572981",
-      "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1500",
-      "question": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1500?",
-      "volume24hr_usd": 14143.758151,
-      "volume_total_usd": 52098.49664000001,
-      "end_date": "",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 31.0,
-        "No": 69.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
       "market_id": "668591",
       "slug": "gta-6-launch-postponed-again",
       "question": "GTA 6 launch postponed again?",
-      "volume24hr_usd": 12855.623431999999,
-      "volume_total_usd": 789636.2210660003,
+      "volume24hr_usd": 13800.24634,
+      "volume_total_usd": 790736.9920340002,
       "end_date": "2026-11-19",
       "options": [
         "Yes",
@@ -507,121 +561,139 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "tech",
+      "market_id": "3572982",
+      "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1510",
+      "question": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1510?",
+      "volume24hr_usd": 13550.208648999998,
+      "volume_total_usd": 50135.33186600001,
+      "end_date": "",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 18.0,
+        "No": 82.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
+      "category": "tech",
+      "market_id": "3572981",
+      "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1500",
+      "question": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1500?",
+      "volume24hr_usd": 12761.513739,
+      "volume_total_usd": 52476.776640000004,
+      "end_date": "",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 30.5,
+        "No": 69.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
       "market_id": "2431417",
       "slug": "will-xai-have-the-best-ai-model-at-the-end-of-december-2026",
       "question": "Will xAI have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 11488.125896,
-      "volume_total_usd": 98521.97792899999,
+      "volume24hr_usd": 10442.946715,
+      "volume_total_usd": 98941.97792899999,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.7,
-        "No": 95.3
+        "Yes": 5.05,
+        "No": 94.95
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
-      "market_id": "3572983",
-      "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1520",
-      "question": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1520?",
-      "volume24hr_usd": 10219.310629,
-      "volume_total_usd": 35009.15539,
-      "end_date": "",
+      "market_id": "2479348",
+      "slug": "tesla-and-spacex-merger-officially-announced-by-september-30",
+      "question": "Tesla and SpaceX merger officially announced by September 30?",
+      "volume24hr_usd": 10441.11842,
+      "volume_total_usd": 366336.8659980001,
+      "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 8.5,
-        "No": 91.5
+        "Yes": 2.7,
+        "No": 97.3
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
       "market_id": "3572979",
       "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1480",
       "question": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1480?",
-      "volume24hr_usd": 10070.664347,
-      "volume_total_usd": 53395.393919999995,
+      "volume24hr_usd": 9304.530283,
+      "volume_total_usd": 54917.78980099999,
       "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 67.0,
-        "No": 33.0
+        "Yes": 67.5,
+        "No": 32.5
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
       "market_id": "4117967",
       "slug": "will-apple-release-a-foldable-iphone-by-september-30-453-458",
       "question": "Will Apple release a foldable iPhone by September 30?",
-      "volume24hr_usd": 8700.863774000001,
-      "volume_total_usd": 24105.863033,
+      "volume24hr_usd": 8727.946887,
+      "volume_total_usd": 25158.460494,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 36.5,
-        "No": 63.5
+        "Yes": 51.5,
+        "No": 48.5
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
-      "market_id": "3212188",
-      "slug": "will-company-d-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "question": "Will Amazon be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 8325.418,
-      "volume_total_usd": 135340.57003799998,
-      "end_date": "2026-09-30",
+      "market_id": "3572983",
+      "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1520",
+      "question": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1520?",
+      "volume24hr_usd": 8149.563069,
+      "volume_total_usd": 35660.805434,
+      "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
+        "Yes": 8.25,
+        "No": 91.75
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "tech",
-      "market_id": "4215005",
-      "slug": "claude-6-released-by-december-31-2027",
-      "question": "Claude 6 released by December 31, 2027?",
-      "volume24hr_usd": 7362.201875999999,
-      "volume_total_usd": 7543.061804,
-      "end_date": "2027-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 86.5,
-        "No": 13.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
       "market_id": "4117966",
       "slug": "will-apple-release-a-foldable-iphone-by-september-15-877-292",
       "question": "Will Apple release a foldable iPhone by September 15?",
-      "volume24hr_usd": 7312.196484,
-      "volume_total_usd": 17603.497210000005,
+      "volume24hr_usd": 7357.479262,
+      "volume_total_usd": 19028.350542000004,
       "end_date": "2026-09-15",
       "options": [
         "Yes",
@@ -633,93 +705,21 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
+      "captured_at_utc": "2026-09-07T15:00:06+00:00",
       "category": "tech",
-      "market_id": "676739",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 6887.128689999999,
-      "volume_total_usd": 1156770.237518,
-      "end_date": "2026-12-31",
+      "market_id": "3572980",
+      "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1490",
+      "question": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1490?",
+      "volume24hr_usd": 6557.964841999999,
+      "volume_total_usd": 56176.209415000005,
+      "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 78.0,
-        "No": 22.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "tech",
-      "market_id": "4223471",
-      "slug": "will-the-first-announced-price-of-the-foldable-iphone-be-at-least-2000",
-      "question": "Will the first announced price of the foldable iPhone be at least $2,000?",
-      "volume24hr_usd": 6869.466006,
-      "volume_total_usd": 13362.663448,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 86.5,
-        "No": 13.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "tech",
-      "market_id": "3008496",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137055",
-      "question": "Will Google have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 6692.753022,
-      "volume_total_usd": 226383.39072099995,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.25,
-        "No": 97.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "tech",
-      "market_id": "920401",
-      "slug": "will-apple-release-a-foldable-iphone-before-2027-636-997-854",
-      "question": "Will Apple release a foldable iPhone before 2027?",
-      "volume24hr_usd": 6441.626145,
-      "volume_total_usd": 462368.373755,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 95.9,
-        "No": 4.1
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-07T08:59:08+00:00",
-      "category": "tech",
-      "market_id": "3667936",
-      "slug": "will-the-next-google-gemini-pro-model-be-released-by-september-30-2026",
-      "question": "Will the next Google Gemini Pro model be released by September 30, 2026?",
-      "volume24hr_usd": 6056.377079,
-      "volume_total_usd": 58263.620225000006,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 35.5,
-        "No": 64.5
+        "Yes": 56.5,
+        "No": 43.5
       }
     }
   ]
