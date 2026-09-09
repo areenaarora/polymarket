@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-09-09T17:36:31+00:00",
+  "captured_at_utc": "2026-09-09T20:32:05+00:00",
   "count": 38,
   "rows": [
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 20767.450455000002,
-      "volume_total_usd": 13104834.588406986,
+      "volume24hr_usd": 24582.715255000003,
+      "volume_total_usd": 13108876.058335982,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,31 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 1140.424647,
-      "volume_total_usd": 468767.5811629999,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 14.5,
-        "No": 85.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "world",
-      "market_id": "4191580",
-      "slug": "will-andy-burnham-attend-king-harald-vs-funeral",
-      "question": "Will Andy Burnham attend King Harald V's funeral?",
-      "volume24hr_usd": 647.08,
-      "volume_total_usd": 1310.1931,
+      "market_id": "4191581",
+      "slug": "will-friedrich-merz-attend-king-harald-vs-funeral",
+      "question": "Will Friedrich Merz attend King Harald V's funeral?",
+      "volume24hr_usd": 1022.65,
+      "volume_total_usd": 1760.1886409999997,
       "end_date": "2026-09-13",
       "options": [
         "Yes",
@@ -57,97 +39,133 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
-      "market_id": "4191579",
-      "slug": "will-king-charles-iii-attend-king-harald-vs-funeral",
-      "question": "Will King Charles III attend King Harald V's funeral?",
-      "volume24hr_usd": 595.21,
-      "volume_total_usd": 3156.1934149999997,
-      "end_date": "2026-09-13",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
+      "volume24hr_usd": 981.317205,
+      "volume_total_usd": 468782.24116300006,
+      "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.3,
-        "No": 99.7
+        "Yes": 14.5,
+        "No": 85.5
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
       "market_id": "4191578",
       "slug": "will-donald-trump-attend-king-harald-vs-funeral",
       "question": "Will Donald Trump attend King Harald V's funeral?",
-      "volume24hr_usd": 558.76,
-      "volume_total_usd": 675.243713,
+      "volume24hr_usd": 733.99,
+      "volume_total_usd": 850.473713,
       "end_date": "2026-09-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
+        "Yes": 0.05,
+        "No": 99.95
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
-      "market_id": "4191581",
-      "slug": "will-friedrich-merz-attend-king-harald-vs-funeral",
-      "question": "Will Friedrich Merz attend King Harald V's funeral?",
-      "volume24hr_usd": 425.37,
-      "volume_total_usd": 1162.908641,
+      "market_id": "4191580",
+      "slug": "will-andy-burnham-attend-king-harald-vs-funeral",
+      "question": "Will Andy Burnham attend King Harald V's funeral?",
+      "volume24hr_usd": 712.08,
+      "volume_total_usd": 1375.1931,
       "end_date": "2026-09-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.2,
-        "No": 98.8
+        "Yes": 0.05,
+        "No": 99.95
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "world",
+      "market_id": "4191579",
+      "slug": "will-king-charles-iii-attend-king-harald-vs-funeral",
+      "question": "Will King Charles III attend King Harald V's funeral?",
+      "volume24hr_usd": 695.21,
+      "volume_total_usd": 3256.1934149999997,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "world",
+      "market_id": "4191605",
+      "slug": "will-jd-vance-attend-king-harald-vs-funeral",
+      "question": "Will JD Vance attend King Harald V's funeral?",
+      "volume24hr_usd": 532.27,
+      "volume_total_usd": 757.5533340000001,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
       "market_id": "4191603",
       "slug": "will-ursula-von-der-leyen-attend-king-harald-vs-funeral",
       "question": "Will Ursula von der Leyen attend King Harald V's funeral?",
       "volume24hr_usd": 416.24,
-      "volume_total_usd": 3299.794137,
+      "volume_total_usd": 3299.7941369999994,
       "end_date": "2026-09-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.25,
-        "No": 97.75
+        "Yes": 1.6,
+        "No": 98.4
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
-      "market_id": "4191605",
-      "slug": "will-jd-vance-attend-king-harald-vs-funeral",
-      "question": "Will JD Vance attend King Harald V's funeral?",
-      "volume24hr_usd": 292.94,
-      "volume_total_usd": 518.223334,
+      "market_id": "4191601",
+      "slug": "will-emmanuel-macron-attend-king-harald-vs-funeral",
+      "question": "Will Emmanuel Macron attend King Harald V's funeral?",
+      "volume24hr_usd": 343.89700000000005,
+      "volume_total_usd": 693.897,
       "end_date": "2026-09-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
+        "Yes": 0.25,
+        "No": 99.75
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
       "market_id": "4191597",
       "slug": "will-queen-camilla-attend-king-harald-vs-funeral",
@@ -160,12 +178,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 5.05,
-        "No": 94.95
+        "Yes": 3.55,
+        "No": 96.45
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
       "market_id": "4191585",
       "slug": "will-erling-haaland-attend-king-harald-vs-funeral",
@@ -183,13 +201,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "world",
+      "market_id": "4191600",
+      "slug": "will-halla-tomasdottir-attend-king-harald-vs-funeral",
+      "question": "Will Halla Tómasdóttir attend King Harald V's funeral?",
+      "volume24hr_usd": 138.45,
+      "volume_total_usd": 165.043828,
+      "end_date": "2026-09-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 63.55,
+        "No": 36.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
       "question": "Will Russia capture Lyman by September 30, 2026?",
       "volume24hr_usd": 116.512666,
-      "volume_total_usd": 121913.06132400002,
+      "volume_total_usd": 121913.061324,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -201,25 +237,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
-      "market_id": "4191601",
-      "slug": "will-emmanuel-macron-attend-king-harald-vs-funeral",
-      "question": "Will Emmanuel Macron attend King Harald V's funeral?",
-      "volume24hr_usd": 98.4,
-      "volume_total_usd": 448.4,
+      "market_id": "4191590",
+      "slug": "will-princess-beatrix-attend-king-harald-vs-funeral",
+      "question": "Will Princess Beatrix attend King Harald V's funeral?",
+      "volume24hr_usd": 93.3712,
+      "volume_total_usd": 103.3712,
       "end_date": "2026-09-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.6,
-        "No": 99.4
+        "Yes": 63.5,
+        "No": 36.5
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -237,25 +273,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
-      "market_id": "4191600",
-      "slug": "will-halla-tomasdottir-attend-king-harald-vs-funeral",
-      "question": "Will Halla Tómasdóttir attend King Harald V's funeral?",
-      "volume24hr_usd": 79.5,
-      "volume_total_usd": 106.093828,
+      "market_id": "4191604",
+      "slug": "will-mark-rutte-attend-king-harald-vs-funeral",
+      "question": "Will Mark Rutte attend King Harald V's funeral?",
+      "volume24hr_usd": 81.15,
+      "volume_total_usd": 1639.6074350000004,
       "end_date": "2026-09-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 61.2,
-        "No": 38.75
+        "Yes": 3.55,
+        "No": 96.45
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
       "market_id": "4191584",
       "slug": "will-barack-obama-attend-king-harald-vs-funeral",
@@ -268,90 +304,54 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 41.6,
-        "No": 58.4
+        "Yes": 39.3,
+        "No": 60.7
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "world",
       "market_id": "4191599",
       "slug": "will-alexander-stubb-attend-king-harald-vs-funeral",
       "question": "Will Alexander Stubb attend King Harald V's funeral?",
-      "volume24hr_usd": 10.0,
-      "volume_total_usd": 30.6224,
+      "volume24hr_usd": 15.004999999999999,
+      "volume_total_usd": 35.627399999999994,
       "end_date": "2026-09-13",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 63.25,
-        "No": 36.75
+        "Yes": 66.1,
+        "No": 33.9
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "world",
-      "market_id": "4191604",
-      "slug": "will-mark-rutte-attend-king-harald-vs-funeral",
-      "question": "Will Mark Rutte attend King Harald V's funeral?",
-      "volume24hr_usd": 0.0,
-      "volume_total_usd": 1558.4574350000003,
-      "end_date": "2026-09-13",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 15.75,
-        "No": 84.25
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "world",
-      "market_id": "4191590",
-      "slug": "will-princess-beatrix-attend-king-harald-vs-funeral",
-      "question": "Will Princess Beatrix attend King Harald V's funeral?",
-      "volume24hr_usd": 0.0,
-      "volume_total_usd": 10.0,
-      "end_date": "2026-09-13",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 62.0,
-        "No": 38.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
-      "market_id": "4223471",
-      "slug": "will-the-first-announced-price-of-the-foldable-iphone-be-at-least-2000",
-      "question": "Will the first announced price of the foldable iPhone be at least $2,000?",
-      "volume24hr_usd": 77137.12851200001,
-      "volume_total_usd": 96437.04734799995,
-      "end_date": "2026-10-01",
+      "market_id": "920401",
+      "slug": "will-apple-release-a-foldable-iphone-before-2027-636-997-854",
+      "question": "Will Apple release a foldable iPhone before 2027?",
+      "volume24hr_usd": 80036.45764800001,
+      "volume_total_usd": 562339.412257,
+      "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 28.0,
-        "No": 72.0
+        "Yes": 99.25,
+        "No": 0.75
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
       "market_id": "3008504",
       "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137063",
       "question": "Will DeepSeek have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 70595.3825,
-      "volume_total_usd": 147558.477229,
+      "volume24hr_usd": 75114.0125,
+      "volume_total_usd": 153459.297229,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -363,103 +363,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "tech",
+      "market_id": "4254700",
+      "slug": "will-apple-release-a-foldable-iphone-by-october-31",
+      "question": "Will Apple release a foldable iPhone by October 31?",
+      "volume24hr_usd": 53001.901564999986,
+      "volume_total_usd": 66444.397366,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 98.5,
+        "No": 1.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
       "market_id": "4117967",
       "slug": "will-apple-release-a-foldable-iphone-by-september-30-453-458",
       "question": "Will Apple release a foldable iPhone by September 30?",
-      "volume24hr_usd": 29537.793892999995,
-      "volume_total_usd": 71014.40462100002,
+      "volume24hr_usd": 42952.720268,
+      "volume_total_usd": 87571.430568,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 19.5,
-        "No": 80.5
+        "Yes": 1.55,
+        "No": 98.45
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
-      "market_id": "3205508",
-      "slug": "gemini-4pt0-released-by-september-30-2026",
-      "question": "Gemini 4.0 released by September 30, 2026?",
-      "volume24hr_usd": 29010.482322,
-      "volume_total_usd": 262162.49095299985,
-      "end_date": "2026-10-01",
+      "market_id": "4167002",
+      "slug": "will-apple-release-a-foldable-iphone-by-september-9",
+      "question": "Will Apple release a foldable iPhone by September 9?",
+      "volume24hr_usd": 34219.21405400001,
+      "volume_total_usd": 46981.66539500001,
+      "end_date": "2026-09-09",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 10.5,
-        "No": 89.5
+        "Yes": 0.3,
+        "No": 99.7
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "tech",
-      "market_id": "4253511",
-      "slug": "will-the-first-announced-price-of-the-foldable-iphone-be-at-least-2100",
-      "question": "Will the first announced price of the foldable iPhone be at least $2,100?",
-      "volume24hr_usd": 25829.330274000004,
-      "volume_total_usd": 37844.834848000006,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 19.5,
-        "No": 80.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "tech",
-      "market_id": "4223472",
-      "slug": "will-the-first-announced-price-of-the-foldable-iphone-be-at-least-2200",
-      "question": "Will the first announced price of the foldable iPhone be at least $2,200?",
-      "volume24hr_usd": 24615.573282,
-      "volume_total_usd": 42603.925167,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 12.0,
-        "No": 88.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "tech",
-      "market_id": "920401",
-      "slug": "will-apple-release-a-foldable-iphone-before-2027-636-997-854",
-      "question": "Will Apple release a foldable iPhone before 2027?",
-      "volume24hr_usd": 23468.426113,
-      "volume_total_usd": 505644.22072199994,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 96.95,
-        "No": 3.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
       "market_id": "3008494",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
       "question": "Will Anthropic have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 22341.5071,
-      "volume_total_usd": 583126.92812,
+      "volume24hr_usd": 22426.733053,
+      "volume_total_usd": 584632.838121,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -471,157 +435,121 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "tech",
-      "market_id": "4223470",
-      "slug": "will-the-first-announced-price-of-the-foldable-iphone-be-at-least-1800",
-      "question": "Will the first announced price of the foldable iPhone be at least $1,800?",
-      "volume24hr_usd": 18749.333510999997,
-      "volume_total_usd": 31273.896428999997,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 98.25,
-        "No": 1.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "tech",
-      "market_id": "3008499",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
-      "question": "Will OpenAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 18076.539601,
-      "volume_total_usd": 516936.5486310002,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 8.35,
-        "No": 91.65
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "tech",
-      "market_id": "4167002",
-      "slug": "will-apple-release-a-foldable-iphone-by-september-9",
-      "question": "Will Apple release a foldable iPhone by September 9?",
-      "volume24hr_usd": 17960.538586000006,
-      "volume_total_usd": 30229.968299000007,
-      "end_date": "2026-09-09",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.2,
-        "No": 98.8
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
       "market_id": "4117966",
       "slug": "will-apple-release-a-foldable-iphone-by-september-15-877-292",
       "question": "Will Apple release a foldable iPhone by September 15?",
-      "volume24hr_usd": 16084.045393,
-      "volume_total_usd": 55914.97360699999,
+      "volume24hr_usd": 21918.07277,
+      "volume_total_usd": 61974.466661,
       "end_date": "2026-09-15",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 11.5,
-        "No": 88.5
+        "Yes": 0.35,
+        "No": 99.65
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "tech",
-      "market_id": "4178413",
-      "slug": "apple-announces-foldable-iphone-at-surprise-and-shine-event",
-      "question": "Apple Announces Foldable iPhone at “Surprise and Shine” Event?",
-      "volume24hr_usd": 15424.478254000001,
-      "volume_total_usd": 31434.931072,
-      "end_date": "2026-09-09",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.5,
-        "No": 0.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "tech",
-      "market_id": "4254700",
-      "slug": "will-apple-release-a-foldable-iphone-by-october-31",
-      "question": "Will Apple release a foldable iPhone by October 31?",
-      "volume24hr_usd": 14568.932888999996,
-      "volume_total_usd": 28011.428689999993,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 89.9,
-        "No": 10.1
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
-      "category": "tech",
-      "market_id": "676740",
-      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-      "question": "Will Microsoft be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 12909.00075,
-      "volume_total_usd": 955316.8637790001,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.4,
-        "No": 99.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
       "market_id": "4167008",
       "slug": "will-apple-release-a-foldable-iphone-by-september-10",
       "question": "Will Apple release a foldable iPhone by September 10?",
-      "volume24hr_usd": 10515.05851,
-      "volume_total_usd": 42567.254044,
+      "volume24hr_usd": 20695.420157,
+      "volume_total_usd": 52907.523167,
       "end_date": "2026-09-10",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.5,
-        "No": 97.5
+        "Yes": 0.05,
+        "No": 99.95
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "tech",
+      "market_id": "3008499",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
+      "question": "Will OpenAI have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 17546.87675,
+      "volume_total_usd": 521424.9586820005,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 8.65,
+        "No": 91.35
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "tech",
+      "market_id": "3205508",
+      "slug": "gemini-4pt0-released-by-september-30-2026",
+      "question": "Gemini 4.0 released by September 30, 2026?",
+      "volume24hr_usd": 12643.452723,
+      "volume_total_usd": 262172.1576200001,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 10.5,
+        "No": 89.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "tech",
+      "market_id": "676740",
+      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
+      "question": "Will Microsoft be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 12062.553333,
+      "volume_total_usd": 955332.5211119999,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.35,
+        "No": 99.65
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "tech",
+      "market_id": "4383152",
+      "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-september-30-2026",
+      "question": "Will an AI lab announce another Millennium Prize solution by September 30, 2026?",
+      "volume24hr_usd": 11414.145981,
+      "volume_total_usd": 11454.145981,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 11.0,
+        "No": 89.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
       "market_id": "2252540",
       "slug": "tesla-and-spacex-merger-officially-announced-by-december-31",
       "question": "Tesla and SpaceX merger officially announced by December 31?",
       "volume24hr_usd": 10413.9,
-      "volume_total_usd": 155677.92600500002,
+      "volume_total_usd": 155677.92600499996,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -633,57 +561,129 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
-      "market_id": "3008510",
-      "slug": "will-mistral-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137069",
-      "question": "Will Mistral have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 9750.0,
-      "volume_total_usd": 35340.522666,
-      "end_date": "2026-10-01",
+      "market_id": "4254188",
+      "slug": "will-the-iphone-18-pro-cost-at-least-1150",
+      "question": "Will the iPhone 18 Pro cost at least $1150?",
+      "volume24hr_usd": 10180.622861,
+      "volume_total_usd": 20008.453634,
+      "end_date": "2027-03-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
+        "Yes": 99.5,
+        "No": 0.5
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
-      "market_id": "3667936",
-      "slug": "will-the-next-google-gemini-pro-model-be-released-by-september-30-2026",
-      "question": "Will the next Google Gemini Pro model be released by September 30, 2026?",
-      "volume24hr_usd": 9030.682859,
-      "volume_total_usd": 79160.789088,
-      "end_date": "2026-10-01",
+      "market_id": "2661720",
+      "slug": "will-the-iphone-18-pro-cost-at-least-1200-20260623232159230",
+      "question": "Will the iPhone 18 Pro cost at least $1200?",
+      "volume24hr_usd": 8112.7446310000005,
+      "volume_total_usd": 22197.050589,
+      "end_date": "2027-03-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 13.5,
-        "No": 86.5
+        "Yes": 2.3,
+        "No": 97.7
       }
     },
     {
-      "captured_at_utc": "2026-09-09T17:36:31+00:00",
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
       "category": "tech",
-      "market_id": "3008509",
-      "slug": "will-minimax-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137068",
-      "question": "Will MiniMax have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 9000.0,
-      "volume_total_usd": 32406.172044,
-      "end_date": "2026-10-01",
+      "market_id": "3212185",
+      "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 7792.656860000001,
+      "volume_total_usd": 299118.56097900006,
+      "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
+        "Yes": 97.4,
+        "No": 2.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "tech",
+      "market_id": "3573014",
+      "slug": "will-openais-astra-model-debut-with-a-humanitys-last-exam-score-of-50-or-higher",
+      "question": "Will OpenAI’s Astra model debut with a Humanity’s Last Exam score of 50% or higher?",
+      "volume24hr_usd": 7493.4,
+      "volume_total_usd": 18859.273169,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.7,
+        "No": 0.3
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "tech",
+      "market_id": "4383153",
+      "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026",
+      "question": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
+      "volume24hr_usd": 7313.847500000001,
+      "volume_total_usd": 15518.167814999999,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 23.5,
+        "No": 76.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "tech",
+      "market_id": "921947",
+      "slug": "will-apple-release-iphone-18-in-2026",
+      "question": "Will Apple release iPhone 18 in 2026?",
+      "volume24hr_usd": 7097.176667,
+      "volume_total_usd": 198454.113993,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.85,
+        "No": 0.15
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-09T20:32:05+00:00",
+      "category": "tech",
+      "market_id": "668591",
+      "slug": "gta-6-launch-postponed-again",
+      "question": "GTA 6 launch postponed again?",
+      "volume24hr_usd": 6386.952559999999,
+      "volume_total_usd": 797743.2285760002,
+      "end_date": "2026-11-19",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 6.5,
+        "No": 93.5
       }
     }
   ]
