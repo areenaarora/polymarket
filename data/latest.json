@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-09-12T18:58:22+00:00",
+  "captured_at_utc": "2026-09-12T21:21:23+00:00",
   "count": 24,
   "rows": [
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 26888.357393000002,
-      "volume_total_usd": 13189788.49418301,
+      "volume24hr_usd": 26961.382801000003,
+      "volume_total_usd": 13190191.004642008,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -75,13 +75,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "3008499",
       "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
       "question": "Will OpenAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 54344.945361000006,
-      "volume_total_usd": 605662.0259600002,
+      "volume24hr_usd": 52954.481857000006,
+      "volume_total_usd": 605742.0259600001,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -93,13 +93,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
+      "category": "tech",
+      "market_id": "3008494",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
+      "question": "Will Anthropic have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 41600.227033999996,
+      "volume_total_usd": 694975.367838,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 96.45,
+        "No": 3.55
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "3008506",
       "slug": "will-bytedance-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137065",
       "question": "Will ByteDance have the best AI model at the end of September 2026?",
       "volume24hr_usd": 41000.0,
-      "volume_total_usd": 88459.68149999998,
+      "volume_total_usd": 88459.6815,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -111,13 +129,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "3008512",
       "slug": "will-tencent-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137071",
       "question": "Will Tencent have the best AI model at the end of September 2026?",
       "volume24hr_usd": 40000.0,
-      "volume_total_usd": 52889.2565,
+      "volume_total_usd": 52889.256499999996,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -129,31 +147,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
-      "category": "tech",
-      "market_id": "3008494",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
-      "question": "Will Anthropic have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 37573.02324599999,
-      "volume_total_usd": 690845.9078379999,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 96.3,
-        "No": 3.7
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "3008500",
       "slug": "will-baidu-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137059",
       "question": "Will Baidu have the best AI model at the end of September 2026?",
       "volume24hr_usd": 30000.0,
-      "volume_total_usd": 63924.5635,
+      "volume_total_usd": 63924.563500000004,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -165,13 +165,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "3008497",
       "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137056",
       "question": "Will Alibaba have the best AI model at the end of September 2026?",
       "volume24hr_usd": 26683.649999999998,
-      "volume_total_usd": 177285.655275,
+      "volume_total_usd": 177285.65527499997,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -183,31 +183,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "1831352",
       "slug": "will-any-ai-model-reach-1520-overall-arena-score-by-september-30-2026",
       "question": "Will any AI model reach 1520 Overall Arena Score by September 30, 2026?",
-      "volume24hr_usd": 18753.155475,
-      "volume_total_usd": 87016.53674700002,
+      "volume24hr_usd": 18795.172281999996,
+      "volume_total_usd": 87058.55355400003,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 90.6,
-        "No": 9.4
+        "Yes": 90.2,
+        "No": 9.8
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "3212185",
       "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
       "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 13018.6987,
-      "volume_total_usd": 367448.99155200005,
+      "volume24hr_usd": 13042.17312,
+      "volume_total_usd": 367484.011796,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
@@ -219,31 +219,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
-      "market_id": "3205508",
-      "slug": "gemini-4pt0-released-by-september-30-2026",
-      "question": "Gemini 4.0 released by September 30, 2026?",
-      "volume24hr_usd": 10258.364783,
-      "volume_total_usd": 279505.816803,
+      "market_id": "3008504",
+      "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137063",
+      "question": "Will DeepSeek have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 10838.479,
+      "volume_total_usd": 174572.46322900002,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 15.5,
-        "No": 84.5
+        "Yes": 0.1,
+        "No": 99.9
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
+      "category": "tech",
+      "market_id": "3205508",
+      "slug": "gemini-4pt0-released-by-september-30-2026",
+      "question": "Gemini 4.0 released by September 30, 2026?",
+      "volume24hr_usd": 10525.00092,
+      "volume_total_usd": 279772.45294000005,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 13.5,
+        "No": 86.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "3008503",
       "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137062",
       "question": "Will SpaceXAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 10243.818,
-      "volume_total_usd": 278203.8696539999,
+      "volume24hr_usd": 10252.836,
+      "volume_total_usd": 278212.88765399996,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -255,13 +273,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "2431425",
       "slug": "will-baidu-have-the-best-ai-model-at-the-end-of-december-2026",
       "question": "Will Baidu have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 9425.826,
-      "volume_total_usd": 67398.350357,
+      "volume24hr_usd": 9292.74,
+      "volume_total_usd": 67398.35035700002,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -273,13 +291,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
+      "category": "tech",
+      "market_id": "920401",
+      "slug": "will-apple-release-a-foldable-iphone-before-2027-636-997-854",
+      "question": "Will Apple release a foldable iPhone before 2027?",
+      "volume24hr_usd": 7725.976,
+      "volume_total_usd": 640762.39351,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.15,
+        "No": 0.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "4383152",
       "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-september-30-2026",
       "question": "Will an AI lab announce another Millennium Prize solution by September 30, 2026?",
-      "volume24hr_usd": 9213.937613,
-      "volume_total_usd": 71133.731855,
+      "volume24hr_usd": 7385.666867999999,
+      "volume_total_usd": 71133.73185500002,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -291,31 +327,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
-      "category": "tech",
-      "market_id": "3008504",
-      "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137063",
-      "question": "Will DeepSeek have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 8838.479,
-      "volume_total_usd": 172572.46322900004,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "676744",
       "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-december-31-584",
       "question": "Will Saudi Aramco be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 8008.653,
-      "volume_total_usd": 881256.1490290003,
+      "volume24hr_usd": 7004.03,
+      "volume_total_usd": 881267.1330290003,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -327,31 +345,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
-      "category": "tech",
-      "market_id": "920401",
-      "slug": "will-apple-release-a-foldable-iphone-before-2027-636-997-854",
-      "question": "Will Apple release a foldable iPhone before 2027?",
-      "volume24hr_usd": 7781.466,
-      "volume_total_usd": 640759.45351,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.35,
-        "No": 0.65
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "3212187",
       "slug": "will-company-c-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
       "question": "Will Apple be the largest company in the world by market cap on September 30?",
       "volume24hr_usd": 6930.083238,
-      "volume_total_usd": 234439.197387,
+      "volume_total_usd": 234439.19738700002,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
@@ -363,13 +363,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "676742",
       "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
       "question": "Will Alphabet be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 6426.8,
-      "volume_total_usd": 706356.4522360003,
+      "volume24hr_usd": 6526.8,
+      "volume_total_usd": 706456.4522360001,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -381,49 +381,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
-      "category": "tech",
-      "market_id": "4060919",
-      "slug": "will-openais-astra-model-debut-as-1-text-arena-20260901081919669",
-      "question": "Will OpenAI's Astra model debut as #1? (Text Arena)",
-      "volume24hr_usd": 6017.072233000001,
-      "volume_total_usd": 24809.716773000004,
-      "end_date": "2027-06-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "4383153",
       "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026",
       "question": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
-      "volume24hr_usd": 5787.392222999999,
-      "volume_total_usd": 81308.37921199999,
+      "volume24hr_usd": 5615.725555999999,
+      "volume_total_usd": 81623.379212,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 70.5,
-        "No": 29.5
+        "Yes": 68.0,
+        "No": 32.0
       }
     },
     {
-      "captured_at_utc": "2026-09-12T18:58:22+00:00",
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
+      "category": "tech",
+      "market_id": "3093666",
+      "slug": "will-google-be-the-second-best-ai-lab-at-the-end-of-september-2026-20260722221500025",
+      "question": "Will Google be the second-best AI lab at the end of September 2026?",
+      "volume24hr_usd": 5587.536242,
+      "volume_total_usd": 27023.422517000003,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 47.0,
+        "No": 53.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T21:21:23+00:00",
       "category": "tech",
       "market_id": "2431413",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
       "question": "Will Anthropic have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 5564.858735000001,
-      "volume_total_usd": 142037.433107,
+      "volume24hr_usd": 5457.556359,
+      "volume_total_usd": 142083.97688499998,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
