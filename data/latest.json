@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-09-11T23:00:34+00:00",
+  "captured_at_utc": "2026-09-12T03:25:39+00:00",
   "count": 24,
   "rows": [
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 15297.758091000003,
-      "volume_total_usd": 13163229.621840987,
+      "volume24hr_usd": 12720.004144,
+      "volume_total_usd": 13163289.451840993,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,13 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 691.449545,
-      "volume_total_usd": 474984.973257,
+      "volume24hr_usd": 274.689545,
+      "volume_total_usd": 474984.9732569995,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -39,13 +39,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "world",
       "market_id": "2676277",
       "slug": "will-russia-capture-lyman-by-september-30-2026",
       "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 135.0,
-      "volume_total_usd": 122277.24285799998,
+      "volume24hr_usd": 115.0,
+      "volume_total_usd": 122277.242858,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -57,13 +57,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
       "question": "Will Israel annex any territory by December 31?",
       "volume24hr_usd": 5.0,
-      "volume_total_usd": 92988.32735399998,
+      "volume_total_usd": 92988.327354,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -75,85 +75,139 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "tech",
       "market_id": "3008494",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
       "question": "Will Anthropic have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 48283.21063100001,
-      "volume_total_usd": 674760.0503769998,
+      "volume24hr_usd": 46433.624353,
+      "volume_total_usd": 683282.4045449999,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 93.5,
-        "No": 6.5
+        "Yes": 95.0,
+        "No": 5.0
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
+      "category": "tech",
+      "market_id": "3008499",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
+      "question": "Will OpenAI have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 40364.309393,
+      "volume_total_usd": 589119.2194630003,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.9,
+        "No": 99.1
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
+      "category": "tech",
+      "market_id": "3008512",
+      "slug": "will-tencent-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137071",
+      "question": "Will Tencent have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 40000.0,
+      "volume_total_usd": 52889.2565,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
+      "category": "tech",
+      "market_id": "3008506",
+      "slug": "will-bytedance-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137065",
+      "question": "Will ByteDance have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 40000.0,
+      "volume_total_usd": 87459.68149999999,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "tech",
       "market_id": "3212185",
       "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
       "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 38149.05463299999,
-      "volume_total_usd": 362926.7975510001,
+      "volume24hr_usd": 37492.082408999995,
+      "volume_total_usd": 362959.94238799997,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 94.95,
-        "No": 5.05
+        "Yes": 95.05,
+        "No": 4.95
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "tech",
-      "market_id": "3008499",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
-      "question": "Will OpenAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 34640.346957,
-      "volume_total_usd": 583211.427195,
+      "market_id": "3008500",
+      "slug": "will-baidu-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137059",
+      "question": "Will Baidu have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 30000.0,
+      "volume_total_usd": 63924.5635,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.4,
-        "No": 98.6
+        "Yes": 0.05,
+        "No": 99.95
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "tech",
-      "market_id": "676739",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 22822.353616,
-      "volume_total_usd": 1195677.1045960002,
-      "end_date": "2026-12-31",
+      "market_id": "3008497",
+      "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137056",
+      "question": "Will Alibaba have the best AI model at the end of September 2026?",
+      "volume24hr_usd": 25823.649999999998,
+      "volume_total_usd": 176425.65527500003,
+      "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 76.5,
-        "No": 23.5
+        "Yes": 0.05,
+        "No": 99.95
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "tech",
       "market_id": "676744",
       "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-december-31-584",
       "question": "Will Saudi Aramco be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 22592.413999999997,
-      "volume_total_usd": 874271.685029,
+      "volume24hr_usd": 22595.935,
+      "volume_total_usd": 874277.4670289998,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -165,273 +219,219 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "tech",
       "market_id": "4412199",
       "slug": "will-openai-announce-another-millennium-prize-solution-by-september-30-2026",
       "question": "Will OpenAI announce another Millennium Prize solution by September 30, 2026?",
-      "volume24hr_usd": 19427.699287,
-      "volume_total_usd": 47384.745196,
+      "volume24hr_usd": 18132.020659,
+      "volume_total_usd": 47932.630623,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 34.5,
-        "No": 65.5
+        "Yes": 32.5,
+        "No": 67.5
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "tech",
-      "market_id": "4383152",
-      "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-september-30-2026",
-      "question": "Will an AI lab announce another Millennium Prize solution by September 30, 2026?",
-      "volume24hr_usd": 19412.904279000002,
-      "volume_total_usd": 64871.326557,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 43.5,
-        "No": 56.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
-      "category": "tech",
-      "market_id": "4383153",
-      "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026",
-      "question": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
-      "volume24hr_usd": 15444.825399999994,
-      "volume_total_usd": 75723.324977,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 72.0,
-        "No": 28.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
-      "category": "tech",
-      "market_id": "4412297",
-      "slug": "will-anthropic-announce-a-millennium-prize-solution-by-september-30-2026",
-      "question": "Will Anthropic announce a Millennium Prize solution by September 30, 2026?",
-      "volume24hr_usd": 12916.407407,
-      "volume_total_usd": 23070.128203,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 19.5,
-        "No": 80.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
-      "category": "tech",
-      "market_id": "4412200",
-      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2026",
-      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
-      "volume24hr_usd": 12465.399957,
-      "volume_total_usd": 29600.780563999997,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 63.5,
-        "No": 36.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
-      "category": "tech",
-      "market_id": "4418518",
-      "slug": "will-the-hodge-conjecture-be-the-next-millennium-prize-problem-solved-by-ai",
-      "question": "Will the Hodge Conjecture be the next Millennium Prize Problem solved by AI?",
-      "volume24hr_usd": 11494.876792,
-      "volume_total_usd": 27932.487544,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 31.0,
-        "No": 69.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
-      "category": "tech",
-      "market_id": "676740",
-      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-      "question": "Will Microsoft be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 10304.95774,
-      "volume_total_usd": 969510.1461769999,
+      "market_id": "676739",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 17708.069166,
+      "volume_total_usd": 1195822.4682300005,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.6,
-        "No": 99.4
+        "Yes": 76.5,
+        "No": 23.5
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "tech",
-      "market_id": "4412324",
-      "slug": "will-ai-solve-3-more-millennium-prize-problems-in-2026",
-      "question": "Will AI solve 3 more Millennium Prize Problems in 2026?",
-      "volume24hr_usd": 9061.983304,
-      "volume_total_usd": 10974.239087,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 12.8,
-        "No": 87.2
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
-      "category": "tech",
-      "market_id": "4418517",
-      "slug": "will-birch-and-swinnerton-dyer-be-the-next-millennium-prize-problem-solved-by-ai",
-      "question": "Will the Birch and Swinnerton-Dyer Conjecture be the next Millennium Prize Problem solved by AI?",
-      "volume24hr_usd": 8160.136711000001,
-      "volume_total_usd": 12361.287929999999,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 46.0,
-        "No": 54.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
-      "category": "tech",
-      "market_id": "2698827",
-      "slug": "will-discord-not-ipo-by-december-31-2027-20260626210212286",
-      "question": "Will Discord not IPO by December 31, 2027?",
-      "volume24hr_usd": 8052.863977,
-      "volume_total_usd": 22561.966065999997,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 73.25,
-        "No": 26.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
-      "category": "tech",
-      "market_id": "4383154",
-      "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2027",
-      "question": "Will an AI lab announce another Millennium Prize solution by December 31, 2027?",
-      "volume24hr_usd": 7256.023826999999,
-      "volume_total_usd": 28508.076331000004,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 88.5,
-        "No": 11.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
-      "category": "tech",
-      "market_id": "3008044",
-      "slug": "will-moonshot-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852826",
-      "question": "Will Moonshot have the best Chinese AI model at the end of September 2026?",
-      "volume24hr_usd": 6748.308858,
-      "volume_total_usd": 49124.823212,
+      "market_id": "4383152",
+      "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-september-30-2026",
+      "question": "Will an AI lab announce another Millennium Prize solution by September 30, 2026?",
+      "volume24hr_usd": 16921.423866999998,
+      "volume_total_usd": 64888.316383000005,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 11.0,
-        "No": 89.0
+        "Yes": 42.5,
+        "No": 57.5
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "tech",
-      "market_id": "3212187",
-      "slug": "will-company-c-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "question": "Will Apple be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 6538.3040790000005,
-      "volume_total_usd": 227809.11414899994,
-      "end_date": "2026-09-30",
+      "market_id": "4383153",
+      "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026",
+      "question": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
+      "volume24hr_usd": 15620.945987999996,
+      "volume_total_usd": 77415.56497700002,
+      "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.95,
-        "No": 95.05
+        "Yes": 71.0,
+        "No": 29.0
       }
     },
     {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
+      "category": "tech",
+      "market_id": "4418518",
+      "slug": "will-the-hodge-conjecture-be-the-next-millennium-prize-problem-solved-by-ai",
+      "question": "Will the Hodge Conjecture be the next Millennium Prize Problem solved by AI?",
+      "volume24hr_usd": 15093.747884999999,
+      "volume_total_usd": 32023.879925000005,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 41.5,
+        "No": 58.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
+      "category": "tech",
+      "market_id": "4412200",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2026",
+      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
+      "volume24hr_usd": 12067.399957000001,
+      "volume_total_usd": 29700.780564,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 64.0,
+        "No": 36.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
+      "category": "tech",
+      "market_id": "2431425",
+      "slug": "will-baidu-have-the-best-ai-model-at-the-end-of-december-2026",
+      "question": "Will Baidu have the best AI model at the end of December 2026?",
+      "volume24hr_usd": 10434.826,
+      "volume_total_usd": 67398.350357,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.35,
+        "No": 99.65
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
+      "category": "tech",
+      "market_id": "4412297",
+      "slug": "will-anthropic-announce-a-millennium-prize-solution-by-september-30-2026",
+      "question": "Will Anthropic announce a Millennium Prize solution by September 30, 2026?",
+      "volume24hr_usd": 10308.635099,
+      "volume_total_usd": 23277.478203,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 18.5,
+        "No": 81.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
+      "category": "tech",
+      "market_id": "1831352",
+      "slug": "will-any-ai-model-reach-1520-overall-arena-score-by-september-30-2026",
+      "question": "Will any AI model reach 1520 Overall Arena Score by September 30, 2026?",
+      "volume24hr_usd": 9455.535601,
+      "volume_total_usd": 77588.30147299997,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 92.4,
+        "No": 7.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
+      "category": "tech",
+      "market_id": "4412324",
+      "slug": "will-ai-solve-3-more-millennium-prize-problems-in-2026",
+      "question": "Will AI solve 3 more Millennium Prize Problems in 2026?",
+      "volume24hr_usd": 9095.313304,
+      "volume_total_usd": 11007.569087,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 10.7,
+        "No": 89.3
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
+      "category": "tech",
+      "market_id": "4418517",
+      "slug": "will-birch-and-swinnerton-dyer-be-the-next-millennium-prize-problem-solved-by-ai",
+      "question": "Will the Birch and Swinnerton-Dyer Conjecture be the next Millennium Prize Problem solved by AI?",
+      "volume24hr_usd": 8932.838953,
+      "volume_total_usd": 13296.815171999997,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 37.5,
+        "No": 62.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-12T03:25:39+00:00",
       "category": "tech",
       "market_id": "3572980",
       "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1490",
       "question": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1490?",
-      "volume24hr_usd": 6479.21375,
-      "volume_total_usd": 74908.36756100002,
+      "volume24hr_usd": 8656.028168,
+      "volume_total_usd": 77087.507561,
       "end_date": "",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.6,
-        "No": 99.4
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-11T23:00:34+00:00",
-      "category": "tech",
-      "market_id": "3572979",
-      "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1480",
-      "question": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1480?",
-      "volume24hr_usd": 6365.100044,
-      "volume_total_usd": 78034.942848,
-      "end_date": "",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.75,
-        "No": 97.25
+        "Yes": 0.65,
+        "No": 99.35
       }
     }
   ]
