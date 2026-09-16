@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-09-16T04:38:20+00:00",
+  "captured_at_utc": "2026-09-16T09:42:15+00:00",
   "count": 24,
   "rows": [
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 42980.72431500001,
-      "volume_total_usd": 13278694.390070997,
+      "volume24hr_usd": 45455.84987700001,
+      "volume_total_usd": 13282846.369142994,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,13 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 780.514821,
-      "volume_total_usd": 495378.19887399994,
+      "volume24hr_usd": 630.24011,
+      "volume_total_usd": 495453.19887399994,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -39,7 +39,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
+      "category": "world",
+      "market_id": "2676277",
+      "slug": "will-russia-capture-lyman-by-september-30-2026",
+      "question": "Will Russia capture Lyman by September 30, 2026?",
+      "volume24hr_usd": 263.251579,
+      "volume_total_usd": 124578.04948900003,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.9,
+        "No": 98.1
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -57,31 +75,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
-      "category": "world",
-      "market_id": "2676277",
-      "slug": "will-russia-capture-lyman-by-september-30-2026",
-      "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 64.331579,
-      "volume_total_usd": 124379.129489,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.6,
-        "No": 98.4
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "1831352",
       "slug": "will-any-ai-model-reach-1520-overall-arena-score-by-september-30-2026",
       "question": "Will any AI model reach 1520 Overall Arena Score by September 30, 2026?",
-      "volume24hr_usd": 142233.62397000002,
-      "volume_total_usd": 248606.04008600002,
+      "volume24hr_usd": 114654.27430299997,
+      "volume_total_usd": 249975.28008600013,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -93,31 +93,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "3240746",
       "slug": "will-the-chopsticks-catch-spacex-starship-flight-test-14-starship-563",
       "question": "Will the chopsticks catch SpaceX Starship Flight Test 14 Starship?",
-      "volume24hr_usd": 135449.48546400003,
-      "volume_total_usd": 440192.4400839999,
+      "volume24hr_usd": 33047.380793000004,
+      "volume_total_usd": 441119.27008399984,
       "end_date": "2027-07-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.95,
-        "No": 96.05
+        "Yes": 3.75,
+        "No": 96.25
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
+      "category": "tech",
+      "market_id": "4412199",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-september-30-2026",
+      "question": "Will OpenAI announce another Millennium Prize solution by September 30, 2026?",
+      "volume24hr_usd": 24651.473639,
+      "volume_total_usd": 94546.909728,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 19.0,
+        "No": 81.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "2252540",
       "slug": "tesla-and-spacex-merger-officially-announced-by-december-31",
       "question": "Tesla and SpaceX merger officially announced by December 31?",
-      "volume24hr_usd": 22841.555851999998,
-      "volume_total_usd": 182423.090008,
+      "volume24hr_usd": 22853.90153,
+      "volume_total_usd": 182435.43568599998,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -129,31 +147,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
-      "category": "tech",
-      "market_id": "4412199",
-      "slug": "will-openai-announce-another-millennium-prize-solution-by-september-30-2026",
-      "question": "Will OpenAI announce another Millennium Prize solution by September 30, 2026?",
-      "volume24hr_usd": 22674.990284999996,
-      "volume_total_usd": 92355.373742,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 24.5,
-        "No": 75.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "3008494",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
       "question": "Will Anthropic have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 22601.13236,
-      "volume_total_usd": 735587.8382489998,
+      "volume24hr_usd": 19855.334706999998,
+      "volume_total_usd": 736020.4936980002,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -165,67 +165,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
-      "category": "tech",
-      "market_id": "3071800",
-      "slug": "will-any-ai-model-reach-a-chatbot-arena-score-of-at-least-1520-by-december-31",
-      "question": "Will any AI model reach a Chatbot Arena score of at least 1520 by December 31?",
-      "volume24hr_usd": 20078.405048,
-      "volume_total_usd": 53910.738497000006,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.95,
-        "No": 0.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
-      "category": "tech",
-      "market_id": "3205508",
-      "slug": "gemini-4pt0-released-by-september-30-2026",
-      "question": "Gemini 4.0 released by September 30, 2026?",
-      "volume24hr_usd": 18436.908215,
-      "volume_total_usd": 310814.7142159999,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 7.5,
-        "No": 92.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "3212185",
       "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
       "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 14964.780395,
-      "volume_total_usd": 468195.88727900083,
+      "volume24hr_usd": 18186.251742999997,
+      "volume_total_usd": 473335.0805319999,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 87.85,
-        "No": 12.15
+        "Yes": 90.35,
+        "No": 9.65
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "3008495",
       "slug": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
       "question": "Will Meta have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 14784.014334,
-      "volume_total_usd": 369064.864529,
+      "volume24hr_usd": 14558.301668,
+      "volume_total_usd": 369076.864529,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -237,49 +201,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
-      "category": "tech",
-      "market_id": "676842",
-      "slug": "us-enacts-ai-safety-bill-before-2027",
-      "question": "U.S. enacts AI safety bill before 2027?",
-      "volume24hr_usd": 12746.381977999998,
-      "volume_total_usd": 121488.23615200001,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 17.5,
-        "No": 82.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "3008499",
       "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
       "question": "Will OpenAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 12672.262454,
-      "volume_total_usd": 641496.0669560003,
+      "volume24hr_usd": 13413.234202000003,
+      "volume_total_usd": 645243.3201330003,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.2,
-        "No": 98.8
+        "Yes": 1.5,
+        "No": 98.5
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
+      "category": "tech",
+      "market_id": "3071800",
+      "slug": "will-any-ai-model-reach-a-chatbot-arena-score-of-at-least-1520-by-december-31",
+      "question": "Will any AI model reach a Chatbot Arena score of at least 1520 by December 31?",
+      "volume24hr_usd": 12942.426236000001,
+      "volume_total_usd": 53921.438496999996,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.95,
+        "No": 0.05
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
+      "category": "tech",
+      "market_id": "4412324",
+      "slug": "will-ai-solve-3-more-millennium-prize-problems-in-2026",
+      "question": "Will AI solve 3 more Millennium Prize Problems in 2026?",
+      "volume24hr_usd": 9534.687124,
+      "volume_total_usd": 26056.641992999997,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 8.5,
+        "No": 91.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "2965158",
       "slug": "will-elon-musk-be-the-1-searched-person-on-google-this-year-20260717214426271",
       "question": "Will Elon Musk be the #1 searched person on Google this year?",
-      "volume24hr_usd": 9470.142000000002,
-      "volume_total_usd": 12866.882928000003,
+      "volume24hr_usd": 9470.142,
+      "volume_total_usd": 12866.882928,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -291,67 +273,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
-      "market_id": "4412324",
-      "slug": "will-ai-solve-3-more-millennium-prize-problems-in-2026",
-      "question": "Will AI solve 3 more Millennium Prize Problems in 2026?",
-      "volume24hr_usd": 9083.783894,
-      "volume_total_usd": 25527.138763000003,
+      "market_id": "676842",
+      "slug": "us-enacts-ai-safety-bill-before-2027",
+      "question": "U.S. enacts AI safety bill before 2027?",
+      "volume24hr_usd": 9251.639838,
+      "volume_total_usd": 122881.16518899999,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 7.15,
-        "No": 92.85
+        "Yes": 17.5,
+        "No": 82.5
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "3669895",
       "slug": "will-the-next-claude-opus-model-be-released-by-september-30-2026",
       "question": "Will the next Claude Opus model be released by September 30, 2026?",
-      "volume24hr_usd": 8537.646476,
-      "volume_total_usd": 60581.27705099999,
+      "volume24hr_usd": 8888.790117999997,
+      "volume_total_usd": 62351.69705100001,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 79.0,
-        "No": 21.0
+        "Yes": 77.5,
+        "No": 22.5
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "4214328",
       "slug": "metas-watermelon-released-by-october-31-2026",
       "question": "Meta's Watermelon released by October 31, 2026?",
-      "volume24hr_usd": 8032.0507020000005,
-      "volume_total_usd": 14754.220764,
+      "volume24hr_usd": 8253.15518,
+      "volume_total_usd": 14975.325241999999,
       "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 65.5,
-        "No": 34.5
+        "Yes": 67.0,
+        "No": 33.0
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "676744",
       "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-december-31-584",
       "question": "Will Saudi Aramco be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 7843.345,
-      "volume_total_usd": 940329.776029,
+      "volume24hr_usd": 8035.121,
+      "volume_total_usd": 940655.6460289999,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -363,31 +345,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
-      "category": "tech",
-      "market_id": "3584361",
-      "slug": "gemini-4pt0-released-by-september-15-2026",
-      "question": "Gemini 4.0 released by September 15, 2026?",
-      "volume24hr_usd": 7114.817,
-      "volume_total_usd": 10071.37659,
-      "end_date": "2026-09-16",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
       "market_id": "4214329",
       "slug": "metas-watermelon-released-by-november-30-2026",
       "question": "Meta's Watermelon released by November 30, 2026?",
-      "volume24hr_usd": 6815.811578,
-      "volume_total_usd": 9723.732113999999,
+      "volume24hr_usd": 6835.811578,
+      "volume_total_usd": 9743.732113999999,
       "end_date": "2026-11-30",
       "options": [
         "Yes",
@@ -399,39 +363,75 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
-      "market_id": "3585430",
-      "slug": "tesla-and-spacex-merger-officially-announced-by-december-31-2027",
-      "question": "Tesla and SpaceX merger officially announced by December 31, 2027?",
-      "volume24hr_usd": 6798.561926,
-      "volume_total_usd": 23885.742696999998,
-      "end_date": "2028-01-01",
+      "market_id": "3668604",
+      "slug": "next-openai-gpt-terra-5pt7-released-by-september-30-2026",
+      "question": "Next OpenAI GPT Terra (5.7+) released by September 30, 2026?",
+      "volume24hr_usd": 6160.045576999999,
+      "volume_total_usd": 10995.943867999998,
+      "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 61.0,
-        "No": 39.0
+        "Yes": 21.0,
+        "No": 79.0
       }
     },
     {
-      "captured_at_utc": "2026-09-16T04:38:20+00:00",
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
       "category": "tech",
-      "market_id": "4569199",
-      "slug": "moonshot-matches-anthropics-evaluator-commitment-by-october-31",
-      "question": "Moonshot matches Anthropic's evaluator commitment by October 31?",
-      "volume24hr_usd": 6391.72,
-      "volume_total_usd": 9228.814378000001,
-      "end_date": "2026-11-01",
+      "market_id": "2965149",
+      "slug": "will-erling-haaland-be-the-1-searched-person-on-google-this-year-20260717214426262",
+      "question": "Will Erling Haaland be the #1 searched person on Google this year?",
+      "volume24hr_usd": 6004.972833999999,
+      "volume_total_usd": 73183.19118,
+      "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.9,
-        "No": 97.1
+        "Yes": 13.5,
+        "No": 86.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
+      "category": "tech",
+      "market_id": "4412325",
+      "slug": "will-ai-solve-4-more-millennium-prize-problems-in-2026",
+      "question": "Will AI solve 4 more Millennium Prize Problems in 2026?",
+      "volume24hr_usd": 5903.170000000001,
+      "volume_total_usd": 9286.605656000002,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.35,
+        "No": 98.65
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-16T09:42:15+00:00",
+      "category": "tech",
+      "market_id": "3212272",
+      "slug": "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954860",
+      "question": "Will NVIDIA be the second-largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 5887.497092,
+      "volume_total_usd": 34039.730373,
+      "end_date": "2026-09-30",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 8.85,
+        "No": 91.15
       }
     }
   ]
