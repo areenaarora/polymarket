@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-09-29T13:46:32+00:00",
+  "captured_at_utc": "2026-09-29T19:07:47+00:00",
   "count": 24,
   "rows": [
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 23314.445811999998,
-      "volume_total_usd": 14093413.024204995,
+      "volume24hr_usd": 29421.51775299999,
+      "volume_total_usd": 14103405.051050987,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,31 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
-      "category": "world",
-      "market_id": "2676277",
-      "slug": "will-russia-capture-lyman-by-september-30-2026",
-      "question": "Will Russia capture Lyman by September 30, 2026?",
-      "volume24hr_usd": 87.71,
-      "volume_total_usd": 133856.143179,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.8,
-        "No": 99.2
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 14.530000000000001,
-      "volume_total_usd": 539199.290447,
+      "volume24hr_usd": 540.84579,
+      "volume_total_usd": 539725.606237,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -57,7 +39,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
+      "category": "world",
+      "market_id": "2676277",
+      "slug": "will-russia-capture-lyman-by-september-30-2026",
+      "question": "Will Russia capture Lyman by September 30, 2026?",
+      "volume24hr_usd": 103.91999999999999,
+      "volume_total_usd": 133872.353179,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.7,
+        "No": 99.3
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -75,49 +75,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
       "market_id": "4769494",
       "slug": "trump-renames-ai-by-september-30",
       "question": "Trump renames AI by September 30?",
-      "volume24hr_usd": 133000.79880500003,
-      "volume_total_usd": 645253.5148090023,
+      "volume24hr_usd": 459133.2914759999,
+      "volume_total_usd": 986317.6564850023,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 51.0,
-        "No": 49.0
+        "Yes": 96.9,
+        "No": 3.1
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
       "market_id": "4952765",
       "slug": "trump-renames-ai-by-december-31",
       "question": "Trump renames AI by December 31?",
-      "volume24hr_usd": 40249.88441300001,
-      "volume_total_usd": 71850.09201400001,
+      "volume24hr_usd": 101624.09852900001,
+      "volume_total_usd": 138333.55239599998,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 70.5,
-        "No": 29.5
+        "Yes": 98.15,
+        "No": 1.85
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
+      "category": "tech",
+      "market_id": "5081312",
+      "slug": "trump-renames-ai-by-october-31",
+      "question": "Trump renames AI by October 31?",
+      "volume24hr_usd": 56705.32331099999,
+      "volume_total_usd": 57612.98621300001,
+      "end_date": "2026-11-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 98.25,
+        "No": 1.75
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
       "market_id": "4713829",
       "slug": "anthropic-lab-leak-by-june-30-2027",
       "question": "Anthropic lab leak by June 30, 2027?",
-      "volume24hr_usd": 34833.723333999995,
-      "volume_total_usd": 119483.21651,
+      "volume24hr_usd": 35822.551838,
+      "volume_total_usd": 120472.045014,
       "end_date": "2027-07-01",
       "options": [
         "Yes",
@@ -129,121 +147,85 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
-      "market_id": "3685385",
-      "slug": "will-there-be-no-next-google-gemini-pro-model-release-by-november-1-2026",
-      "question": "Will there be no next Google Gemini Pro model release by November 1, 2026?",
-      "volume24hr_usd": 23745.350636000006,
-      "volume_total_usd": 79391.36859199998,
+      "market_id": "2937573",
+      "slug": "will-openai-launch-a-new-consumer-hardware-product-by-october-31-2026",
+      "question": "Will OpenAI launch a new consumer hardware product by October 31, 2026?",
+      "volume24hr_usd": 26315.795833000004,
+      "volume_total_usd": 164857.04595899995,
       "end_date": "2026-11-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 22.0,
-        "No": 78.0
+        "Yes": 10.5,
+        "No": 89.5
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
       "market_id": "3554657",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
       "question": "Will Anthropic have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 22145.502811000006,
-      "volume_total_usd": 118418.896399,
+      "volume24hr_usd": 23692.178629000002,
+      "volume_total_usd": 120733.57973300005,
       "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 87.5,
-        "No": 12.5
+        "Yes": 88.5,
+        "No": 11.5
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
+      "category": "tech",
+      "market_id": "3667936",
+      "slug": "will-the-next-google-gemini-pro-model-be-released-by-september-30-2026",
+      "question": "Will the next Google Gemini Pro model be released by September 30, 2026?",
+      "volume24hr_usd": 19096.84038,
+      "volume_total_usd": 163987.422007,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 6.4,
+        "No": 93.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
       "market_id": "3008494",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
       "question": "Will Anthropic have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 21763.588809,
-      "volume_total_usd": 989298.4670820002,
+      "volume24hr_usd": 18282.838366,
+      "volume_total_usd": 989917.4670820006,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 99.45,
-        "No": 0.55
+        "Yes": 99.65,
+        "No": 0.35
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
-      "category": "tech",
-      "market_id": "3212185",
-      "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 13833.430506,
-      "volume_total_usd": 653631.9708980004,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.7,
-        "No": 0.3
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
-      "category": "tech",
-      "market_id": "2937573",
-      "slug": "will-openai-launch-a-new-consumer-hardware-product-by-october-31-2026",
-      "question": "Will OpenAI launch a new consumer hardware product by October 31, 2026?",
-      "volume24hr_usd": 13824.973793000001,
-      "volume_total_usd": 152366.22391899995,
-      "end_date": "2026-11-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 20.5,
-        "No": 79.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
-      "category": "tech",
-      "market_id": "4412199",
-      "slug": "will-openai-announce-another-millennium-prize-solution-by-september-30-2026",
-      "question": "Will OpenAI announce another Millennium Prize solution by September 30, 2026?",
-      "volume24hr_usd": 13659.701466000002,
-      "volume_total_usd": 207372.93088899995,
-      "end_date": "2026-10-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.45,
-        "No": 97.55
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
       "market_id": "3212187",
       "slug": "will-company-c-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
       "question": "Will Apple be the largest company in the world by market cap on September 30?",
-      "volume24hr_usd": 11600.095496,
-      "volume_total_usd": 485867.18755999993,
+      "volume24hr_usd": 12883.494,
+      "volume_total_usd": 488096.79756000004,
       "end_date": "2026-10-01",
       "options": [
         "Yes",
@@ -255,67 +237,139 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
-      "category": "tech",
-      "market_id": "3554660",
-      "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841121",
-      "question": "Will Alibaba have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 11043.28,
-      "volume_total_usd": 44038.322324,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.25,
-        "No": 99.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
       "market_id": "3008499",
       "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
       "question": "Will OpenAI have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 10659.084169999998,
-      "volume_total_usd": 796460.3585770006,
+      "volume24hr_usd": 12424.43717,
+      "volume_total_usd": 798991.5785770004,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.25,
-        "No": 99.75
+        "Yes": 0.35,
+        "No": 99.65
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
+      "category": "tech",
+      "market_id": "4882052",
+      "slug": "next-astra-model-6pt1-released-by-october-9-2026",
+      "question": "Next Astra Model (6.1+) released by October 9, 2026?",
+      "volume24hr_usd": 10047.975948,
+      "volume_total_usd": 11593.369142000001,
+      "end_date": "2026-10-09",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 7.95,
+        "No": 92.05
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
+      "category": "tech",
+      "market_id": "3212185",
+      "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
+      "volume24hr_usd": 9533.789932000001,
+      "volume_total_usd": 653777.713004,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 99.75,
+        "No": 0.25
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
+      "category": "tech",
+      "market_id": "4412199",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-september-30-2026",
+      "question": "Will OpenAI announce another Millennium Prize solution by September 30, 2026?",
+      "volume24hr_usd": 9531.074265,
+      "volume_total_usd": 208755.28290799988,
+      "end_date": "2026-10-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 2.15,
+        "No": 97.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
+      "category": "tech",
+      "market_id": "3667937",
+      "slug": "will-the-next-google-gemini-pro-model-be-released-by-october-31-2026",
+      "question": "Will the next Google Gemini Pro model be released by October 31, 2026?",
+      "volume24hr_usd": 9444.568779,
+      "volume_total_usd": 61428.95211400001,
+      "end_date": "2026-11-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 78.5,
+        "No": 21.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
       "market_id": "3008043",
       "slug": "will-alibaba-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852825",
       "question": "Will Alibaba have the best Chinese AI model at the end of September 2026?",
-      "volume24hr_usd": 10109.951000000001,
-      "volume_total_usd": 207750.09260300003,
+      "volume24hr_usd": 9374.7608,
+      "volume_total_usd": 208254.0824030001,
       "end_date": "2026-09-30",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.9,
-        "No": 99.1
+        "Yes": 0.55,
+        "No": 99.45
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
+      "category": "tech",
+      "market_id": "3940735",
+      "slug": "will-the-next-sonnet-model-debut-at-a-score-of-at-least-1470-by-december-31-2026",
+      "question": "Will the next Sonnet model debut at a score of at least 1470 by December 31, 2026?",
+      "volume24hr_usd": 9283.130331,
+      "volume_total_usd": 29732.378943999996,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 82.0,
+        "No": 18.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
       "market_id": "676739",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 9372.832577999998,
-      "volume_total_usd": 1299469.8496759995,
+      "volume24hr_usd": 9256.162416,
+      "volume_total_usd": 1299679.1189789996,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -327,111 +381,57 @@
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
-      "market_id": "3008496",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137055",
-      "question": "Will Google have the best AI model at the end of September 2026?",
-      "volume24hr_usd": 8922.885666999999,
-      "volume_total_usd": 399431.88470700005,
-      "end_date": "2026-09-30",
+      "market_id": "3668604",
+      "slug": "next-openai-gpt-terra-5pt7-released-by-september-30-2026",
+      "question": "Next OpenAI GPT Terra (5.7+) released by September 30, 2026?",
+      "volume24hr_usd": 8699.151812999999,
+      "volume_total_usd": 30107.535648,
+      "end_date": "2026-10-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
+        "Yes": 5.05,
+        "No": 94.95
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
-      "market_id": "3940735",
-      "slug": "will-the-next-sonnet-model-debut-at-a-score-of-at-least-1470-by-december-31-2026",
-      "question": "Will the next Sonnet model debut at a score of at least 1470 by December 31, 2026?",
-      "volume24hr_usd": 8682.333725,
-      "volume_total_usd": 26924.613220000003,
-      "end_date": "2027-01-01",
+      "market_id": "4838803",
+      "slug": "will-the-next-google-gemini-pro-model-be-released-by-october-15-2026-copy",
+      "question": "Will the next Google Gemini Pro model be released by October 9, 2026?",
+      "volume24hr_usd": 8381.646422,
+      "volume_total_usd": 11885.721804,
+      "end_date": "2026-10-16",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 92.5,
-        "No": 7.5
+        "Yes": 17.0,
+        "No": 83.0
       }
     },
     {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
+      "captured_at_utc": "2026-09-29T19:07:47+00:00",
       "category": "tech",
-      "market_id": "3667937",
-      "slug": "will-the-next-google-gemini-pro-model-be-released-by-october-31-2026",
-      "question": "Will the next Google Gemini Pro model be released by October 31, 2026?",
-      "volume24hr_usd": 7805.152408,
-      "volume_total_usd": 59585.123075,
-      "end_date": "2026-11-01",
+      "market_id": "4218310",
+      "slug": "next-astra-model-6pt1-released-by-october-31-2026",
+      "question": "Next Astra Model (6.1+) released by October 31, 2026?",
+      "volume24hr_usd": 7842.854941000001,
+      "volume_total_usd": 16447.933628,
+      "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 75.5,
-        "No": 24.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
-      "category": "tech",
-      "market_id": "4412321",
-      "slug": "will-ai-solve-0-more-millennium-prize-problems-in-2026",
-      "question": "Will AI solve 0 more Millennium Prize Problems in 2026?",
-      "volume24hr_usd": 7162.924582,
-      "volume_total_usd": 60760.19024999999,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 68.5,
-        "No": 31.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
-      "category": "tech",
-      "market_id": "3008047",
-      "slug": "will-xiaomi-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852829",
-      "question": "Will Xiaomi have the best Chinese AI model at the end of September 2026?",
-      "volume24hr_usd": 7050.016651999999,
-      "volume_total_usd": 117103.81849500006,
-      "end_date": "2026-09-30",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 95.6,
-        "No": 4.4
-      }
-    },
-    {
-      "captured_at_utc": "2026-09-29T13:46:32+00:00",
-      "category": "tech",
-      "market_id": "4882052",
-      "slug": "next-astra-model-6pt1-released-by-october-9-2026",
-      "question": "Next Astra Model (6.1+) released by October 9, 2026?",
-      "volume24hr_usd": 6871.378083,
-      "volume_total_usd": 8369.961019999999,
-      "end_date": "2026-10-09",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 7.35,
-        "No": 92.65
+        "Yes": 41.0,
+        "No": 59.0
       }
     }
   ]
