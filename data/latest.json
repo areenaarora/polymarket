@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-10-02T07:59:26+00:00",
+  "captured_at_utc": "2026-10-02T14:40:32+00:00",
   "count": 23,
   "rows": [
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 117316.77086899999,
-      "volume_total_usd": 14305403.137541993,
+      "volume24hr_usd": 53091.93527799997,
+      "volume_total_usd": 14307461.801648993,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,31 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 1954.0515790000002,
-      "volume_total_usd": 545697.4678160001,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 5.5,
-        "No": 94.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
       "question": "Will Israel annex any territory by December 31?",
       "volume24hr_usd": 1560.66,
-      "volume_total_usd": 94689.29075900002,
+      "volume_total_usd": 94689.290759,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -57,13 +39,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "world",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
+      "volume24hr_usd": 1194.121579,
+      "volume_total_usd": 545700.5378160002,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 5.5,
+        "No": 94.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "tech",
       "market_id": "5126782",
       "slug": "will-oklahoma-enact-a-data-center-moratorium-by-december-31-2027",
       "question": "Will Oklahoma enact a data center moratorium by December 31, 2027?",
-      "volume24hr_usd": 182156.343027,
-      "volume_total_usd": 213529.16197299998,
+      "volume24hr_usd": 129175.099113,
+      "volume_total_usd": 213532.66197299998,
       "end_date": "2028-01-01",
       "options": [
         "Yes",
@@ -75,12 +75,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "tech",
       "market_id": "5126781",
       "slug": "will-oklahoma-enact-a-data-center-moratorium-by-june-30-2027",
       "question": "Will Oklahoma enact a data center moratorium by June 30, 2027?",
-      "volume24hr_usd": 172394.622927,
+      "volume24hr_usd": 128957.69,
       "volume_total_usd": 174615.601899,
       "end_date": "2027-07-01",
       "options": [
@@ -88,12 +88,30 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 18.0,
-        "No": 82.0
+        "Yes": 17.5,
+        "No": 82.5
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "tech",
+      "market_id": "3554657",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
+      "question": "Will Anthropic have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 124742.76889300001,
+      "volume_total_usd": 401776.68612,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 39.5,
+        "No": 60.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "tech",
       "market_id": "5179177",
       "slug": "will-missouri-enact-a-data-center-moratorium-by-december-31-2028",
@@ -111,48 +129,48 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "tech",
-      "market_id": "3554657",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
-      "question": "Will Anthropic have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 86167.153887,
-      "volume_total_usd": 360992.20106000005,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 40.0,
-        "No": 60.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "tech",
       "market_id": "3554659",
       "slug": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120",
       "question": "Will Google have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 72949.97971,
-      "volume_total_usd": 306539.50005499995,
+      "volume24hr_usd": 75756.953988,
+      "volume_total_usd": 323403.4703179999,
       "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 60.6,
-        "No": 39.4
+        "Yes": 61.2,
+        "No": 38.8
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "tech",
+      "market_id": "5179198",
+      "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2028",
+      "question": "Will Indiana enact a data center moratorium by December 31, 2028?",
+      "volume24hr_usd": 63499.88738700001,
+      "volume_total_usd": 63499.887387,
+      "end_date": "2029-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 37.5,
+        "No": 62.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "tech",
       "market_id": "5126793",
       "slug": "will-missouri-enact-a-data-center-moratorium-by-december-31-2027",
       "question": "Will Missouri enact a data center moratorium by December 31, 2027?",
-      "volume24hr_usd": 55745.614438,
+      "volume24hr_usd": 55132.62443799999,
       "volume_total_usd": 87882.27373300001,
       "end_date": "2028-01-01",
       "options": [
@@ -165,49 +183,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "tech",
-      "market_id": "5179198",
-      "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2028",
-      "question": "Will Indiana enact a data center moratorium by December 31, 2028?",
-      "volume24hr_usd": 54721.78722800001,
-      "volume_total_usd": 54721.787228,
-      "end_date": "2029-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 36.5,
-        "No": 63.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "tech",
-      "market_id": "3554666",
-      "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841127",
-      "question": "Will SpaceXAI have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 52388.907689,
-      "volume_total_usd": 140889.166147,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.2,
-        "No": 99.8
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "tech",
       "market_id": "3554662",
       "slug": "will-openai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841123",
       "question": "Will OpenAI have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 48525.481043,
-      "volume_total_usd": 175373.348826,
+      "volume24hr_usd": 54260.99373200002,
+      "volume_total_usd": 188678.350525,
       "end_date": "2026-10-31",
       "options": [
         "Yes",
@@ -219,31 +201,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "tech",
       "market_id": "5179175",
       "slug": "will-oklahoma-enact-a-data-center-moratorium-by-december-31-2028",
       "question": "Will Oklahoma enact a data center moratorium by December 31, 2028?",
-      "volume24hr_usd": 47677.394141000004,
-      "volume_total_usd": 47677.394141,
+      "volume24hr_usd": 47727.39414100001,
+      "volume_total_usd": 47727.394141,
       "end_date": "2029-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 35.5,
-        "No": 64.5
+        "Yes": 34.5,
+        "No": 65.5
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "tech",
       "market_id": "3554658",
       "slug": "will-meta-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841119",
       "question": "Will Meta have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 39630.606833000005,
-      "volume_total_usd": 142409.207198,
+      "volume24hr_usd": 46556.85411,
+      "volume_total_usd": 159288.26680800001,
       "end_date": "2026-11-01",
       "options": [
         "Yes",
@@ -255,165 +237,183 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "tech",
-      "market_id": "4412201",
-      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2027",
-      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
-      "volume24hr_usd": 35054.519778,
-      "volume_total_usd": 133667.58625599998,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 60.0,
-        "No": 40.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "tech",
-      "market_id": "5126777",
-      "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2026",
-      "question": "Will Indiana enact a data center moratorium by December 31, 2026?",
-      "volume24hr_usd": 31196.408572999997,
-      "volume_total_usd": 50081.909078,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 5.5,
-        "No": 94.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "tech",
-      "market_id": "4662693",
-      "slug": "will-anthropic-announce-bankruptcy-by-december-31-2027",
-      "question": "Will Anthropic announce bankruptcy by December 31, 2027?",
-      "volume24hr_usd": 29901.450935,
-      "volume_total_usd": 51465.64215200001,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 5.5,
-        "No": 94.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "tech",
-      "market_id": "4412200",
-      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2026",
-      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
-      "volume24hr_usd": 25021.653711,
-      "volume_total_usd": 158431.19925299997,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 27.5,
-        "No": 72.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "tech",
-      "market_id": "2431412",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-december-2026",
-      "question": "Will Google have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 23306.427059999998,
-      "volume_total_usd": 175099.56146899995,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 36.5,
-        "No": 63.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "tech",
-      "market_id": "5126791",
-      "slug": "will-missouri-enact-a-data-center-moratorium-by-december-31-2026",
-      "question": "Will Missouri enact a data center moratorium by December 31, 2026?",
-      "volume24hr_usd": 19767.993812,
-      "volume_total_usd": 37264.628278000004,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 6.5,
-        "No": 93.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
-      "category": "tech",
-      "market_id": "5126780",
-      "slug": "will-oklahoma-enact-a-data-center-moratorium-by-december-31-2026",
-      "question": "Will Oklahoma enact a data center moratorium by December 31, 2026?",
-      "volume24hr_usd": 18847.676339999998,
-      "volume_total_usd": 26140.968912000004,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 6.5,
-        "No": 93.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "tech",
       "market_id": "4965997",
       "slug": "will-tesla-deliver-between-475000-and-500000-vehicles-in-q3-2026",
       "question": "Will Tesla deliver between 475000 and 500000 vehicles in Q3 2026",
-      "volume24hr_usd": 18763.672891,
-      "volume_total_usd": 43650.57493999999,
+      "volume24hr_usd": 43345.20968200001,
+      "volume_total_usd": 71934.99811399999,
       "end_date": "2026-12-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 95.5,
-        "No": 4.5
+        "Yes": 99.95,
+        "No": 0.05
       }
     },
     {
-      "captured_at_utc": "2026-10-02T07:59:26+00:00",
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
       "category": "tech",
-      "market_id": "5126795",
-      "slug": "will-louisiana-enact-a-data-center-moratorium-by-june-30-2027",
-      "question": "Will Louisiana enact a data center moratorium by June 30, 2027?",
-      "volume24hr_usd": 17468.649251000003,
-      "volume_total_usd": 38212.01043200001,
-      "end_date": "2027-07-01",
+      "market_id": "3554666",
+      "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841127",
+      "question": "Will SpaceXAI have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 39321.278189,
+      "volume_total_usd": 151260.18714700002,
+      "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 14.5,
-        "No": 85.5
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "tech",
+      "market_id": "5123857",
+      "slug": "will-texas-enact-a-data-center-moratorium-by-december-31-2027",
+      "question": "Will Texas enact a data center moratorium by December 31, 2027?",
+      "volume24hr_usd": 34209.771593000005,
+      "volume_total_usd": 54243.986837,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 30.5,
+        "No": 69.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "tech",
+      "market_id": "5126777",
+      "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2026",
+      "question": "Will Indiana enact a data center moratorium by December 31, 2026?",
+      "volume24hr_usd": 32481.858572999994,
+      "volume_total_usd": 51447.939078,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 5.5,
+        "No": 94.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "tech",
+      "market_id": "4662693",
+      "slug": "will-anthropic-announce-bankruptcy-by-december-31-2027",
+      "question": "Will Anthropic announce bankruptcy by December 31, 2027?",
+      "volume24hr_usd": 31037.816808,
+      "volume_total_usd": 62083.712674,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 5.5,
+        "No": 94.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "tech",
+      "market_id": "4412201",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2027",
+      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
+      "volume24hr_usd": 27714.399410000005,
+      "volume_total_usd": 135463.496256,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 58.5,
+        "No": 41.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "tech",
+      "market_id": "2431412",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-december-2026",
+      "question": "Will Google have the best AI model at the end of December 2026?",
+      "volume24hr_usd": 20890.945139,
+      "volume_total_usd": 181766.61068699998,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 36.0,
+        "No": 64.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "tech",
+      "market_id": "4412200",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2026",
+      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
+      "volume24hr_usd": 20575.861204,
+      "volume_total_usd": 173576.47839799995,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 22.5,
+        "No": 77.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "tech",
+      "market_id": "5126780",
+      "slug": "will-oklahoma-enact-a-data-center-moratorium-by-december-31-2026",
+      "question": "Will Oklahoma enact a data center moratorium by December 31, 2026?",
+      "volume24hr_usd": 18795.22634,
+      "volume_total_usd": 26167.148912000004,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 6.5,
+        "No": 93.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-02T14:40:32+00:00",
+      "category": "tech",
+      "market_id": "5126791",
+      "slug": "will-missouri-enact-a-data-center-moratorium-by-december-31-2026",
+      "question": "Will Missouri enact a data center moratorium by December 31, 2026?",
+      "volume24hr_usd": 18178.737145,
+      "volume_total_usd": 37285.028278000005,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 6.5,
+        "No": 93.5
       }
     }
   ]
