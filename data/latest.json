@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-10-05T17:58:47+00:00",
+  "captured_at_utc": "2026-10-06T06:06:31+00:00",
   "count": 23,
   "rows": [
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 18443.359843,
-      "volume_total_usd": 14383520.925368983,
+      "volume24hr_usd": 38083.897792,
+      "volume_total_usd": 14405249.154337987,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,12 +21,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 2614.284676,
+      "volume24hr_usd": 2565.858961,
       "volume_total_usd": 563949.992492,
       "end_date": "2027-01-01",
       "options": [
@@ -39,13 +39,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
       "question": "Will Israel annex any territory by December 31?",
-      "volume24hr_usd": 4.95,
-      "volume_total_usd": 94699.24075899998,
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 94699.240759,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -57,97 +57,79 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
-      "market_id": "5179198",
-      "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2028",
-      "question": "Will Indiana enact a data center moratorium by December 31, 2028?",
-      "volume24hr_usd": 63067.96,
-      "volume_total_usd": 460630.945053,
-      "end_date": "2029-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 14.5,
-        "No": 85.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
-      "category": "tech",
-      "market_id": "2431412",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-december-2026",
-      "question": "Will Google have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 33266.711026,
-      "volume_total_usd": 218369.770318,
+      "market_id": "2431420",
+      "slug": "will-mistral-have-the-best-ai-model-at-the-end-of-december-2026",
+      "question": "Will Mistral have the best AI model at the end of December 2026?",
+      "volume24hr_usd": 85668.779781,
+      "volume_total_usd": 186741.757397,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 42.5,
-        "No": 57.5
+        "Yes": 2.1,
+        "No": 97.9
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
+      "category": "tech",
+      "market_id": "5123848",
+      "slug": "will-ohio-enact-a-data-center-moratorium-by-december-31-2026",
+      "question": "Will Ohio enact a data center moratorium by December 31, 2026?",
+      "volume24hr_usd": 52737.87,
+      "volume_total_usd": 166037.232585,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 4.5,
+        "No": 95.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
       "market_id": "3584362",
       "slug": "gemini-4pt0-released-by-october-31-2026",
       "question": "Gemini 4.0 released by October 31, 2026?",
-      "volume24hr_usd": 32885.74782099999,
-      "volume_total_usd": 146842.01398599998,
+      "volume24hr_usd": 41801.79913999999,
+      "volume_total_usd": 156022.04439599998,
       "end_date": "2026-11-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 82.5,
-        "No": 17.5
+        "Yes": 87.5,
+        "No": 12.5
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
-      "category": "tech",
-      "market_id": "4662693",
-      "slug": "will-anthropic-announce-bankruptcy-by-december-31-2027",
-      "question": "Will Anthropic announce bankruptcy by December 31, 2027?",
-      "volume24hr_usd": 32709.992619999997,
-      "volume_total_usd": 1350654.17612,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 9.5,
-        "No": 90.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
       "market_id": "5084763",
       "slug": "gemini-4pt0-released-by-october-15-2026",
       "question": "Gemini 4.0 released by October 15, 2026?",
-      "volume24hr_usd": 30067.833800999997,
-      "volume_total_usd": 82840.47636099998,
+      "volume24hr_usd": 36957.67763900001,
+      "volume_total_usd": 97803.79214900002,
       "end_date": "2026-10-16",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 68.5,
-        "No": 31.5
+        "Yes": 77.0,
+        "No": 23.0
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
       "market_id": "3554660",
       "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841121",
@@ -165,67 +147,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
-      "market_id": "3667937",
-      "slug": "will-the-next-google-gemini-pro-model-be-released-by-october-31-2026",
-      "question": "Will the next Google Gemini Pro model be released by October 31, 2026?",
-      "volume24hr_usd": 21203.261518000007,
-      "volume_total_usd": 138421.1892580001,
-      "end_date": "2026-11-01",
+      "market_id": "2431412",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-december-2026",
+      "question": "Will Google have the best AI model at the end of December 2026?",
+      "volume24hr_usd": 29026.129717,
+      "volume_total_usd": 222578.660035,
+      "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 20.0,
-        "No": 80.0
+        "Yes": 41.5,
+        "No": 58.5
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
-      "market_id": "5180405",
-      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "question": "Will Alphabet be the largest company in the world by market cap on October 31, 2026?",
-      "volume24hr_usd": 15093.539946,
-      "volume_total_usd": 31808.995458999998,
-      "end_date": "2026-11-01",
+      "market_id": "3554659",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120",
+      "question": "Will Google have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 20976.358247000004,
+      "volume_total_usd": 420855.14907099976,
+      "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.35,
-        "No": 99.65
+        "Yes": 67.6,
+        "No": 32.4
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
-      "category": "tech",
-      "market_id": "3554658",
-      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841119",
-      "question": "Will Meta have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 14216.997946999998,
-      "volume_total_usd": 202646.68092299998,
-      "end_date": "2026-11-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.45,
-        "No": 99.55
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
       "market_id": "3554666",
       "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841127",
       "question": "Will SpaceXAI have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 14032.435,
-      "volume_total_usd": 223110.32998100005,
+      "volume24hr_usd": 19025.251,
+      "volume_total_usd": 228940.32998100005,
       "end_date": "2026-10-31",
       "options": [
         "Yes",
@@ -237,139 +201,175 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
-      "market_id": "3554659",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120",
-      "question": "Will Google have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 12522.954176000003,
-      "volume_total_usd": 407843.2999859997,
-      "end_date": "2026-10-31",
+      "market_id": "5180405",
+      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "question": "Will Alphabet be the largest company in the world by market cap on October 31, 2026?",
+      "volume24hr_usd": 18598.851408,
+      "volume_total_usd": 35491.568121,
+      "end_date": "2026-11-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 66.5,
-        "No": 33.5
+        "Yes": 0.35,
+        "No": 99.65
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
-      "market_id": "4254700",
-      "slug": "will-apple-release-a-foldable-iphone-by-october-31",
-      "question": "Will Apple release a foldable iPhone by October 31?",
-      "volume24hr_usd": 12400.160000000002,
-      "volume_total_usd": 108126.34501199999,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 99.35,
-        "No": 0.65
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
-      "category": "tech",
-      "market_id": "3231247",
-      "slug": "situational-awareness-announces-fund-wind-down-by-december-31-2026-20260730183020992",
-      "question": "Situational Awareness announces fund wind-down by December 31, 2026?",
-      "volume24hr_usd": 11599.296858,
-      "volume_total_usd": 107009.32187399994,
+      "market_id": "5347188",
+      "slug": "will-north-carolina-enact-a-data-center-moratorium-by-december-31-2026",
+      "question": "Will North Carolina enact a data center moratorium by December 31, 2026?",
+      "volume24hr_usd": 14986.999131,
+      "volume_total_usd": 14986.999131,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.45,
-        "No": 96.55
+        "Yes": 5.5,
+        "No": 94.5
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
-      "market_id": "5179177",
-      "slug": "will-missouri-enact-a-data-center-moratorium-by-december-31-2028",
-      "question": "Will Missouri enact a data center moratorium by December 31, 2028?",
-      "volume24hr_usd": 11359.782013,
-      "volume_total_usd": 186242.85571499998,
-      "end_date": "2029-01-01",
+      "market_id": "5126777",
+      "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2026",
+      "question": "Will Indiana enact a data center moratorium by December 31, 2026?",
+      "volume24hr_usd": 14871.852308,
+      "volume_total_usd": 90845.800457,
+      "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 25.5,
-        "No": 74.5
+        "Yes": 3.95,
+        "No": 96.05
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
-      "market_id": "3554662",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841123",
-      "question": "Will OpenAI have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 10659.038147,
-      "volume_total_usd": 248010.16053999995,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.25,
-        "No": 98.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
-      "category": "tech",
-      "market_id": "4664908",
-      "slug": "will-openai-have-the-best-text-to-image-ai-at-the-end-of-november-2026",
-      "question": "Will OpenAI have the best Text-to-Image AI at the end of November 2026?",
-      "volume24hr_usd": 7717.970000000001,
-      "volume_total_usd": 16557.176499,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 88.5,
-        "No": 11.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
-      "category": "tech",
-      "market_id": "4418522",
-      "slug": "will-no-millennium-prize-problem-be-solved-by-ai-by-december-31-2027",
-      "question": "Will no Millennium Prize Problem be solved by AI by December 31, 2027?",
-      "volume24hr_usd": 7466.897876,
-      "volume_total_usd": 65195.92477900003,
+      "market_id": "5347190",
+      "slug": "will-north-carolina-enact-a-data-center-moratorium-by-december-31-2027",
+      "question": "Will North Carolina enact a data center moratorium by December 31, 2027?",
+      "volume24hr_usd": 13817.070405,
+      "volume_total_usd": 13817.070404999999,
       "end_date": "2028-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 35.5,
-        "No": 64.5
+        "Yes": 17.5,
+        "No": 82.5
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
+      "category": "tech",
+      "market_id": "3554662",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841123",
+      "question": "Will OpenAI have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 13707.113124,
+      "volume_total_usd": 254999.33531999995,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.15,
+        "No": 98.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
+      "category": "tech",
+      "market_id": "2431413",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
+      "question": "Will Anthropic have the best AI model at the end of December 2026?",
+      "volume24hr_usd": 13280.676282999999,
+      "volume_total_usd": 312182.7604549999,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 47.0,
+        "No": 53.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
+      "category": "tech",
+      "market_id": "5126781",
+      "slug": "will-oklahoma-enact-a-data-center-moratorium-by-june-30-2027",
+      "question": "Will Oklahoma enact a data center moratorium by June 30, 2027?",
+      "volume24hr_usd": 12614.81,
+      "volume_total_usd": 214884.77346100003,
+      "end_date": "2027-07-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 11.5,
+        "No": 88.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
+      "category": "tech",
+      "market_id": "3554657",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
+      "question": "Will Anthropic have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 12268.484098999998,
+      "volume_total_usd": 472499.6559410005,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 26.5,
+        "No": 73.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
+      "category": "tech",
+      "market_id": "3554673",
+      "slug": "will-mistral-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841134",
+      "question": "Will Mistral have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 12000.0,
+      "volume_total_usd": 16799.525999999998,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.05,
+        "No": 99.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
       "market_id": "5126779",
       "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2027",
       "question": "Will Indiana enact a data center moratorium by December 31, 2027?",
-      "volume24hr_usd": 7427.740000000001,
-      "volume_total_usd": 2046710.4330230001,
+      "volume24hr_usd": 11754.89,
+      "volume_total_usd": 2051044.123023,
       "end_date": "2028-01-01",
       "options": [
         "Yes",
@@ -381,39 +381,39 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
-      "market_id": "2431423",
-      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-december-2026",
-      "question": "Will Meta have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 7373.592148000001,
-      "volume_total_usd": 125003.19161200001,
-      "end_date": "2026-12-31",
+      "market_id": "4412201",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2027",
+      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
+      "volume24hr_usd": 11670.619507999998,
+      "volume_total_usd": 220563.30575,
+      "end_date": "2028-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.25,
-        "No": 98.75
+        "Yes": 61.5,
+        "No": 38.5
       }
     },
     {
-      "captured_at_utc": "2026-10-05T17:58:47+00:00",
+      "captured_at_utc": "2026-10-06T06:06:31+00:00",
       "category": "tech",
-      "market_id": "5123855",
-      "slug": "will-texas-enact-a-data-center-moratorium-by-december-31-2026",
-      "question": "Will Texas enact a data center moratorium by December 31, 2026?",
-      "volume24hr_usd": 7369.556316,
-      "volume_total_usd": 89641.42784299998,
-      "end_date": "2027-01-01",
+      "market_id": "4662693",
+      "slug": "will-anthropic-announce-bankruptcy-by-december-31-2027",
+      "question": "Will Anthropic announce bankruptcy by December 31, 2027?",
+      "volume24hr_usd": 11340.839343000001,
+      "volume_total_usd": 1350874.64612,
+      "end_date": "2028-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 5.5,
-        "No": 94.5
+        "Yes": 9.5,
+        "No": 90.5
       }
     }
   ]
