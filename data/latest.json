@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-10-13T02:25:59+00:00",
+  "captured_at_utc": "2026-10-13T10:09:59+00:00",
   "count": 23,
   "rows": [
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 26923.733375999996,
-      "volume_total_usd": 14788150.116622992,
+      "volume24hr_usd": 24300.512622000002,
+      "volume_total_usd": 14789564.665362995,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,7 +21,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
+      "category": "world",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
+      "volume24hr_usd": 2.29,
+      "volume_total_usd": 566721.4637119998,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 5.0,
+        "No": 95.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -39,49 +57,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
-      "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 0.0,
-      "volume_total_usd": 566719.173712,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 5.0,
-        "No": 95.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
-      "market_id": "4662693",
-      "slug": "will-anthropic-announce-bankruptcy-by-december-31-2027",
-      "question": "Will Anthropic announce bankruptcy by December 31, 2027?",
-      "volume24hr_usd": 58367.14659599999,
-      "volume_total_usd": 1466596.5374470002,
-      "end_date": "2028-01-01",
+      "market_id": "5429959",
+      "slug": "gemini-4pt0-released-by-october-13-2026",
+      "question": "Gemini 4.0 released by October 13, 2026?",
+      "volume24hr_usd": 42172.349747999986,
+      "volume_total_usd": 69971.07820600002,
+      "end_date": "2026-10-14",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 9.5,
-        "No": 90.5
+        "Yes": 83.0,
+        "No": 17.0
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
       "market_id": "5123849",
       "slug": "will-ohio-enact-a-data-center-moratorium-by-june-30-2027",
       "question": "Will Ohio enact a data center moratorium by June 30, 2027?",
-      "volume24hr_usd": 44929.22048799999,
-      "volume_total_usd": 130568.47448199999,
+      "volume24hr_usd": 40894.23048799999,
+      "volume_total_usd": 131573.81448200002,
       "end_date": "2027-07-01",
       "options": [
         "Yes",
@@ -93,139 +93,139 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
+      "category": "tech",
+      "market_id": "5084763",
+      "slug": "gemini-4pt0-released-by-october-15-2026",
+      "question": "Gemini 4.0 released by October 15, 2026?",
+      "volume24hr_usd": 25992.007623999983,
+      "volume_total_usd": 233353.54854899936,
+      "end_date": "2026-10-16",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 94.0,
+        "No": 6.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
       "market_id": "3554658",
       "slug": "will-meta-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841119",
       "question": "Will Meta have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 40623.49816499999,
-      "volume_total_usd": 272186.02334200003,
+      "volume24hr_usd": 23652.578579000005,
+      "volume_total_usd": 272774.400466,
       "end_date": "2026-11-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.1,
-        "No": 97.9
+        "Yes": 2.05,
+        "No": 97.95
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
-      "category": "tech",
-      "market_id": "676746",
-      "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
-      "question": "Will SpaceX be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 27921.22,
-      "volume_total_usd": 804187.708735,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
-      "category": "tech",
-      "market_id": "5429959",
-      "slug": "gemini-4pt0-released-by-october-13-2026",
-      "question": "Gemini 4.0 released by October 13, 2026?",
-      "volume24hr_usd": 27066.555140999997,
-      "volume_total_usd": 52666.47388800001,
-      "end_date": "2026-10-14",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 61.5,
-        "No": 38.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
-      "category": "tech",
-      "market_id": "5126793",
-      "slug": "will-missouri-enact-a-data-center-moratorium-by-december-31-2027",
-      "question": "Will Missouri enact a data center moratorium by December 31, 2027?",
-      "volume24hr_usd": 24728.439412,
-      "volume_total_usd": 146567.522717,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 17.5,
-        "No": 82.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
-      "category": "tech",
-      "market_id": "5123850",
-      "slug": "will-ohio-enact-a-data-center-moratorium-by-december-31-2027",
-      "question": "Will Ohio enact a data center moratorium by December 31, 2027?",
-      "volume24hr_usd": 19261.510000000002,
-      "volume_total_usd": 143798.75019999998,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 21.5,
-        "No": 78.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
-      "category": "tech",
-      "market_id": "5126781",
-      "slug": "will-oklahoma-enact-a-data-center-moratorium-by-june-30-2027",
-      "question": "Will Oklahoma enact a data center moratorium by June 30, 2027?",
-      "volume24hr_usd": 17391.206669,
-      "volume_total_usd": 238599.85013000004,
-      "end_date": "2027-07-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 12.5,
-        "No": 87.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
       "market_id": "676741",
       "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
       "question": "Will Apple be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 17171.919869,
-      "volume_total_usd": 1058334.3590059998,
+      "volume24hr_usd": 21299.747691,
+      "volume_total_usd": 1062571.606828,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 16.75,
-        "No": 83.25
+        "Yes": 20.55,
+        "No": 79.45
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
+      "category": "tech",
+      "market_id": "5180413",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
+      "volume24hr_usd": 18280.023419,
+      "volume_total_usd": 74017.928228,
+      "end_date": "2026-11-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 91.4,
+        "No": 8.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
+      "category": "tech",
+      "market_id": "5429955",
+      "slug": "gemini-4pt0-released-by-october-23-2026",
+      "question": "Gemini 4.0 released by October 23, 2026?",
+      "volume24hr_usd": 18160.604794,
+      "volume_total_usd": 31613.328050999997,
+      "end_date": "2026-10-24",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 95.75,
+        "No": 4.25
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
+      "category": "tech",
+      "market_id": "4178411",
+      "slug": "next-fable-model-5pt2-released-by-october-31-2026",
+      "question": "Next Fable Model (5.2+) released by October 31, 2026?",
+      "volume24hr_usd": 17475.121291,
+      "volume_total_usd": 132096.683975,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 66.6,
+        "No": 33.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
+      "category": "tech",
+      "market_id": "3584362",
+      "slug": "gemini-4pt0-released-by-october-31-2026",
+      "question": "Gemini 4.0 released by October 31, 2026?",
+      "volume24hr_usd": 16929.382833000003,
+      "volume_total_usd": 260442.37331699993,
+      "end_date": "2026-11-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 98.3,
+        "No": 1.7
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
       "market_id": "2431423",
       "slug": "will-meta-have-the-best-ai-model-at-the-end-of-december-2026",
       "question": "Will Meta have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 16407.505923,
-      "volume_total_usd": 168928.90145199996,
+      "volume24hr_usd": 16531.408363,
+      "volume_total_usd": 169172.803892,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -237,183 +237,183 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
-      "market_id": "5084763",
-      "slug": "gemini-4pt0-released-by-october-15-2026",
-      "question": "Gemini 4.0 released by October 15, 2026?",
-      "volume24hr_usd": 16046.601656,
-      "volume_total_usd": 222504.63785999944,
-      "end_date": "2026-10-16",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 77.0,
-        "No": 23.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
-      "category": "tech",
-      "market_id": "4178411",
-      "slug": "next-fable-model-5pt2-released-by-october-31-2026",
-      "question": "Next Fable Model (5.2+) released by October 31, 2026?",
-      "volume24hr_usd": 15167.435465,
-      "volume_total_usd": 128505.481633,
+      "market_id": "3554666",
+      "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841127",
+      "question": "Will SpaceXAI have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 15382.632334,
+      "volume_total_usd": 274322.3663960001,
       "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 79.9,
-        "No": 20.1
+        "Yes": 0.2,
+        "No": 99.8
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
-      "category": "tech",
-      "market_id": "5180413",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
-      "volume24hr_usd": 14337.186535000003,
-      "volume_total_usd": 68643.18953800002,
-      "end_date": "2026-11-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 92.75,
-        "No": 7.25
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
       "market_id": "4412321",
       "slug": "will-ai-solve-0-more-millennium-prize-problems-in-2026",
       "question": "Will AI solve 0 more Millennium Prize Problems in 2026?",
-      "volume24hr_usd": 13558.926137,
-      "volume_total_usd": 126964.84383800002,
+      "volume24hr_usd": 13885.596136999995,
+      "volume_total_usd": 127526.34383800002,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 80.5,
-        "No": 19.5
+        "Yes": 78.0,
+        "No": 22.0
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
-      "category": "tech",
-      "market_id": "5429955",
-      "slug": "gemini-4pt0-released-by-october-23-2026",
-      "question": "Gemini 4.0 released by October 23, 2026?",
-      "volume24hr_usd": 13105.815865,
-      "volume_total_usd": 26103.667015,
-      "end_date": "2026-10-24",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 88.0,
-        "No": 12.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
       "market_id": "676739",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 12079.754401000002,
-      "volume_total_usd": 1393327.4619539995,
+      "volume24hr_usd": 13734.164294,
+      "volume_total_usd": 1395119.2732769996,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 79.0,
-        "No": 21.0
+        "Yes": 76.0,
+        "No": 24.0
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
-      "market_id": "5347188",
-      "slug": "will-north-carolina-enact-a-data-center-moratorium-by-december-31-2026",
-      "question": "Will North Carolina enact a data center moratorium by December 31, 2026?",
-      "volume24hr_usd": 10885.07,
-      "volume_total_usd": 95784.50472800003,
+      "market_id": "676746",
+      "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+      "question": "Will SpaceX be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 12098.326,
+      "volume_total_usd": 814890.0167349997,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.8,
-        "No": 97.2
+        "Yes": 0.15,
+        "No": 99.85
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
-      "category": "tech",
-      "market_id": "5429960",
-      "slug": "gemini-4pt0-released-by-october-16-2026",
-      "question": "Gemini 4.0 released by October 16, 2026?",
-      "volume24hr_usd": 10753.383651999999,
-      "volume_total_usd": 34833.296749999994,
-      "end_date": "2026-10-17",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 80.5,
-        "No": 19.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
       "market_id": "5429958",
       "slug": "gemini-4pt0-released-by-october-14-2026",
       "question": "Gemini 4.0 released by October 14, 2026?",
-      "volume24hr_usd": 10711.115249999999,
-      "volume_total_usd": 45987.036576,
+      "volume24hr_usd": 12015.091255999998,
+      "volume_total_usd": 49315.173153000025,
       "end_date": "2026-10-15",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 71.0,
-        "No": 29.0
+        "Yes": 90.5,
+        "No": 9.5
       }
     },
     {
-      "captured_at_utc": "2026-10-13T02:25:59+00:00",
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
       "category": "tech",
-      "market_id": "5219372",
-      "slug": "will-gemini-argon-debut-with-a-humanitys-last-exam-score-of-60-or-higher",
-      "question": "Will Gemini Argon debut with a Humanity's Last Exam score of 60% or higher?",
-      "volume24hr_usd": 10355.277657999999,
-      "volume_total_usd": 20034.311494,
-      "end_date": "2027-07-01",
+      "market_id": "5429960",
+      "slug": "gemini-4pt0-released-by-october-16-2026",
+      "question": "Gemini 4.0 released by October 16, 2026?",
+      "volume24hr_usd": 11872.415341,
+      "volume_total_usd": 36909.752151999994,
+      "end_date": "2026-10-17",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 21.5,
-        "No": 78.5
+        "Yes": 93.6,
+        "No": 6.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
+      "category": "tech",
+      "market_id": "4662693",
+      "slug": "will-anthropic-announce-bankruptcy-by-december-31-2027",
+      "question": "Will Anthropic announce bankruptcy by December 31, 2027?",
+      "volume24hr_usd": 10991.850435999999,
+      "volume_total_usd": 1477533.137883,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 9.5,
+        "No": 90.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
+      "category": "tech",
+      "market_id": "5347188",
+      "slug": "will-north-carolina-enact-a-data-center-moratorium-by-december-31-2026",
+      "question": "Will North Carolina enact a data center moratorium by December 31, 2026?",
+      "volume24hr_usd": 10886.86484,
+      "volume_total_usd": 95786.29956800002,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 2.75,
+        "No": 97.25
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
+      "category": "tech",
+      "market_id": "5408183",
+      "slug": "will-gemini-argon-be-released-on-october-13-2026",
+      "question": "Will Gemini Argon be released on October 13, 2026?",
+      "volume24hr_usd": 10784.020450000002,
+      "volume_total_usd": 15383.99108,
+      "end_date": "2026-10-14",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 86.35,
+        "No": 13.65
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-13T10:09:59+00:00",
+      "category": "tech",
+      "market_id": "4869280",
+      "slug": "will-there-be-no-next-meta-muse-spark-model-release-by-october-31-2026",
+      "question": "Will there be no next Meta Muse Spark model release by October 31, 2026?",
+      "volume24hr_usd": 10440.286723,
+      "volume_total_usd": 14701.779472999997,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 87.5,
+        "No": 12.5
       }
     }
   ]
