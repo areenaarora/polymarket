@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-10-16T15:14:31+00:00",
-  "count": 23,
+  "captured_at_utc": "2026-10-16T19:21:35+00:00",
+  "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 69298.176163,
-      "volume_total_usd": 14958147.698820999,
+      "volume24hr_usd": 55705.492714000015,
+      "volume_total_usd": 14959002.11882099,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,13 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 936.98,
-      "volume_total_usd": 568017.0437120002,
+      "volume24hr_usd": 1886.98,
+      "volume_total_usd": 568967.043712,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -39,13 +39,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
       "question": "Will Israel annex any territory by December 31?",
-      "volume24hr_usd": 127.4525,
-      "volume_total_usd": 94941.713259,
+      "volume24hr_usd": 345.015,
+      "volume_total_usd": 95159.27575899998,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -57,31 +57,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "world",
+      "market_id": "5777421",
+      "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
+      "question": "Will Israel annex any territory by March 31?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2027-04-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 48.5,
+        "No": 51.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "world",
+      "market_id": "5777420",
+      "slug": "will-israel-annex-any-territory-by-june-30-20261016121413379",
+      "question": "Will Israel annex any territory by June 30?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 0.0,
+      "end_date": "2027-07-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 50.0,
+        "No": 50.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
       "market_id": "5710779",
       "slug": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second",
       "question": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
-      "volume24hr_usd": 333233.53627700004,
-      "volume_total_usd": 350784.6289009999,
+      "volume24hr_usd": 5389624.469304001,
+      "volume_total_usd": 5411078.310216998,
       "end_date": "2026-10-16",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 98.1,
-        "No": 1.9
+        "Yes": 99.95,
+        "No": 0.05
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
       "market_id": "2914128",
       "slug": "will-catl-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230556",
       "question": "Will CATL be removed from Chinese Military Companies list by June 30, 2027?",
       "volume24hr_usd": 34705.81,
-      "volume_total_usd": 123509.78336900001,
+      "volume_total_usd": 123509.783369,
       "end_date": "2027-07-01",
       "options": [
         "Yes",
@@ -93,30 +129,66 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
       "market_id": "5180413",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
       "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
-      "volume24hr_usd": 20486.352166999994,
-      "volume_total_usd": 140736.16213699998,
+      "volume24hr_usd": 17967.587713999998,
+      "volume_total_usd": 141385.49892099996,
       "end_date": "2026-11-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 78.35,
-        "No": 21.65
+        "Yes": 82.05,
+        "No": 17.95
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "tech",
+      "market_id": "5180405",
+      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "question": "Will Alphabet be the largest company in the world by market cap on October 31, 2026?",
+      "volume24hr_usd": 15592.229002999997,
+      "volume_total_usd": 83118.971597,
+      "end_date": "2026-11-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "tech",
+      "market_id": "3554659",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120",
+      "question": "Will Google have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 14267.911062000005,
+      "volume_total_usd": 594818.6737530001,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 71.2,
+        "No": 28.8
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
       "market_id": "4662693",
       "slug": "will-anthropic-announce-bankruptcy-by-december-31-2027",
       "question": "Will Anthropic announce bankruptcy by December 31, 2027?",
-      "volume24hr_usd": 15070.170311,
+      "volume24hr_usd": 13052.170311,
       "volume_total_usd": 1523463.421593,
       "end_date": "2028-01-01",
       "options": [
@@ -129,14 +201,104 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
-      "market_id": "5180405",
-      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "question": "Will Alphabet be the largest company in the world by market cap on October 31, 2026?",
-      "volume24hr_usd": 12222.365999999998,
-      "volume_total_usd": 78501.15959400001,
+      "market_id": "5376971",
+      "slug": "best-ai-model-on-october-19-20261006t124330088z-will-gemini-4-argon-high-be-the-best-ai-model-on-october-19-2026",
+      "question": "Will gemini-4-argon-high be the best AI model on October 19, 2026?",
+      "volume24hr_usd": 12862.830826000001,
+      "volume_total_usd": 18283.056040999996,
+      "end_date": "2026-10-20",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 84.0,
+        "No": 16.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "tech",
+      "market_id": "4383153",
+      "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026",
+      "question": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
+      "volume24hr_usd": 12430.516243999999,
+      "volume_total_usd": 212826.11645600002,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 28.5,
+        "No": 71.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "tech",
+      "market_id": "5180417",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "question": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
+      "volume24hr_usd": 11129.347960000001,
+      "volume_total_usd": 84121.751535,
       "end_date": "2026-11-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 17.0,
+        "No": 83.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "tech",
+      "market_id": "3554662",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841123",
+      "question": "Will OpenAI have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 10596.20387,
+      "volume_total_usd": 359953.7954219999,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.7,
+        "No": 99.3
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "tech",
+      "market_id": "3554657",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
+      "question": "Will Anthropic have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 9958.792284999998,
+      "volume_total_usd": 577650.8781370006,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 26.5,
+        "No": 73.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "tech",
+      "market_id": "5205160",
+      "slug": "next-fable-model-5pt2-released-by-october-17-2026",
+      "question": "Next Fable Model (5.2+) released by October 17, 2026?",
+      "volume24hr_usd": 9566.005466999997,
+      "volume_total_usd": 69475.08197200001,
+      "end_date": "2026-10-18",
       "options": [
         "Yes",
         "No"
@@ -147,102 +309,30 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
-      "market_id": "5376971",
-      "slug": "best-ai-model-on-october-19-20261006t124330088z-will-gemini-4-argon-high-be-the-best-ai-model-on-october-19-2026",
-      "question": "Will gemini-4-argon-high be the best AI model on October 19, 2026?",
-      "volume24hr_usd": 11597.619401,
-      "volume_total_usd": 17011.114616,
-      "end_date": "2026-10-20",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 90.0,
-        "No": 10.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
-      "category": "tech",
-      "market_id": "3554659",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120",
-      "question": "Will Google have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 10316.608452000004,
-      "volume_total_usd": 589345.790586,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 71.45,
-        "No": 28.55
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
-      "category": "tech",
-      "market_id": "676744",
-      "slug": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-december-31-584",
-      "question": "Will Saudi Aramco be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 10000.0,
-      "volume_total_usd": 1086067.1285020001,
+      "market_id": "4412200",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2026",
+      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
+      "volume24hr_usd": 9066.362770000002,
+      "volume_total_usd": 340612.189829,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.1,
-        "No": 99.9
+        "Yes": 15.5,
+        "No": 84.5
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
-      "category": "tech",
-      "market_id": "3554657",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
-      "question": "Will Anthropic have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 9829.960546999999,
-      "volume_total_usd": 575522.4548690005,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 23.0,
-        "No": 77.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
-      "category": "tech",
-      "market_id": "5180417",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "question": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
-      "volume24hr_usd": 9686.783556,
-      "volume_total_usd": 81893.61948700002,
-      "end_date": "2026-11-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 22.15,
-        "No": 77.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
       "market_id": "4254700",
       "slug": "will-apple-release-a-foldable-iphone-by-october-31",
       "question": "Will Apple release a foldable iPhone by October 31?",
-      "volume24hr_usd": 9310.51,
+      "volume24hr_usd": 8991.12,
       "volume_total_usd": 121943.08545099999,
       "end_date": "2026-10-31",
       "options": [
@@ -255,43 +345,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
-      "category": "tech",
-      "market_id": "676740",
-      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-      "question": "Will Microsoft be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 8850.892658,
-      "volume_total_usd": 1086992.104686,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.35,
-        "No": 99.65
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
-      "category": "tech",
-      "market_id": "3554662",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841123",
-      "question": "Will OpenAI have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 8811.829704000002,
-      "volume_total_usd": 357269.74125599995,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.65,
-        "No": 99.35
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
       "market_id": "5347189",
       "slug": "will-north-carolina-enact-a-data-center-moratorium-by-june-30-2027",
@@ -309,31 +363,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
       "market_id": "920401",
       "slug": "will-apple-release-a-foldable-iphone-before-2027-636-997-854",
       "question": "Will Apple release a foldable iPhone before 2027?",
-      "volume24hr_usd": 8050.31,
-      "volume_total_usd": 719370.700844,
+      "volume24hr_usd": 8182.728868,
+      "volume_total_usd": 719503.1197120002,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 99.5,
-        "No": 0.5
+        "Yes": 99.6,
+        "No": 0.4
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "tech",
+      "market_id": "3585431",
+      "slug": "tesla-and-spacex-merger-officially-announced-by-february-28-2027",
+      "question": "Tesla and SpaceX merger officially announced by February 28, 2027?",
+      "volume24hr_usd": 6536.81456,
+      "volume_total_usd": 21511.188263000004,
+      "end_date": "2027-03-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 34.0,
+        "No": 66.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
+      "category": "tech",
+      "market_id": "4178411",
+      "slug": "next-fable-model-5pt2-released-by-october-31-2026",
+      "question": "Next Fable Model (5.2+) released by October 31, 2026?",
+      "volume24hr_usd": 6507.805608000001,
+      "volume_total_usd": 191866.20690099997,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 84.8,
+        "No": 15.2
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
       "market_id": "2252540",
       "slug": "tesla-and-spacex-merger-officially-announced-by-december-31",
       "question": "Tesla and SpaceX merger officially announced by December 31?",
-      "volume24hr_usd": 6901.328823,
-      "volume_total_usd": 244745.58643399997,
+      "volume24hr_usd": 6295.750433,
+      "volume_total_usd": 244770.47383400003,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -345,75 +435,21 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
+      "captured_at_utc": "2026-10-16T19:21:35+00:00",
       "category": "tech",
       "market_id": "676741",
       "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
       "question": "Will Apple be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 6551.239799,
-      "volume_total_usd": 1202501.9228770002,
+      "volume24hr_usd": 6130.671163999999,
+      "volume_total_usd": 1202518.112877,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 28.0,
-        "No": 72.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
-      "category": "tech",
-      "market_id": "4178411",
-      "slug": "next-fable-model-5pt2-released-by-october-31-2026",
-      "question": "Next Fable Model (5.2+) released by October 31, 2026?",
-      "volume24hr_usd": 6301.159208,
-      "volume_total_usd": 190072.81370000003,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 86.2,
-        "No": 13.8
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
-      "category": "tech",
-      "market_id": "5205160",
-      "slug": "next-fable-model-5pt2-released-by-october-17-2026",
-      "question": "Next Fable Model (5.2+) released by October 17, 2026?",
-      "volume24hr_usd": 5654.281569999998,
-      "volume_total_usd": 64006.219484999965,
-      "end_date": "2026-10-18",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 4.15,
-        "No": 95.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-16T15:14:31+00:00",
-      "category": "tech",
-      "market_id": "3585431",
-      "slug": "tesla-and-spacex-merger-officially-announced-by-february-28-2027",
-      "question": "Tesla and SpaceX merger officially announced by February 28, 2027?",
-      "volume24hr_usd": 5501.77956,
-      "volume_total_usd": 20416.153263,
-      "end_date": "2027-03-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 31.5,
-        "No": 68.5
+        "Yes": 27.9,
+        "No": 72.1
       }
     }
   ]
