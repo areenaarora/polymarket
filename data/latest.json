@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-10-24T14:16:43+00:00",
+  "captured_at_utc": "2026-10-24T17:52:49+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 264746.97758,
-      "volume_total_usd": 15500525.852334,
+      "volume24hr_usd": 268588.02858000004,
+      "volume_total_usd": 15515102.002594002,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,7 +21,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
+      "category": "world",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
+      "volume24hr_usd": 1737.25,
+      "volume_total_usd": 586778.841041,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 7.0,
+        "No": 93.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "world",
       "market_id": "5777421",
       "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
@@ -34,12 +52,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 53.5,
-        "No": 46.5
+        "Yes": 51.5,
+        "No": 48.5
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "world",
       "market_id": "5777420",
       "slug": "will-israel-annex-any-territory-by-june-30-20261016121413379",
@@ -52,12 +70,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 53.5,
-        "No": 46.5
+        "Yes": 54.0,
+        "No": 46.0
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -70,36 +88,18 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 9.4,
-        "No": 90.6
+        "Yes": 9.2,
+        "No": 90.8
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
-      "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 0.0,
-      "volume_total_usd": 585041.591041,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 6.5,
-        "No": 93.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "5126779",
       "slug": "will-indiana-enact-a-data-center-moratorium-by-december-31-2027",
       "question": "Will Indiana enact a data center moratorium by December 31, 2027?",
-      "volume24hr_usd": 86723.65,
-      "volume_total_usd": 5040839.712608,
+      "volume24hr_usd": 87244.97000000002,
+      "volume_total_usd": 5041361.032608,
       "end_date": "2028-01-01",
       "options": [
         "Yes",
@@ -111,121 +111,139 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "5180413",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
       "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
-      "volume24hr_usd": 22702.285280999997,
-      "volume_total_usd": 255303.966337,
+      "volume24hr_usd": 21268.819521,
+      "volume_total_usd": 256072.05855599997,
       "end_date": "2026-11-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 58.85,
-        "No": 41.15
+        "Yes": 57.6,
+        "No": 42.4
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
-      "category": "tech",
-      "market_id": "4178411",
-      "slug": "next-fable-model-5pt2-released-by-october-31-2026",
-      "question": "Next Fable Model (5.2+) released by October 31, 2026?",
-      "volume24hr_usd": 18208.714730000003,
-      "volume_total_usd": 339398.18851400004,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 29.8,
-        "No": 70.2
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
-      "category": "tech",
-      "market_id": "3554657",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
-      "question": "Will Anthropic have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 17159.430065000004,
-      "volume_total_usd": 733544.8205089998,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 8.0,
-        "No": 92.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
-      "category": "tech",
-      "market_id": "3554661",
-      "slug": "will-moonshot-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841122",
-      "question": "Will Moonshot have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 16747.535001,
-      "volume_total_usd": 183235.94583299998,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.1,
-        "No": 99.9
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "3554659",
       "slug": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120",
       "question": "Will Google have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 16323.423569,
-      "volume_total_usd": 759865.7847920001,
+      "volume24hr_usd": 17853.708308000005,
+      "volume_total_usd": 762219.2031619999,
       "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 90.8,
-        "No": 9.2
+        "Yes": 89.85,
+        "No": 10.15
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
+      "category": "tech",
+      "market_id": "3554661",
+      "slug": "will-moonshot-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841122",
+      "question": "Will Moonshot have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 16627.185001,
+      "volume_total_usd": 183238.34583299997,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
+      "category": "tech",
+      "market_id": "3554657",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
+      "question": "Will Anthropic have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 15986.637717000003,
+      "volume_total_usd": 733943.2681619998,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 9.0,
+        "No": 91.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
+      "category": "tech",
+      "market_id": "4178411",
+      "slug": "next-fable-model-5pt2-released-by-october-31-2026",
+      "question": "Next Fable Model (5.2+) released by October 31, 2026?",
+      "volume24hr_usd": 15156.968734000002,
+      "volume_total_usd": 339457.97583600006,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 29.75,
+        "No": 70.25
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
+      "category": "tech",
+      "market_id": "4412201",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2027",
+      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
+      "volume24hr_usd": 14433.130478,
+      "volume_total_usd": 394483.086349,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 55.5,
+        "No": 44.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "5180417",
       "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
       "question": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
-      "volume24hr_usd": 15643.338947999997,
-      "volume_total_usd": 222099.316978,
+      "volume24hr_usd": 13929.667108,
+      "volume_total_usd": 222916.436425,
       "end_date": "2026-11-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 39.25,
-        "No": 60.75
+        "Yes": 40.05,
+        "No": 59.95
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "676746",
       "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
       "question": "Will SpaceX be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 13971.794306999998,
-      "volume_total_usd": 1007599.0132080001,
+      "volume24hr_usd": 13427.014307,
+      "volume_total_usd": 1007600.643208,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -237,13 +255,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "4662700",
       "slug": "will-coreweave-announce-bankruptcy-by-december-31-2028",
       "question": "Will CoreWeave announce bankruptcy by December 31, 2028?",
-      "volume24hr_usd": 12344.33,
-      "volume_total_usd": 80781.67134000002,
+      "volume24hr_usd": 12858.33,
+      "volume_total_usd": 81295.67134,
       "end_date": "2029-01-01",
       "options": [
         "Yes",
@@ -255,49 +273,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
-      "category": "tech",
-      "market_id": "5219332",
-      "slug": "will-there-be-no-next-fable-model-5pt2-release-by-october-31-2026",
-      "question": "Will there be no next Fable model (5.2+) release by October 31, 2026?",
-      "volume24hr_usd": 11829.354803,
-      "volume_total_usd": 93734.07121800001,
-      "end_date": "2026-11-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 71.0,
-        "No": 29.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
-      "category": "tech",
-      "market_id": "4662693",
-      "slug": "will-anthropic-announce-bankruptcy-by-december-31-2027",
-      "question": "Will Anthropic announce bankruptcy by December 31, 2027?",
-      "volume24hr_usd": 11445.468022000001,
-      "volume_total_usd": 1973396.2949720002,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 9.5,
-        "No": 90.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "2431413",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
       "question": "Will Anthropic have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 11150.801806,
-      "volume_total_usd": 407419.658735,
+      "volume24hr_usd": 11309.461806,
+      "volume_total_usd": 407578.318735,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -309,31 +291,31 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
-      "market_id": "3554950",
-      "slug": "will-anthropic-have-the-best-ai-model-on-livebench-overall-at-the-end-of-october-2026-20260811194842564",
-      "question": "Will Anthropic have the best AI model on LiveBench (Overall) at the end of October 2026?",
-      "volume24hr_usd": 11003.54058,
-      "volume_total_usd": 32075.894925999997,
-      "end_date": "2026-11-01",
+      "market_id": "668591",
+      "slug": "gta-6-launch-postponed-again",
+      "question": "GTA 6 launch postponed again?",
+      "volume24hr_usd": 10939.617143,
+      "volume_total_usd": 887605.671394,
+      "end_date": "2026-11-20",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 89.05,
-        "No": 10.95
+        "Yes": 3.4,
+        "No": 96.6
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "4662699",
       "slug": "will-coreweave-announce-bankruptcy-by-december-31-2027",
       "question": "Will CoreWeave announce bankruptcy by December 31, 2027?",
-      "volume24hr_usd": 10674.123335000002,
-      "volume_total_usd": 122078.42411100003,
+      "volume24hr_usd": 10704.113335000002,
+      "volume_total_usd": 122108.41411100002,
       "end_date": "2028-01-01",
       "options": [
         "Yes",
@@ -345,25 +327,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
-      "category": "tech",
-      "market_id": "2413494",
-      "slug": "will-anthropics-public-ticker-be-ant",
-      "question": "Will Anthropic's public ticker be $ANT?",
-      "volume24hr_usd": 9518.867381,
-      "volume_total_usd": 35535.538092999996,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 51.2,
-        "No": 48.8
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "5179176",
       "slug": "will-louisiana-enact-a-data-center-moratorium-by-december-31-2028",
@@ -381,43 +345,79 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
-      "category": "tech",
-      "market_id": "3554472",
-      "slug": "will-moonshot-have-the-best-chinese-ai-model-at-the-end-of-october-2026-20260811194840881",
-      "question": "Will Moonshot have the best Chinese AI model at the end of October 2026?",
-      "volume24hr_usd": 8547.161407999998,
-      "volume_total_usd": 59510.343083,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 24.0,
-        "No": 76.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "5219327",
       "slug": "will-the-next-fable-model-5pt2-be-released-on-october-27-2026",
       "question": "Will the next Fable model (5.2+) be released on October 27, 2026?",
-      "volume24hr_usd": 8308.670633999998,
-      "volume_total_usd": 28140.598406,
+      "volume24hr_usd": 8900.788998,
+      "volume_total_usd": 28921.236770000003,
       "end_date": "2026-10-28",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 9.75,
-        "No": 90.25
+        "Yes": 11.85,
+        "No": 88.15
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
+      "category": "tech",
+      "market_id": "4662585",
+      "slug": "will-openai-announce-bankruptcy-by-december-31-2028",
+      "question": "Will OpenAI announce bankruptcy by December 31, 2028?",
+      "volume24hr_usd": 8716.317959999998,
+      "volume_total_usd": 66205.28350399999,
+      "end_date": "2029-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 16.5,
+        "No": 83.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
+      "category": "tech",
+      "market_id": "4662693",
+      "slug": "will-anthropic-announce-bankruptcy-by-december-31-2027",
+      "question": "Will Anthropic announce bankruptcy by December 31, 2027?",
+      "volume24hr_usd": 8694.468022000001,
+      "volume_total_usd": 1973496.2949720002,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 9.5,
+        "No": 90.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
+      "category": "tech",
+      "market_id": "5219332",
+      "slug": "will-there-be-no-next-fable-model-5pt2-release-by-october-31-2026",
+      "question": "Will there be no next Fable model (5.2+) release by October 31, 2026?",
+      "volume24hr_usd": 8216.284348000001,
+      "volume_total_usd": 93981.71022200001,
+      "end_date": "2026-11-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 70.2,
+        "No": 29.8
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
       "market_id": "5126796",
       "slug": "will-louisiana-enact-a-data-center-moratorium-by-december-31-2027",
@@ -435,21 +435,21 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-24T14:16:43+00:00",
+      "captured_at_utc": "2026-10-24T17:52:49+00:00",
       "category": "tech",
-      "market_id": "6066050",
-      "slug": "will-gpt-astra-6pt1-debut-with-an-hle-diamond-score-of-55-or-higher",
-      "question": "Will GPT Astra 6.1+ debut with an HLE-Diamond score of 55% or higher?",
-      "volume24hr_usd": 7734.707366,
-      "volume_total_usd": 13764.223539999997,
-      "end_date": "2027-07-01",
+      "market_id": "3554472",
+      "slug": "will-moonshot-have-the-best-chinese-ai-model-at-the-end-of-october-2026-20260811194840881",
+      "question": "Will Moonshot have the best Chinese AI model at the end of October 2026?",
+      "volume24hr_usd": 6774.711643999999,
+      "volume_total_usd": 60849.005036999995,
+      "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 95.5,
-        "No": 4.5
+        "Yes": 34.0,
+        "No": 66.0
       }
     }
   ]
