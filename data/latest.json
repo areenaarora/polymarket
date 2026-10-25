@@ -1,32 +1,32 @@
 {
-  "captured_at_utc": "2026-10-25T14:51:18+00:00",
+  "captured_at_utc": "2026-10-25T18:10:40+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 197698.936716,
-      "volume_total_usd": 15699722.780768001,
+      "volume24hr_usd": 187569.270268,
+      "volume_total_usd": 15703948.132362,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.85,
-        "No": 96.15
+        "Yes": 3.55,
+        "No": 96.45
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 1948.73,
+      "volume24hr_usd": 265.06,
       "volume_total_usd": 586990.321041,
       "end_date": "2027-01-01",
       "options": [
@@ -39,25 +39,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
       "question": "Will Israel annex any territory by December 31?",
-      "volume24hr_usd": 1.41,
-      "volume_total_usd": 97558.590521,
+      "volume24hr_usd": 8.549657,
+      "volume_total_usd": 97565.730178,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 9.65,
-        "No": 90.35
+        "Yes": 13.4,
+        "No": 86.6
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "world",
       "market_id": "5777421",
       "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
@@ -70,12 +70,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 53.0,
-        "No": 47.0
+        "Yes": 53.5,
+        "No": 46.5
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "world",
       "market_id": "5777420",
       "slug": "will-israel-annex-any-territory-by-june-30-20261016121413379",
@@ -88,72 +88,36 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 50.0,
-        "No": 50.0
+        "Yes": 54.5,
+        "No": 45.5
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
-      "market_id": "4662585",
-      "slug": "will-openai-announce-bankruptcy-by-december-31-2028",
-      "question": "Will OpenAI announce bankruptcy by December 31, 2028?",
-      "volume24hr_usd": 44065.348611999994,
-      "volume_total_usd": 101554.31415600001,
-      "end_date": "2029-01-01",
+      "market_id": "3554657",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
+      "question": "Will Anthropic have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 79443.18426299999,
+      "volume_total_usd": 813968.0424249999,
+      "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 15.5,
-        "No": 84.5
+        "Yes": 6.75,
+        "No": 93.25
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
-      "category": "tech",
-      "market_id": "4412201",
-      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2027",
-      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
-      "volume24hr_usd": 26214.913812000003,
-      "volume_total_usd": 406475.94635,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 55.5,
-        "No": 44.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
-      "category": "tech",
-      "market_id": "4662586",
-      "slug": "will-openai-announce-bankruptcy-by-december-31-2029",
-      "question": "Will OpenAI announce bankruptcy by December 31, 2029?",
-      "volume24hr_usd": 22914.671478,
-      "volume_total_usd": 88414.15076799999,
-      "end_date": "2030-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 19.5,
-        "No": 80.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
       "market_id": "4412200",
       "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2026",
       "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
-      "volume24hr_usd": 20473.896372000003,
-      "volume_total_usd": 376350.576652,
+      "volume24hr_usd": 20726.386372,
+      "volume_total_usd": 376603.066652,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -165,13 +129,49 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
+      "category": "tech",
+      "market_id": "2431412",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-december-2026",
+      "question": "Will Google have the best AI model at the end of December 2026?",
+      "volume24hr_usd": 15567.908229,
+      "volume_total_usd": 377868.037826,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 36.5,
+        "No": 63.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
+      "category": "tech",
+      "market_id": "4662585",
+      "slug": "will-openai-announce-bankruptcy-by-december-31-2028",
+      "question": "Will OpenAI announce bankruptcy by December 31, 2028?",
+      "volume24hr_usd": 14362.997867,
+      "volume_total_usd": 101554.314156,
+      "end_date": "2029-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 15.5,
+        "No": 84.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
       "market_id": "676740",
       "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
       "question": "Will Microsoft be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 13437.519914,
-      "volume_total_usd": 1139152.5954689998,
+      "volume24hr_usd": 13452.653331,
+      "volume_total_usd": 1139210.795219,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -183,43 +183,43 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
+      "category": "tech",
+      "market_id": "4412201",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2027",
+      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
+      "volume24hr_usd": 11992.860001000001,
+      "volume_total_usd": 406475.9463500001,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 55.5,
+        "No": 44.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
       "market_id": "3554659",
       "slug": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120",
       "question": "Will Google have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 12493.812095000001,
-      "volume_total_usd": 772390.840949,
+      "volume24hr_usd": 11553.874370999998,
+      "volume_total_usd": 775939.5966929999,
       "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 90.05,
-        "No": 9.95
+        "Yes": 91.15,
+        "No": 8.85
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
-      "category": "tech",
-      "market_id": "668591",
-      "slug": "gta-6-launch-postponed-again",
-      "question": "GTA 6 launch postponed again?",
-      "volume24hr_usd": 12100.817308,
-      "volume_total_usd": 889683.7618929999,
-      "end_date": "2026-11-20",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 4.2,
-        "No": 95.8
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
       "market_id": "2787890",
       "slug": "us-government-removes-public-access-to-a-major-chinese-ai-model-in-2026-20260703203328223",
@@ -232,102 +232,48 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 15.0,
-        "No": 85.0
+        "Yes": 15.5,
+        "No": 84.5
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
-      "category": "tech",
-      "market_id": "2431412",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-december-2026",
-      "question": "Will Google have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 9079.510257,
-      "volume_total_usd": 371278.2098540001,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 38.5,
-        "No": 61.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
-      "category": "tech",
-      "market_id": "3554657",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
-      "question": "Will Anthropic have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 8877.816366000001,
-      "volume_total_usd": 742433.7568749997,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 8.5,
-        "No": 91.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
       "market_id": "5139762",
       "slug": "will-the-next-fable-model-5pt2-debut-with-a-humanitys-last-exam-score-of-65-or-higher",
       "question": "Will the next Fable model (5.2+) debut with a Humanity's Last Exam score of 65% or higher?",
-      "volume24hr_usd": 7097.863636999999,
-      "volume_total_usd": 12225.236404999998,
+      "volume24hr_usd": 7948.429759,
+      "volume_total_usd": 13075.802527,
       "end_date": "2027-07-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 20.0,
-        "No": 80.0
+        "Yes": 19.5,
+        "No": 80.5
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
-      "market_id": "4662584",
-      "slug": "will-openai-announce-bankruptcy-by-december-31-2027",
-      "question": "Will OpenAI announce bankruptcy by December 31, 2027?",
-      "volume24hr_usd": 6728.735257,
-      "volume_total_usd": 245014.488513,
-      "end_date": "2028-01-01",
+      "market_id": "4178411",
+      "slug": "next-fable-model-5pt2-released-by-october-31-2026",
+      "question": "Next Fable Model (5.2+) released by October 31, 2026?",
+      "volume24hr_usd": 7754.807870999999,
+      "volume_total_usd": 347257.570754,
+      "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 7.5,
-        "No": 92.5
+        "Yes": 31.65,
+        "No": 68.35
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
-      "category": "tech",
-      "market_id": "3554658",
-      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841119",
-      "question": "Will Meta have the best AI model at the end of October 2026?",
-      "volume24hr_usd": 6198.519131,
-      "volume_total_usd": 405693.64911899995,
-      "end_date": "2026-11-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.45,
-        "No": 99.55
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
       "market_id": "2431424",
       "slug": "will-amazon-have-the-best-ai-model-at-the-end-of-december-2026",
@@ -345,67 +291,139 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
-      "category": "tech",
-      "market_id": "4178411",
-      "slug": "next-fable-model-5pt2-released-by-october-31-2026",
-      "question": "Next Fable Model (5.2+) released by October 31, 2026?",
-      "volume24hr_usd": 5973.986407999999,
-      "volume_total_usd": 345388.11729500006,
-      "end_date": "2026-10-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 31.4,
-        "No": 68.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
       "market_id": "4664660",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-november-2026",
       "question": "Will Anthropic have the best AI model at the end of November 2026?",
-      "volume24hr_usd": 5789.780901999999,
-      "volume_total_usd": 76949.99334399999,
+      "volume24hr_usd": 5724.690902,
+      "volume_total_usd": 77054.90334399999,
       "end_date": "2026-12-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 44.5,
-        "No": 55.5
+        "Yes": 45.0,
+        "No": 55.0
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
+      "category": "tech",
+      "market_id": "5998474",
+      "slug": "next-fable-model-5pt2-released-by-october-27-2026",
+      "question": "Next Fable Model (5.2+) released by October 27, 2026?",
+      "volume24hr_usd": 5699.330345,
+      "volume_total_usd": 16415.210997000002,
+      "end_date": "2026-10-28",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 20.0,
+        "No": 80.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
       "market_id": "4218310",
       "slug": "next-astra-model-6pt1-released-by-october-31-2026",
       "question": "Next Astra Model (6.1+) released by October 31, 2026?",
-      "volume24hr_usd": 5420.719515999999,
-      "volume_total_usd": 116602.929644,
+      "volume24hr_usd": 5615.229515999999,
+      "volume_total_usd": 116945.759644,
       "end_date": "2026-10-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 10.5,
-        "No": 89.5
+        "Yes": 11.0,
+        "No": 89.0
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
+      "category": "tech",
+      "market_id": "2431416",
+      "slug": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
+      "question": "Will Z.ai have the best AI model at the end of December 2026?",
+      "volume24hr_usd": 5585.743834,
+      "volume_total_usd": 160330.673116,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.25,
+        "No": 99.75
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
+      "category": "tech",
+      "market_id": "5219332",
+      "slug": "will-there-be-no-next-fable-model-5pt2-release-by-october-31-2026",
+      "question": "Will there be no next Fable model (5.2+) release by October 31, 2026?",
+      "volume24hr_usd": 5364.7759320000005,
+      "volume_total_usd": 99346.486154,
+      "end_date": "2026-11-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 68.55,
+        "No": 31.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
+      "category": "tech",
+      "market_id": "3554662",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841123",
+      "question": "Will OpenAI have the best AI model at the end of October 2026?",
+      "volume24hr_usd": 5318.49415,
+      "volume_total_usd": 432407.218118,
+      "end_date": "2026-10-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.45,
+        "No": 99.55
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
+      "category": "tech",
+      "market_id": "2252540",
+      "slug": "tesla-and-spacex-merger-officially-announced-by-december-31",
+      "question": "Tesla and SpaceX merger officially announced by December 31?",
+      "volume24hr_usd": 5235.617206,
+      "volume_total_usd": 327257.821127,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 11.5,
+        "No": 88.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
       "market_id": "3554480",
       "slug": "will-tencent-have-the-best-chinese-ai-model-at-the-end-of-october-2026-20260811194840889",
       "question": "Will Tencent have the best Chinese AI model at the end of October 2026?",
-      "volume24hr_usd": 5269.930998,
-      "volume_total_usd": 20389.115504999998,
+      "volume24hr_usd": 4865.959666000001,
+      "volume_total_usd": 20389.115505,
       "end_date": "2026-10-31",
       "options": [
         "Yes",
@@ -417,39 +435,21 @@
       }
     },
     {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
+      "captured_at_utc": "2026-10-25T18:10:40+00:00",
       "category": "tech",
-      "market_id": "5219332",
-      "slug": "will-there-be-no-next-fable-model-5pt2-release-by-october-31-2026",
-      "question": "Will there be no next Fable model (5.2+) release by October 31, 2026?",
-      "volume24hr_usd": 5246.497278999999,
-      "volume_total_usd": 99006.42849700002,
-      "end_date": "2026-11-01",
+      "market_id": "6066053",
+      "slug": "will-gpt-astra-6pt1-debut-with-an-hle-diamond-score-of-70-or-higher",
+      "question": "Will GPT Astra 6.1+ debut with an HLE-Diamond score of 70% or higher?",
+      "volume24hr_usd": 4535.769956,
+      "volume_total_usd": 6977.799026999999,
+      "end_date": "2027-07-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 68.0,
-        "No": 32.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-10-25T14:51:18+00:00",
-      "category": "tech",
-      "market_id": "2252540",
-      "slug": "tesla-and-spacex-merger-officially-announced-by-december-31",
-      "question": "Tesla and SpaceX merger officially announced by December 31?",
-      "volume24hr_usd": 5135.617206,
-      "volume_total_usd": 327157.821127,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 11.5,
-        "No": 88.5
+        "Yes": 10.5,
+        "No": 89.5
       }
     }
   ]
