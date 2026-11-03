@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-11-03T15:52:17+00:00",
+  "captured_at_utc": "2026-11-03T21:31:33+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 21886.740941,
-      "volume_total_usd": 16840950.791065004,
+      "volume24hr_usd": 22508.759669000003,
+      "volume_total_usd": 16844693.251064997,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,13 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 3437.6070600000003,
-      "volume_total_usd": 595507.8681010002,
+      "volume24hr_usd": 3336.5932300000004,
+      "volume_total_usd": 595543.9181010003,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -39,7 +39,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
+      "category": "world",
+      "market_id": "1939065",
+      "slug": "will-israel-annex-any-territory-by-december-31-348",
+      "question": "Will Israel annex any territory by December 31?",
+      "volume24hr_usd": 42.0,
+      "volume_total_usd": 98601.33573400001,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 3.25,
+        "No": 96.75
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "world",
       "market_id": "5777421",
       "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
@@ -57,7 +75,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "world",
       "market_id": "5777420",
       "slug": "will-israel-annex-any-territory-by-june-30-20261016121413379",
@@ -75,67 +93,67 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
-      "category": "world",
-      "market_id": "1939065",
-      "slug": "will-israel-annex-any-territory-by-december-31-348",
-      "question": "Will Israel annex any territory by December 31?",
-      "volume24hr_usd": 0.0,
-      "volume_total_usd": 98559.33573400002,
-      "end_date": "2027-01-01",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
+      "category": "tech",
+      "market_id": "2431423",
+      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-december-2026",
+      "question": "Will Meta have the best AI model at the end of December 2026?",
+      "volume24hr_usd": 19334.79,
+      "volume_total_usd": 279871.00998399995,
+      "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.5,
-        "No": 96.5
+        "Yes": 1.3,
+        "No": 98.7
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
       "market_id": "6365364",
       "slug": "will-gemini-carbon-be-released-between-november-9-and-november-15-2026",
       "question": "Will Gemini Carbon be released between November 9 and November 15, 2026?",
-      "volume24hr_usd": 21386.370345,
-      "volume_total_usd": 78970.776624,
+      "volume24hr_usd": 19007.393762000003,
+      "volume_total_usd": 80346.20118,
       "end_date": "2026-11-16",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 64.5,
-        "No": 35.5
+        "Yes": 72.5,
+        "No": 27.5
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
-      "market_id": "4218313",
-      "slug": "next-astra-model-6pt1-released-by-december-31-2026",
-      "question": "Next Astra Model (6.1+) released by December 31, 2026?",
-      "volume24hr_usd": 11103.169743,
-      "volume_total_usd": 150664.66994899997,
-      "end_date": "2027-01-01",
+      "market_id": "6366825",
+      "slug": "will-gemini-carbon-be-released-on-november-10-2026",
+      "question": "Will Gemini Carbon be released on November 10, 2026?",
+      "volume24hr_usd": 15647.812608999999,
+      "volume_total_usd": 30696.002557,
+      "end_date": "2026-11-11",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 97.45,
-        "No": 2.55
+        "Yes": 62.0,
+        "No": 38.0
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
       "market_id": "5126793",
       "slug": "will-missouri-enact-a-data-center-moratorium-by-december-31-2027",
       "question": "Will Missouri enact a data center moratorium by December 31, 2027?",
-      "volume24hr_usd": 9887.544213,
-      "volume_total_usd": 251419.990522,
+      "volume24hr_usd": 9967.544213,
+      "volume_total_usd": 251499.990522,
       "end_date": "2028-01-01",
       "options": [
         "Yes",
@@ -147,67 +165,139 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
       "market_id": "6282800",
       "slug": "gemini-carbon-released-by-november-15-2026-20261026",
       "question": "Gemini Carbon released by November 15, 2026?",
-      "volume24hr_usd": 9859.999077,
-      "volume_total_usd": 38502.715692,
+      "volume24hr_usd": 9681.377051,
+      "volume_total_usd": 38728.919819999996,
       "end_date": "2026-11-16",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 79.0,
-        "No": 21.0
+        "Yes": 81.0,
+        "No": 19.0
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
-      "market_id": "6366825",
-      "slug": "will-gemini-carbon-be-released-on-november-10-2026",
-      "question": "Will Gemini Carbon be released on November 10, 2026?",
-      "volume24hr_usd": 9027.594572999998,
-      "volume_total_usd": 22619.339521,
-      "end_date": "2026-11-11",
+      "market_id": "4218313",
+      "slug": "next-astra-model-6pt1-released-by-december-31-2026",
+      "question": "Next Astra Model (6.1+) released by December 31, 2026?",
+      "volume24hr_usd": 8584.83533,
+      "volume_total_usd": 153341.03622100002,
+      "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 52.35,
-        "No": 47.65
+        "Yes": 97.3,
+        "No": 2.7
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
-      "market_id": "2431423",
-      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-december-2026",
-      "question": "Will Meta have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 7126.49,
-      "volume_total_usd": 266957.70998399996,
+      "market_id": "2431413",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
+      "question": "Will Anthropic have the best AI model at the end of December 2026?",
+      "volume24hr_usd": 7127.983485999999,
+      "volume_total_usd": 504479.63211,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.0,
-        "No": 99.0
+        "Yes": 32.5,
+        "No": 67.5
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
+      "category": "tech",
+      "market_id": "2431412",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-december-2026",
+      "question": "Will Google have the best AI model at the end of December 2026?",
+      "volume24hr_usd": 6830.419852,
+      "volume_total_usd": 530999.344775,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 56.5,
+        "No": 43.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
+      "category": "tech",
+      "market_id": "6594166",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
+      "question": "Will NVIDIA be the largest company in the world by market cap on November 30, 2026?",
+      "volume24hr_usd": 6695.315248000001,
+      "volume_total_usd": 7089.595300000001,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 67.5,
+        "No": 32.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
+      "category": "tech",
+      "market_id": "5997211",
+      "slug": "next-astra-model-6pt1-released-by-november-15-2026",
+      "question": "Next Astra Model (6.1+) released by November 15, 2026?",
+      "volume24hr_usd": 6579.838785000001,
+      "volume_total_usd": 121420.77896199998,
+      "end_date": "2026-11-16",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 77.5,
+        "No": 22.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
+      "category": "tech",
+      "market_id": "4664662",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-november-2026",
+      "question": "Will Google have the best AI model at the end of November 2026?",
+      "volume24hr_usd": 5425.253248,
+      "volume_total_usd": 150035.566775,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 67.5,
+        "No": 32.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
       "market_id": "676739",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 6405.475681,
-      "volume_total_usd": 1652023.7044699995,
+      "volume24hr_usd": 5282.993812,
+      "volume_total_usd": 1652372.9469700004,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -219,138 +309,120 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
-      "category": "tech",
-      "market_id": "2252540",
-      "slug": "tesla-and-spacex-merger-officially-announced-by-december-31",
-      "question": "Tesla and SpaceX merger officially announced by December 31?",
-      "volume24hr_usd": 6391.142048,
-      "volume_total_usd": 351476.009661,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 9.0,
-        "No": 91.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
-      "category": "tech",
-      "market_id": "2431413",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
-      "question": "Will Anthropic have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 6353.019431999999,
-      "volume_total_usd": 503392.1785430001,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 32.0,
-        "No": 68.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
-      "category": "tech",
-      "market_id": "691340",
-      "slug": "ai-industry-downturn-by-december-31-2026-857",
-      "question": "AI bubble burst in 2026?",
-      "volume24hr_usd": 5957.22034,
-      "volume_total_usd": 2535918.213215,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 9.4,
-        "No": 90.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
-      "category": "tech",
-      "market_id": "6594166",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
-      "question": "Will NVIDIA be the largest company in the world by market cap on November 30, 2026?",
-      "volume24hr_usd": 5725.661455,
-      "volume_total_usd": 5725.6614549999995,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 68.0,
-        "No": 32.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
       "market_id": "6365348",
       "slug": "will-gemini-carbon-be-released-between-november-2-and-november-8-2026",
       "question": "Will Gemini Carbon be released between November 2 and November 8, 2026?",
-      "volume24hr_usd": 5663.3703590000005,
-      "volume_total_usd": 19146.425959,
+      "volume24hr_usd": 5268.003220999999,
+      "volume_total_usd": 19421.416994,
       "end_date": "2026-11-09",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 14.0,
-        "No": 86.0
+        "Yes": 12.0,
+        "No": 88.0
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
-      "market_id": "5179177",
-      "slug": "will-missouri-enact-a-data-center-moratorium-by-december-31-2028",
-      "question": "Will Missouri enact a data center moratorium by December 31, 2028?",
-      "volume24hr_usd": 5594.277646,
-      "volume_total_usd": 233037.140869,
-      "end_date": "2029-01-01",
+      "market_id": "668591",
+      "slug": "gta-6-launch-postponed-again",
+      "question": "GTA 6 launch postponed again?",
+      "volume24hr_usd": 5038.552039,
+      "volume_total_usd": 942626.5580440001,
+      "end_date": "2026-11-20",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 31.5,
-        "No": 68.5
+        "Yes": 2.05,
+        "No": 97.95
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
-      "market_id": "6364346",
-      "slug": "next-fable-model-5pt2-released-by-november-4-2026",
-      "question": "Next Fable Model (5.2+) released by November 4, 2026?",
-      "volume24hr_usd": 5593.949861,
-      "volume_total_usd": 10459.245481000002,
-      "end_date": "2026-11-05",
+      "market_id": "6366414",
+      "slug": "gemini-carbon-released-by-november-11-2026-20261026",
+      "question": "Gemini Carbon released by November 11, 2026?",
+      "volume24hr_usd": 4940.499066,
+      "volume_total_usd": 20701.682283,
+      "end_date": "2026-11-12",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 7.5,
-        "No": 92.5
+        "Yes": 71.0,
+        "No": 29.0
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
+      "category": "tech",
+      "market_id": "6366826",
+      "slug": "will-gemini-carbon-be-released-on-november-11-2026",
+      "question": "Will Gemini Carbon be released on November 11, 2026?",
+      "volume24hr_usd": 4905.8584949999995,
+      "volume_total_usd": 16388.424678,
+      "end_date": "2026-11-12",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 11.1,
+        "No": 88.9
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
+      "category": "tech",
+      "market_id": "4662695",
+      "slug": "will-anthropic-announce-bankruptcy-by-december-31-2029",
+      "question": "Will Anthropic announce bankruptcy by December 31, 2029?",
+      "volume24hr_usd": 4845.712037,
+      "volume_total_usd": 403814.44835799997,
+      "end_date": "2030-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 22.0,
+        "No": 78.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
+      "category": "tech",
+      "market_id": "6017452",
+      "slug": "will-gpt-astra-6pt1-be-released-between-november-2-and-november-8-2026",
+      "question": "Will GPT Astra 6.1+ be released between November 2 and November 8, 2026?",
+      "volume24hr_usd": 4704.828069000001,
+      "volume_total_usd": 17573.22108,
+      "end_date": "2026-11-09",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 48.7,
+        "No": 51.3
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
       "market_id": "6366115",
       "slug": "will-the-next-fable-model-5pt2-debut-in-the-top-10-of-the-text-arena-leaderboard-by-june-30-2027",
       "question": "Will the next Fable model (5.2+) debut in the top 10 of the Text Arena leaderboard by June 30, 2027?",
-      "volume24hr_usd": 5437.823948,
+      "volume24hr_usd": 4548.99,
       "volume_total_usd": 12623.466245,
       "end_date": "2027-07-01",
       "options": [
@@ -358,98 +430,26 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 90.85,
-        "No": 9.15
+        "Yes": 91.25,
+        "No": 8.75
       }
     },
     {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
+      "captured_at_utc": "2026-11-03T21:31:33+00:00",
       "category": "tech",
-      "market_id": "4664661",
-      "slug": "will-meta-have-the-best-ai-model-at-the-end-of-november-2026",
-      "question": "Will Meta have the best AI model at the end of November 2026?",
-      "volume24hr_usd": 5379.399124999999,
-      "volume_total_usd": 59735.563618,
-      "end_date": "2026-12-01",
+      "market_id": "6328753",
+      "slug": "next-fable-model-5pt2-released-by-november-5-2026",
+      "question": "Next Fable Model (5.2+) released by November 5, 2026?",
+      "volume24hr_usd": 4545.253383,
+      "volume_total_usd": 14381.520532,
+      "end_date": "2026-11-06",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.85,
-        "No": 99.15
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
-      "category": "tech",
-      "market_id": "5997211",
-      "slug": "next-astra-model-6pt1-released-by-november-15-2026",
-      "question": "Next Astra Model (6.1+) released by November 15, 2026?",
-      "volume24hr_usd": 5311.010236,
-      "volume_total_usd": 118566.42306699998,
-      "end_date": "2026-11-16",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 74.0,
-        "No": 26.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
-      "category": "tech",
-      "market_id": "668591",
-      "slug": "gta-6-launch-postponed-again",
-      "question": "GTA 6 launch postponed again?",
-      "volume24hr_usd": 5177.259748,
-      "volume_total_usd": 940910.9771739999,
-      "end_date": "2026-11-20",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.2,
-        "No": 97.8
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
-      "category": "tech",
-      "market_id": "6594168",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
-      "question": "Will Apple be the largest company in the world by market cap on November 30, 2026?",
-      "volume24hr_usd": 5057.04483,
-      "volume_total_usd": 5057.04483,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 31.5,
-        "No": 68.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-03T15:52:17+00:00",
-      "category": "tech",
-      "market_id": "2431412",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-december-2026",
-      "question": "Will Google have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 4831.675446,
-      "volume_total_usd": 529064.724653,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 56.5,
-        "No": 43.5
+        "Yes": 13.0,
+        "No": 87.0
       }
     }
   ]
