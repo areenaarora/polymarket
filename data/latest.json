@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-11-09T01:27:37+00:00",
+  "captured_at_utc": "2026-11-09T09:14:25+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 37985.538827,
-      "volume_total_usd": 17075460.318188004,
+      "volume24hr_usd": 45898.302983,
+      "volume_total_usd": 17084457.206342,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,12 +21,12 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 1604.123152,
+      "volume24hr_usd": 1584.123152,
       "volume_total_usd": 602677.902293,
       "end_date": "2027-01-01",
       "options": [
@@ -34,30 +34,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 3.8,
-        "No": 96.2
+        "Yes": 3.7,
+        "No": 96.3
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "world",
-      "market_id": "5777421",
-      "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
-      "question": "Will Israel annex any territory by March 31?",
-      "volume24hr_usd": 5.0,
-      "volume_total_usd": 163.704541,
-      "end_date": "2027-04-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 10.0,
-        "No": 90.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -75,7 +57,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "world",
+      "market_id": "5777421",
+      "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
+      "question": "Will Israel annex any territory by March 31?",
+      "volume24hr_usd": 0.0,
+      "volume_total_usd": 163.704541,
+      "end_date": "2027-04-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 10.0,
+        "No": 90.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "world",
       "market_id": "5777420",
       "slug": "will-israel-annex-any-territory-by-june-30-20261016121413379",
@@ -93,67 +93,121 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "tech",
-      "market_id": "691340",
-      "slug": "ai-industry-downturn-by-december-31-2026-857",
-      "question": "AI bubble burst in 2026?",
-      "volume24hr_usd": 30084.747610000006,
-      "volume_total_usd": 2735459.3296680017,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 7.55,
-        "No": 92.45
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "tech",
       "market_id": "6882826",
       "slug": "jensen-huang-announced-resignation-or-removal-by-december-31",
       "question": "Jensen Huang announced resignation or removal by December 31?",
-      "volume24hr_usd": 21264.783387000003,
-      "volume_total_usd": 18097.718088,
+      "volume24hr_usd": 150737.638483,
+      "volume_total_usd": 150287.638483,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 13.5,
-        "No": 86.5
+        "Yes": 15.5,
+        "No": 84.5
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "tech",
+      "market_id": "6884119",
+      "slug": "jensen-huang-divorce-in-2026",
+      "question": "Jensen Huang divorce in 2026?",
+      "volume24hr_usd": 104155.686082,
+      "volume_total_usd": 104155.68608199999,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 9.5,
+        "No": 90.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "tech",
+      "market_id": "691340",
+      "slug": "ai-industry-downturn-by-december-31-2026-857",
+      "question": "AI bubble burst in 2026?",
+      "volume24hr_usd": 35472.215381999995,
+      "volume_total_usd": 2742781.053210002,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 7.85,
+        "No": 92.15
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "tech",
+      "market_id": "676739",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 21994.430575999995,
+      "volume_total_usd": 1751053.0086709997,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 22.0,
+        "No": 78.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "tech",
       "market_id": "668591",
       "slug": "gta-6-launch-postponed-again",
       "question": "GTA 6 launch postponed again?",
-      "volume24hr_usd": 21129.686073,
-      "volume_total_usd": 1026458.082483,
+      "volume24hr_usd": 20929.963698,
+      "volume_total_usd": 1027059.7512830002,
       "end_date": "2026-11-20",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.6,
-        "No": 98.4
+        "Yes": 1.5,
+        "No": 98.5
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "tech",
+      "market_id": "4664660",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-november-2026",
+      "question": "Will Anthropic have the best AI model at the end of November 2026?",
+      "volume24hr_usd": 11911.501718999996,
+      "volume_total_usd": 154936.555003,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 23.0,
+        "No": 77.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "tech",
       "market_id": "2431417",
       "slug": "will-xai-have-the-best-ai-model-at-the-end-of-december-2026",
       "question": "Will xAI have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 11164.12,
-      "volume_total_usd": 248765.84381499997,
+      "volume24hr_usd": 11300.920998,
+      "volume_total_usd": 248902.64481299996,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
@@ -165,265 +219,121 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "tech",
-      "market_id": "4664660",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-november-2026",
-      "question": "Will Anthropic have the best AI model at the end of November 2026?",
-      "volume24hr_usd": 10765.629274,
-      "volume_total_usd": 153635.621667,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 23.5,
-        "No": 76.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "tech",
-      "market_id": "4664662",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-november-2026",
-      "question": "Will Google have the best AI model at the end of November 2026?",
-      "volume24hr_usd": 9303.770758999999,
-      "volume_total_usd": 185043.61483399998,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 73.5,
-        "No": 26.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "tech",
-      "market_id": "5126796",
-      "slug": "will-louisiana-enact-a-data-center-moratorium-by-december-31-2027",
-      "question": "Will Louisiana enact a data center moratorium by December 31, 2027?",
-      "volume24hr_usd": 9184.3967,
-      "volume_total_usd": 415313.817258,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 18.5,
-        "No": 81.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "tech",
       "market_id": "6594167",
       "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
       "question": "Will Microsoft be the largest company in the world by market cap on November 30, 2026?",
-      "volume24hr_usd": 8800.881,
-      "volume_total_usd": 24923.220773999998,
+      "volume24hr_usd": 9461.331999999999,
+      "volume_total_usd": 25589.677773999996,
       "end_date": "2026-12-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.25,
-        "No": 99.75
+        "Yes": 0.2,
+        "No": 99.8
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "tech",
-      "market_id": "676739",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 8371.101733,
-      "volume_total_usd": 1736583.2525599997,
+      "market_id": "4664662",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-november-2026",
+      "question": "Will Google have the best AI model at the end of November 2026?",
+      "volume24hr_usd": 9372.697536,
+      "volume_total_usd": 185231.648619,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 73.0,
+        "No": 27.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "tech",
+      "market_id": "676741",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
+      "question": "Will Apple be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 9046.430528,
+      "volume_total_usd": 1463107.286437,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 27.0,
-        "No": 73.0
+        "Yes": 73.8,
+        "No": 26.2
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "tech",
       "market_id": "6364342",
       "slug": "next-fable-model-5pt2-released-by-november-9-2026",
       "question": "Next Fable Model (5.2+) released by November 9, 2026?",
-      "volume24hr_usd": 7285.394142,
-      "volume_total_usd": 26609.661728000003,
+      "volume24hr_usd": 8833.77674,
+      "volume_total_usd": 30338.823667,
       "end_date": "2026-11-10",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 11.5,
-        "No": 88.5
+        "Yes": 19.5,
+        "No": 80.5
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "tech",
       "market_id": "6594166",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
       "question": "Will NVIDIA be the largest company in the world by market cap on November 30, 2026?",
-      "volume24hr_usd": 6766.192798,
-      "volume_total_usd": 48366.515159999995,
+      "volume24hr_usd": 8668.071067,
+      "volume_total_usd": 50278.526760999994,
       "end_date": "2026-12-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 18.5,
-        "No": 81.5
+        "Yes": 15.0,
+        "No": 85.0
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "tech",
-      "market_id": "6884119",
-      "slug": "jensen-huang-divorce-in-2026",
-      "question": "Jensen Huang divorce in 2026?",
-      "volume24hr_usd": 6612.450071,
-      "volume_total_usd": 6612.450070999999,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 8.5,
-        "No": 91.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "tech",
-      "market_id": "1295980",
-      "slug": "will-openai-announce-glasses-in-2026",
-      "question": "Will OpenAI announce glasses in 2026?",
-      "volume24hr_usd": 6178.8136,
-      "volume_total_usd": 81638.00964799996,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 6.5,
-        "No": 93.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "tech",
-      "market_id": "6366416",
-      "slug": "gemini-carbon-released-by-november-9-2026-20261026",
-      "question": "Gemini Carbon released by November 9, 2026?",
-      "volume24hr_usd": 5721.153071000001,
-      "volume_total_usd": 37358.823628,
-      "end_date": "2026-11-10",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 5.55,
-        "No": 94.45
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "tech",
-      "market_id": "4664663",
-      "slug": "will-alibaba-have-the-best-ai-model-at-the-end-of-november-2026",
-      "question": "Will Alibaba have the best AI model at the end of November 2026?",
-      "volume24hr_usd": 5349.783334000001,
-      "volume_total_usd": 74921.589665,
+      "market_id": "4664667",
+      "slug": "will-zptai-have-the-best-ai-model-at-the-end-of-november-2026",
+      "question": "Will Z.ai have the best AI model at the end of November 2026?",
+      "volume24hr_usd": 8414.246,
+      "volume_total_usd": 67292.17313099999,
       "end_date": "2026-12-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 0.25,
-        "No": 99.75
+        "Yes": 0.15,
+        "No": 99.85
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "tech",
-      "market_id": "2965188",
-      "slug": "will-lindsay-clancy-be-the-1-searched-person-on-google-this-year-20260717214426299",
-      "question": "Will Lindsay Clancy be the #1 searched person on Google this year?",
-      "volume24hr_usd": 5194.355795999999,
-      "volume_total_usd": 37449.111665,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 26.0,
-        "No": 74.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "tech",
-      "market_id": "4664665",
-      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-november-2026",
-      "question": "Will OpenAI have the best AI model at the end of November 2026?",
-      "volume24hr_usd": 5097.523808000001,
-      "volume_total_usd": 102748.041776,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.9,
-        "No": 97.1
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
-      "category": "tech",
-      "market_id": "6328752",
-      "slug": "next-fable-model-5pt2-released-by-november-10-2026",
-      "question": "Next Fable Model (5.2+) released by November 10, 2026?",
-      "volume24hr_usd": 5076.896764,
-      "volume_total_usd": 31749.086416000002,
-      "end_date": "2026-11-11",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 26.5,
-        "No": 73.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "tech",
       "market_id": "4664670",
       "slug": "will-deepseek-have-the-best-ai-model-at-the-end-of-november-2026",
       "question": "Will DeepSeek have the best AI model at the end of November 2026?",
-      "volume24hr_usd": 5050.0,
-      "volume_total_usd": 74563.487374,
+      "volume24hr_usd": 8050.0,
+      "volume_total_usd": 77563.487374,
       "end_date": "2026-12-01",
       "options": [
         "Yes",
@@ -435,21 +345,111 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-09T01:27:37+00:00",
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
       "category": "tech",
-      "market_id": "4418517",
-      "slug": "will-birch-and-swinnerton-dyer-be-the-next-millennium-prize-problem-solved-by-ai",
-      "question": "Will the Birch and Swinnerton-Dyer Conjecture be the next Millennium Prize Problem solved by AI?",
-      "volume24hr_usd": 4687.2905789999995,
-      "volume_total_usd": 46283.560088,
+      "market_id": "6328749",
+      "slug": "next-fable-model-5pt2-released-by-november-19-2026",
+      "question": "Next Fable Model (5.2+) released by November 19, 2026?",
+      "volume24hr_usd": 7906.551659,
+      "volume_total_usd": 66534.49259299999,
+      "end_date": "2026-11-20",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 81.5,
+        "No": 18.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "tech",
+      "market_id": "4664669",
+      "slug": "will-spacexai-have-the-best-ai-model-at-the-end-of-november-2026",
+      "question": "Will SpaceXAI have the best AI model at the end of November 2026?",
+      "volume24hr_usd": 7722.529,
+      "volume_total_usd": 93745.710733,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.15,
+        "No": 99.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "tech",
+      "market_id": "6328752",
+      "slug": "next-fable-model-5pt2-released-by-november-10-2026",
+      "question": "Next Fable Model (5.2+) released by November 10, 2026?",
+      "volume24hr_usd": 6969.464581000001,
+      "volume_total_usd": 34574.840684999996,
+      "end_date": "2026-11-11",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 38.5,
+        "No": 61.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "tech",
+      "market_id": "6328750",
+      "slug": "next-fable-model-5pt2-released-by-november-30-2026",
+      "question": "Next Fable Model (5.2+) released by November 30, 2026?",
+      "volume24hr_usd": 6667.969224,
+      "volume_total_usd": 36371.051351999995,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 93.5,
+        "No": 6.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "tech",
+      "market_id": "1295980",
+      "slug": "will-openai-announce-glasses-in-2026",
+      "question": "Will OpenAI announce glasses in 2026?",
+      "volume24hr_usd": 6178.8136,
+      "volume_total_usd": 81638.00964799999,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 6.5,
+        "No": 93.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-09T09:14:25+00:00",
+      "category": "tech",
+      "market_id": "4412201",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2027",
+      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
+      "volume24hr_usd": 6169.338480000002,
+      "volume_total_usd": 547281.4224270001,
       "end_date": "2028-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 8.5,
-        "No": 91.5
+        "Yes": 46.5,
+        "No": 53.5
       }
     }
   ]
