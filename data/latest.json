@@ -1,33 +1,33 @@
 {
-  "captured_at_utc": "2026-11-12T22:03:28+00:00",
+  "captured_at_utc": "2026-11-13T03:09:49+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 102307.09301200003,
-      "volume_total_usd": 17271918.239751,
+      "volume24hr_usd": 92718.24525800001,
+      "volume_total_usd": 17272136.674305003,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.65,
-        "No": 98.35
+        "Yes": 1.55,
+        "No": 98.45
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
       "volume24hr_usd": 1386.83,
-      "volume_total_usd": 606504.3782810003,
+      "volume_total_usd": 606504.3782810001,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "world",
       "market_id": "5777421",
       "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "world",
       "market_id": "5777420",
       "slug": "will-israel-annex-any-territory-by-june-30-20261016121413379",
@@ -93,302 +93,176 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "tech",
       "market_id": "6884119",
       "slug": "jensen-huang-divorce-in-2026",
       "question": "Jensen Huang divorce by December 31, 2026?",
-      "volume24hr_usd": 337604.775574,
-      "volume_total_usd": 573786.53919,
+      "volume24hr_usd": 281315.86355400004,
+      "volume_total_usd": 681602.555597,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 23.5,
-        "No": 76.5
+        "Yes": 18.5,
+        "No": 81.5
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
-      "category": "tech",
-      "market_id": "691340",
-      "slug": "ai-industry-downturn-by-december-31-2026-857",
-      "question": "AI bubble burst in 2026?",
-      "volume24hr_usd": 170104.748469,
-      "volume_total_usd": 3077810.251499001,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 6.35,
-        "No": 93.65
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "tech",
       "market_id": "676739",
       "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 162628.125929,
-      "volume_total_usd": 2017489.7939890001,
+      "volume24hr_usd": 111724.06714400003,
+      "volume_total_usd": 2023759.435202,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 11.0,
-        "No": 89.0
+        "Yes": 9.5,
+        "No": 90.5
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
+      "category": "tech",
+      "market_id": "691340",
+      "slug": "ai-industry-downturn-by-december-31-2026-857",
+      "question": "AI bubble burst in 2026?",
+      "volume24hr_usd": 111076.172696,
+      "volume_total_usd": 3081005.7462130017,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 6.5,
+        "No": 93.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "tech",
       "market_id": "6977214",
       "slug": "will-jensen-huang-join-spacex-by-december-31-2026",
       "question": "Will Jensen Huang join SpaceX by December 31, 2026?",
-      "volume24hr_usd": 71966.49515,
-      "volume_total_usd": 71653.08642200001,
+      "volume24hr_usd": 78608.807695,
+      "volume_total_usd": 81742.35968299999,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 8.65,
-        "No": 91.35
+        "Yes": 7.6,
+        "No": 92.4
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
-      "category": "tech",
-      "market_id": "676741",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
-      "question": "Will Apple be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 51729.492185999996,
-      "volume_total_usd": 1569307.3721130001,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 85.6,
-        "No": 14.4
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
-      "category": "tech",
-      "market_id": "676742",
-      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
-      "question": "Will Alphabet be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 51615.955298,
-      "volume_total_usd": 1183907.6468969998,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.7,
-        "No": 99.3
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "tech",
       "market_id": "6908170",
       "slug": "jensen-huang-divorce-by-march-31-2027",
       "question": "Jensen Huang divorce by March 31, 2027?",
-      "volume24hr_usd": 51242.33253699999,
-      "volume_total_usd": 74254.13768100001,
+      "volume24hr_usd": 70191.71462,
+      "volume_total_usd": 107579.169418,
       "end_date": "2027-04-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 41.5,
-        "No": 58.5
+        "Yes": 34.5,
+        "No": 65.5
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "tech",
       "market_id": "6989178",
       "slug": "jensen-huang-admits-to-another-affair-by-december-31",
       "question": "Jensen Huang admits to another affair with a woman by December 31?",
-      "volume24hr_usd": 47902.242281,
-      "volume_total_usd": 47902.242281,
+      "volume24hr_usd": 57930.427779,
+      "volume_total_usd": 57911.559854,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 55.5,
-        "No": 44.5
+        "Yes": 52.0,
+        "No": 48.0
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
-      "category": "tech",
-      "market_id": "6594166",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
-      "question": "Will NVIDIA be the largest company in the world by market cap on November 30, 2026?",
-      "volume24hr_usd": 36894.191222999994,
-      "volume_total_usd": 131734.53714899998,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 5.1,
-        "No": 94.9
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "tech",
       "market_id": "668591",
       "slug": "gta-6-launch-postponed-again",
       "question": "GTA 6 launch postponed again?",
-      "volume24hr_usd": 34355.830542,
-      "volume_total_usd": 1136377.1244639999,
+      "volume24hr_usd": 39480.62289,
+      "volume_total_usd": 1137510.7160989998,
       "end_date": "2026-11-20",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.6,
-        "No": 98.4
+        "Yes": 1.1,
+        "No": 98.9
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
-      "category": "tech",
-      "market_id": "6977509",
-      "slug": "will-jensen-huang-join-a-new-company-by-december-31-2026",
-      "question": "Will Jensen Huang join a new company by December 31, 2026?",
-      "volume24hr_usd": 32764.87513500001,
-      "volume_total_usd": 32764.875135,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 12.5,
-        "No": 87.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "tech",
       "market_id": "6977084",
       "slug": "will-jensen-huang-be-arrested-by-december-31-2026",
       "question": "Will Jensen Huang be arrested by December 31, 2026?",
-      "volume24hr_usd": 32155.259154000003,
-      "volume_total_usd": 32155.259154,
+      "volume24hr_usd": 39166.095467,
+      "volume_total_usd": 40267.95387699999,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 5.3,
-        "No": 94.7
+        "Yes": 4.7,
+        "No": 95.3
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "tech",
-      "market_id": "2914117",
-      "slug": "will-cxmt-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230554",
-      "question": "Will CXMT be removed from Chinese Military Companies list by June 30, 2027?",
-      "volume24hr_usd": 32000.02,
-      "volume_total_usd": 140827.44911000005,
-      "end_date": "2027-07-01",
+      "market_id": "676742",
+      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
+      "question": "Will Alphabet be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 37552.723631999994,
+      "volume_total_usd": 1184162.6468969998,
+      "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 25.5,
-        "No": 74.5
+        "Yes": 0.65,
+        "No": 99.35
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "tech",
       "market_id": "6977205",
       "slug": "new-nvidia-ceo-named-by-december-31-2026",
       "question": "New NVIDIA CEO named by December 31, 2026?",
-      "volume24hr_usd": 30908.718835000003,
-      "volume_total_usd": 29340.561809,
+      "volume24hr_usd": 36962.48167,
+      "volume_total_usd": 37468.187782,
       "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 25.0,
-        "No": 75.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
-      "category": "tech",
-      "market_id": "676740",
-      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-      "question": "Will Microsoft be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 30430.992149,
-      "volume_total_usd": 1318066.182329,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.8,
-        "No": 99.2
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
-      "category": "tech",
-      "market_id": "676746",
-      "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
-      "question": "Will SpaceX be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 29081.561,
-      "volume_total_usd": 1161527.157292,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.15,
-        "No": 99.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
-      "category": "tech",
-      "market_id": "4663537",
-      "slug": "will-moonshot-ai-be-added-to-the-chinese-military-companies-list-by-june-30-2027",
-      "question": "Will Moonshot AI be added to the Chinese Military Companies list by June 30, 2027?",
-      "volume24hr_usd": 28613.0,
-      "volume_total_usd": 78236.929478,
-      "end_date": "2027-07-01",
       "options": [
         "Yes",
         "No"
@@ -399,57 +273,183 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
       "category": "tech",
-      "market_id": "6753603",
-      "slug": "next-astra-model-6pt1-released-by-november-12-2026",
-      "question": "Next Astra Model (6.1+) released by November 12, 2026?",
-      "volume24hr_usd": 27249.103124999998,
-      "volume_total_usd": 46923.168099,
-      "end_date": "2026-11-13",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.4,
-        "No": 98.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
-      "category": "tech",
-      "market_id": "6594168",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
-      "question": "Will Apple be the largest company in the world by market cap on November 30, 2026?",
-      "volume24hr_usd": 26187.610470000003,
-      "volume_total_usd": 121855.77330100001,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 94.0,
-        "No": 6.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-12T22:03:28+00:00",
-      "category": "tech",
-      "market_id": "6976744",
-      "slug": "jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-resigned-under",
-      "question": "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be below $4T at the end of 2026?",
-      "volume24hr_usd": 25451.66668,
-      "volume_total_usd": 25451.666680000006,
+      "market_id": "6997774",
+      "slug": "fourth-jensen-huang-affair-reported-by-december-31",
+      "question": "Fourth Jensen Huang affair reported by December 31?",
+      "volume24hr_usd": 33576.970744,
+      "volume_total_usd": 33566.766662,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 41.0,
-        "No": 59.0
+        "Yes": 48.0,
+        "No": 52.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
+      "category": "tech",
+      "market_id": "6977509",
+      "slug": "will-jensen-huang-join-a-new-company-by-december-31-2026",
+      "question": "Will Jensen Huang join a new company by December 31, 2026?",
+      "volume24hr_usd": 30476.323185999998,
+      "volume_total_usd": 33838.323573,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 10.5,
+        "No": 89.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
+      "category": "tech",
+      "market_id": "6977083",
+      "slug": "will-jensen-huang-be-arrested-by-november-30-2026",
+      "question": "Will Jensen Huang be arrested by November 30, 2026?",
+      "volume24hr_usd": 29888.281573999993,
+      "volume_total_usd": 30670.247124,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 2.6,
+        "No": 97.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
+      "category": "tech",
+      "market_id": "6976743",
+      "slug": "jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-resigned-over",
+      "question": "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be above $4T at the end of 2026?",
+      "volume24hr_usd": 25992.651999999995,
+      "volume_total_usd": 28368.893512,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 58.5,
+        "No": 41.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
+      "category": "tech",
+      "market_id": "2252540",
+      "slug": "tesla-and-spacex-merger-officially-announced-by-december-31",
+      "question": "Tesla and SpaceX merger officially announced by December 31?",
+      "volume24hr_usd": 25745.719239000005,
+      "volume_total_usd": 385707.82148800005,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 32.5,
+        "No": 67.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
+      "category": "tech",
+      "market_id": "676741",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
+      "question": "Will Apple be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 25581.361006000003,
+      "volume_total_usd": 1570106.9576349996,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 87.3,
+        "No": 12.7
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
+      "category": "tech",
+      "market_id": "6976744",
+      "slug": "jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-resigned-under",
+      "question": "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be below $4T at the end of 2026?",
+      "volume24hr_usd": 25300.991439,
+      "volume_total_usd": 27084.677826000006,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 42.5,
+        "No": 57.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
+      "category": "tech",
+      "market_id": "6753603",
+      "slug": "next-astra-model-6pt1-released-by-november-12-2026",
+      "question": "Next Astra Model (6.1+) released by November 12, 2026?",
+      "volume24hr_usd": 22507.374706,
+      "volume_total_usd": 48530.258099,
+      "end_date": "2026-11-13",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.0,
+        "No": 99.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
+      "category": "tech",
+      "market_id": "6594168",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
+      "question": "Will Apple be the largest company in the world by market cap on November 30, 2026?",
+      "volume24hr_usd": 21681.572089,
+      "volume_total_usd": 124170.388912,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 93.25,
+        "No": 6.75
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-13T03:09:49+00:00",
+      "category": "tech",
+      "market_id": "6999466",
+      "slug": "fourth-jensen-huang-affair-reported-by-november-13",
+      "question": "Fourth Jensen Huang affair reported by November 13?",
+      "volume24hr_usd": 20801.986941,
+      "volume_total_usd": 20801.986940999996,
+      "end_date": "2026-11-14",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 13.0,
+        "No": 87.0
       }
     }
   ]
