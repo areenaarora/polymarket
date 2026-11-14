@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-11-14T07:23:49+00:00",
+  "captured_at_utc": "2026-11-14T14:48:31+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 7453.52,
-      "volume_total_usd": 17282951.299929,
+      "volume24hr_usd": 4783.820651,
+      "volume_total_usd": 17287488.18058,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,13 +21,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 151.36,
-      "volume_total_usd": 606655.7382810002,
+      "volume24hr_usd": 865.13,
+      "volume_total_usd": 607369.5082810004,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
       "category": "world",
       "market_id": "5777421",
       "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
       "category": "world",
       "market_id": "5777420",
       "slug": "will-israel-annex-any-territory-by-june-30-20261016121413379",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -88,18 +88,144 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 3.15,
-        "No": 96.85
+        "Yes": 3.2,
+        "No": 96.8
       }
     },
     {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "6998285",
+      "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2026",
+      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+      "volume24hr_usd": 206318.192082,
+      "volume_total_usd": 244021.93603700004,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 10.05,
+        "No": 89.95
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
       "category": "tech",
       "market_id": "6998284",
       "slug": "will-jensen-huang-rejoin-nvidia-by-november-30-2026",
       "question": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
-      "volume24hr_usd": 158588.18767400002,
-      "volume_total_usd": 190276.57952800003,
+      "volume24hr_usd": 165381.96640900002,
+      "volume_total_usd": 223773.495269,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 4.6,
+        "No": 95.4
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "7023187",
+      "slug": "faa-outage-attributed-to-iran",
+      "question": "FAA outage attributed to Iran?",
+      "volume24hr_usd": 152498.583021,
+      "volume_total_usd": 152498.58302100003,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.35,
+        "No": 98.65
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "6997774",
+      "slug": "fourth-jensen-huang-affair-reported-by-december-31",
+      "question": "Fourth Jensen Huang affair reported by December 31?",
+      "volume24hr_usd": 107293.61787700001,
+      "volume_total_usd": 199333.84268600002,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 39.0,
+        "No": 61.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "6884119",
+      "slug": "jensen-huang-divorce-in-2026",
+      "question": "Jensen Huang divorce by December 31, 2026?",
+      "volume24hr_usd": 79660.28524699999,
+      "volume_total_usd": 830736.6690400002,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 13.5,
+        "No": 86.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "7023859",
+      "slug": "faa-outage-attributed-to-hack",
+      "question": "FAA outage attributed to hack?",
+      "volume24hr_usd": 74367.872194,
+      "volume_total_usd": 74367.87219400001,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 5.0,
+        "No": 95.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "2965189",
+      "slug": "will-jensen-huang-be-the-1-searched-person-on-google-this-year-20260717214426300",
+      "question": "Will Jensen Huang be the #1 searched person on Google this year?",
+      "volume24hr_usd": 66864.456917,
+      "volume_total_usd": 89278.08286600001,
+      "end_date": "2026-12-31",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 41.5,
+        "No": 58.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "7023737",
+      "slug": "faa-outage-attributed-to-a-foreign-actor",
+      "question": "FAA outage attributed to a foreign actor?",
+      "volume24hr_usd": 56672.948961,
+      "volume_total_usd": 56672.948961,
       "end_date": "2026-12-01",
       "options": [
         "Yes",
@@ -111,302 +237,32 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "6998285",
-      "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2026",
-      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-      "volume24hr_usd": 151553.584819,
-      "volume_total_usd": 161021.068745,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 8.95,
-        "No": 91.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "7023187",
-      "slug": "faa-outage-attributed-to-iran",
-      "question": "FAA outage attributed to Iran?",
-      "volume24hr_usd": 141945.89585699997,
-      "volume_total_usd": 137936.30600500002,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.6,
-        "No": 98.4
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "6997774",
-      "slug": "fourth-jensen-huang-affair-reported-by-december-31",
-      "question": "Fourth Jensen Huang affair reported by December 31?",
-      "volume24hr_usd": 140646.117686,
-      "volume_total_usd": 192636.74426599997,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 44.5,
-        "No": 55.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "6884119",
-      "slug": "jensen-huang-divorce-in-2026",
-      "question": "Jensen Huang divorce by December 31, 2026?",
-      "volume24hr_usd": 92574.10541999999,
-      "volume_total_usd": 820993.4289580001,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 14.5,
-        "No": 85.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "2965189",
-      "slug": "will-jensen-huang-be-the-1-searched-person-on-google-this-year-20260717214426300",
-      "question": "Will Jensen Huang be the #1 searched person on Google this year?",
-      "volume24hr_usd": 78931.34528100002,
-      "volume_total_usd": 82238.24251200001,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 35.5,
-        "No": 64.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
       "category": "tech",
       "market_id": "6989178",
       "slug": "jensen-huang-admits-to-another-affair-by-december-31",
       "question": "Jensen Huang admits to another affair with a woman by December 31?",
-      "volume24hr_usd": 71108.198373,
-      "volume_total_usd": 135442.27220900002,
+      "volume24hr_usd": 54698.26796999999,
+      "volume_total_usd": 139861.882858,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 22.5,
-        "No": 77.5
+        "Yes": 19.5,
+        "No": 80.5
       }
     },
     {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "7023859",
-      "slug": "faa-outage-attributed-to-hack",
-      "question": "FAA outage attributed to hack?",
-      "volume24hr_usd": 68208.181857,
-      "volume_total_usd": 68208.181857,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 4.3,
-        "No": 95.7
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "5971398",
-      "slug": "next-astra-model-6pt1-released-by-november-30-2026",
-      "question": "Next Astra Model (6.1+) released by November 30, 2026?",
-      "volume24hr_usd": 59786.682415999996,
-      "volume_total_usd": 164894.863795,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 83.65,
-        "No": 16.35
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "7023737",
-      "slug": "faa-outage-attributed-to-a-foreign-actor",
-      "question": "FAA outage attributed to a foreign actor?",
-      "volume24hr_usd": 55448.200527,
-      "volume_total_usd": 55448.200527,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 3.25,
-        "No": 96.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "6999466",
-      "slug": "fourth-jensen-huang-affair-reported-by-november-13",
-      "question": "Fourth Jensen Huang affair reported by November 13?",
-      "volume24hr_usd": 48231.045464999996,
-      "volume_total_usd": 75561.909943,
-      "end_date": "2026-11-14",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
       "category": "tech",
       "market_id": "6998286",
       "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2027",
       "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
-      "volume24hr_usd": 35206.847063,
-      "volume_total_usd": 38744.825464,
+      "volume24hr_usd": 35410.340136,
+      "volume_total_usd": 42606.423754,
       "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 31.0,
-        "No": 69.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "668591",
-      "slug": "gta-6-launch-postponed-again",
-      "question": "GTA 6 launch postponed again?",
-      "volume24hr_usd": 32278.378197000002,
-      "volume_total_usd": 1179634.1181429997,
-      "end_date": "2026-11-20",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 1.7,
-        "No": 98.3
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "6977205",
-      "slug": "new-nvidia-ceo-named-by-december-31-2026",
-      "question": "New NVIDIA CEO named by December 31, 2026?",
-      "volume24hr_usd": 30751.072765000004,
-      "volume_total_usd": 74046.532777,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 24.5,
-        "No": 75.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "4838928",
-      "slug": "ai-bubble-burst-by-june-30-2027",
-      "question": "AI bubble burst by June 30, 2027?",
-      "volume24hr_usd": 27216.311567,
-      "volume_total_usd": 170974.20314499998,
-      "end_date": "2027-07-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 18.0,
-        "No": 82.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "6977214",
-      "slug": "will-jensen-huang-join-spacex-by-december-31-2026",
-      "question": "Will Jensen Huang join SpaceX by December 31, 2026?",
-      "volume24hr_usd": 26316.445068,
-      "volume_total_usd": 113236.27367800003,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 7.1,
-        "No": 92.9
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "4664662",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-november-2026",
-      "question": "Will Google have the best AI model at the end of November 2026?",
-      "volume24hr_usd": 25557.206073,
-      "volume_total_usd": 307972.11811399995,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 86.0,
-        "No": 14.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
-      "category": "tech",
-      "market_id": "6908170",
-      "slug": "jensen-huang-divorce-by-march-31-2027",
-      "question": "Jensen Huang divorce by March 31, 2027?",
-      "volume24hr_usd": 23041.270514,
-      "volume_total_usd": 139542.09917,
-      "end_date": "2027-04-01",
       "options": [
         "Yes",
         "No"
@@ -417,39 +273,183 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "5971398",
+      "slug": "next-astra-model-6pt1-released-by-november-30-2026",
+      "question": "Next Astra Model (6.1+) released by November 30, 2026?",
+      "volume24hr_usd": 29316.524298,
+      "volume_total_usd": 165146.043915,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 83.7,
+        "No": 16.3
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "668591",
+      "slug": "gta-6-launch-postponed-again",
+      "question": "GTA 6 launch postponed again?",
+      "volume24hr_usd": 29006.794597000004,
+      "volume_total_usd": 1180489.5128759998,
+      "end_date": "2026-11-20",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.4,
+        "No": 98.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "6977205",
+      "slug": "new-nvidia-ceo-named-by-december-31-2026",
+      "question": "New NVIDIA CEO named by December 31, 2026?",
+      "volume24hr_usd": 28978.51324,
+      "volume_total_usd": 76520.32801200001,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 23.5,
+        "No": 76.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "6977214",
+      "slug": "will-jensen-huang-join-spacex-by-december-31-2026",
+      "question": "Will Jensen Huang join SpaceX by December 31, 2026?",
+      "volume24hr_usd": 24877.762166,
+      "volume_total_usd": 117663.80936900002,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 4.35,
+        "No": 95.65
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "7018013",
+      "slug": "fourth-jensen-huang-affair-reported-by-november-20",
+      "question": "Fourth Jensen Huang affair reported by November 20?",
+      "volume24hr_usd": 19573.000941,
+      "volume_total_usd": 19573.000941,
+      "end_date": "2026-11-21",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 14.0,
+        "No": 86.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "6908170",
+      "slug": "jensen-huang-divorce-by-march-31-2027",
+      "question": "Jensen Huang divorce by March 31, 2027?",
+      "volume24hr_usd": 15137.545244000003,
+      "volume_total_usd": 141295.912139,
+      "end_date": "2027-04-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 28.5,
+        "No": 71.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "3741934",
+      "slug": "skin-cancer-vaccine-fda-approved-by-june-30-2027",
+      "question": "Skin cancer vaccine FDA approved by June 30, 2027?",
+      "volume24hr_usd": 15048.814543,
+      "volume_total_usd": 75638.157875,
+      "end_date": "2027-07-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 13.0,
+        "No": 87.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
+      "category": "tech",
+      "market_id": "7024893",
+      "slug": "faa-outage-attributed-to-ai",
+      "question": "FAA outage attributed to AI?",
+      "volume24hr_usd": 12407.714348000001,
+      "volume_total_usd": 12407.714348,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 2.75,
+        "No": 97.25
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
       "category": "tech",
       "market_id": "6999515",
       "slug": "will-3-jensen-huang-affairs-be-reported-by-december-31",
       "question": "Will 3 Jensen Huang affairs be reported by December 31?",
-      "volume24hr_usd": 20060.588785,
-      "volume_total_usd": 41194.390482999996,
+      "volume24hr_usd": 12264.085019999999,
+      "volume_total_usd": 43016.469539,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 52.5,
-        "No": 47.5
+        "Yes": 59.5,
+        "No": 40.5
       }
     },
     {
-      "captured_at_utc": "2026-11-14T07:23:49+00:00",
+      "captured_at_utc": "2026-11-14T14:48:31+00:00",
       "category": "tech",
-      "market_id": "676742",
-      "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
-      "question": "Will Alphabet be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 18326.616128,
-      "volume_total_usd": 1203830.9996929998,
+      "market_id": "6977084",
+      "slug": "will-jensen-huang-be-arrested-by-december-31-2026",
+      "question": "Will Jensen Huang be arrested by December 31, 2026?",
+      "volume24hr_usd": 11999.852248000001,
+      "volume_total_usd": 61110.891024,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.1,
-        "No": 98.9
+        "Yes": 3.5,
+        "No": 96.5
       }
     }
   ]
