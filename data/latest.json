@@ -1,27 +1,27 @@
 {
-  "captured_at_utc": "2026-11-20T22:30:02+00:00",
+  "captured_at_utc": "2026-11-21T03:46:56+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 23313.453946999998,
-      "volume_total_usd": 17393101.558689,
+      "volume24hr_usd": 33447.273946999994,
+      "volume_total_usd": 17403629.198689003,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.75,
-        "No": 98.25
+        "Yes": 1.65,
+        "No": 98.35
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "world",
       "market_id": "5777421",
       "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "world",
       "market_id": "5777420",
       "slug": "will-israel-annex-any-territory-by-june-30-20261016121413379",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -70,12 +70,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 3.45,
-        "No": 96.55
+        "Yes": 3.4,
+        "No": 96.6
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
@@ -93,85 +93,121 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
+      "category": "tech",
+      "market_id": "6998285",
+      "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2026",
+      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+      "volume24hr_usd": 211604.56083500004,
+      "volume_total_usd": 3566701.9741049996,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 5.55,
+        "No": 94.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
+      "category": "tech",
+      "market_id": "691340",
+      "slug": "ai-industry-downturn-by-december-31-2026-857",
+      "question": "AI bubble burst in 2026?",
+      "volume24hr_usd": 183799.400733,
+      "volume_total_usd": 3352978.9279440003,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 60.55,
+        "No": 39.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "tech",
       "market_id": "6998284",
       "slug": "will-jensen-huang-rejoin-nvidia-by-november-30-2026",
       "question": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
-      "volume24hr_usd": 330576.117429,
-      "volume_total_usd": 2953845.61554,
+      "volume24hr_usd": 182164.09857600005,
+      "volume_total_usd": 2966373.700513,
       "end_date": "2026-12-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.9,
-        "No": 98.1
+        "Yes": 1.65,
+        "No": 98.35
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
-      "category": "tech",
-      "market_id": "6998285",
-      "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2026",
-      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-      "volume24hr_usd": 192443.031444,
-      "volume_total_usd": 3505649.6166609996,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 6.05,
-        "No": 93.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
-      "category": "tech",
-      "market_id": "691340",
-      "slug": "ai-industry-downturn-by-december-31-2026-857",
-      "question": "AI bubble burst in 2026?",
-      "volume24hr_usd": 179852.878065,
-      "volume_total_usd": 3334494.8481980013,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 59.95,
-        "No": 40.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "tech",
       "market_id": "4418520",
       "slug": "will-the-riemann-hypothesis-be-the-next-millennium-prize-problem-solved-by-ai",
       "question": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-      "volume24hr_usd": 56821.143828,
-      "volume_total_usd": 84152.90066300001,
+      "volume24hr_usd": 89536.642956,
+      "volume_total_usd": 116868.39979099999,
       "end_date": "2028-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 73.35,
-        "No": 26.65
+        "Yes": 78.65,
+        "No": 21.35
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
+      "category": "tech",
+      "market_id": "4418549",
+      "slug": "will-ai-solve-the-riemann-hypothesis-in-2026",
+      "question": "Will AI solve the Riemann Hypothesis in 2026?",
+      "volume24hr_usd": 56479.97201399999,
+      "volume_total_usd": 64083.909455,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 81.5,
+        "No": 18.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
+      "category": "tech",
+      "market_id": "6998286",
+      "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2027",
+      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
+      "volume24hr_usd": 45755.440814,
+      "volume_total_usd": 450323.338967,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 29.5,
+        "No": 70.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "tech",
       "market_id": "676746",
       "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
       "question": "Will SpaceX be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 48871.797,
-      "volume_total_usd": 1306501.872794,
+      "volume24hr_usd": 44310.462,
+      "volume_total_usd": 1306540.332794,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -183,229 +219,229 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
-      "category": "tech",
-      "market_id": "6998286",
-      "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2027",
-      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
-      "volume24hr_usd": 44093.767084,
-      "volume_total_usd": 444361.02500100003,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 30.5,
-        "No": 69.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
-      "category": "tech",
-      "market_id": "2431412",
-      "slug": "will-google-have-the-best-ai-model-at-the-end-of-december-2026",
-      "question": "Will Google have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 42957.725917,
-      "volume_total_usd": 722210.6060790002,
-      "end_date": "2026-12-31",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 85.5,
-        "No": 14.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
-      "category": "tech",
-      "market_id": "4664660",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-november-2026",
-      "question": "Will Anthropic have the best AI model at the end of November 2026?",
-      "volume24hr_usd": 37019.111864,
-      "volume_total_usd": 430389.02317799994,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.95,
-        "No": 99.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
-      "category": "tech",
-      "market_id": "4418549",
-      "slug": "will-ai-solve-the-riemann-hypothesis-in-2026",
-      "question": "Will AI solve the Riemann Hypothesis in 2026?",
-      "volume24hr_usd": 34151.662639,
-      "volume_total_usd": 41755.600080000004,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 74.5,
-        "No": 25.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "tech",
       "market_id": "4412321",
       "slug": "will-ai-solve-0-more-millennium-prize-problems-in-2026",
       "question": "Will AI solve 0 more Millennium Prize Problems in 2026?",
-      "volume24hr_usd": 31238.790135000003,
-      "volume_total_usd": 238628.69966899997,
+      "volume24hr_usd": 42886.246132,
+      "volume_total_usd": 250287.48119399996,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 16.5,
-        "No": 83.5
+        "Yes": 17.5,
+        "No": 82.5
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
+      "category": "tech",
+      "market_id": "4664660",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-november-2026",
+      "question": "Will Anthropic have the best AI model at the end of November 2026?",
+      "volume24hr_usd": 40876.090312,
+      "volume_total_usd": 435177.052378,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 1.4,
+        "No": 98.6
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
+      "category": "tech",
+      "market_id": "7152197",
+      "slug": "will-trump-call-for-jensen-huangs-return-as-nvidia-ceo-by-november-30-2026",
+      "question": "Will Trump call for Jensen Huang's return as NVIDIA CEO by November 30?",
+      "volume24hr_usd": 29040.164328000003,
+      "volume_total_usd": 30282.382139,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 32.0,
+        "No": 68.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
+      "category": "tech",
+      "market_id": "4412200",
+      "slug": "will-openai-announce-another-millennium-prize-solution-by-december-31-2026",
+      "question": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
+      "volume24hr_usd": 26247.789330000003,
+      "volume_total_usd": 515325.790327,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 5.55,
+        "No": 94.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "tech",
       "market_id": "2431413",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
       "question": "Will Anthropic have the best AI model at the end of December 2026?",
-      "volume24hr_usd": 28489.468632,
-      "volume_total_usd": 633732.3765349999,
+      "volume24hr_usd": 25218.239941000003,
+      "volume_total_usd": 636164.533202,
       "end_date": "2026-12-31",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 11.5,
-        "No": 88.5
+        "Yes": 8.0,
+        "No": 92.0
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "tech",
       "market_id": "6884119",
       "slug": "jensen-huang-divorce-in-2026",
       "question": "Jensen Huang divorce by December 31, 2026?",
-      "volume24hr_usd": 27022.344649,
-      "volume_total_usd": 1122189.588436,
+      "volume24hr_usd": 23820.140456,
+      "volume_total_usd": 1124129.527186,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 6.5,
-        "No": 93.5
+        "Yes": 7.0,
+        "No": 93.0
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "tech",
-      "market_id": "7152197",
-      "slug": "will-trump-call-for-jensen-huangs-return-as-nvidia-ceo-by-november-30-2026",
-      "question": "Will Trump call for Jensen Huang's return as NVIDIA CEO by November 30?",
-      "volume24hr_usd": 26583.112599000004,
-      "volume_total_usd": 27815.33041,
-      "end_date": "2026-12-01",
+      "market_id": "7179314",
+      "slug": "will-jensen-huang-rejoin-nvidia-by-march-31-2027",
+      "question": "Will Jensen Huang rejoin NVIDIA by March 31, 2027?",
+      "volume24hr_usd": 23561.458327000004,
+      "volume_total_usd": 23607.519867,
+      "end_date": "2027-04-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 33.0,
-        "No": 67.0
+        "Yes": 17.0,
+        "No": 83.0
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "tech",
-      "market_id": "2698827",
-      "slug": "will-discord-not-ipo-by-december-31-2027-20260626210212286",
-      "question": "Will Discord not IPO by December 31, 2027?",
-      "volume24hr_usd": 26314.5732,
-      "volume_total_usd": 165889.956143,
-      "end_date": "2028-01-01",
+      "market_id": "4412324",
+      "slug": "will-ai-solve-3-more-millennium-prize-problems-in-2026",
+      "question": "Will AI solve 3 more Millennium Prize Problems in 2026?",
+      "volume24hr_usd": 21976.085697000002,
+      "volume_total_usd": 89664.82112100002,
+      "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 90.85,
-        "No": 9.15
+        "Yes": 6.25,
+        "No": 93.75
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
-      "category": "tech",
-      "market_id": "7018013",
-      "slug": "fourth-jensen-huang-affair-reported-by-november-20",
-      "question": "Fourth Jensen Huang affair reported by November 20?",
-      "volume24hr_usd": 23699.434847,
-      "volume_total_usd": 224226.42722200003,
-      "end_date": "2026-11-21",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.4,
-        "No": 99.6
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
-      "category": "tech",
-      "market_id": "5951661",
-      "slug": "anthropic-commits-shares-to-trump-accounts-by-november-30",
-      "question": "Anthropic commits shares to Trump Accounts by November 30?",
-      "volume24hr_usd": 20137.069635,
-      "volume_total_usd": 24287.257084,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 18.1,
-        "No": 81.9
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "tech",
       "market_id": "4838928",
       "slug": "ai-bubble-burst-by-june-30-2027",
       "question": "AI bubble burst by June 30, 2027?",
-      "volume24hr_usd": 19552.552979,
-      "volume_total_usd": 207165.60508900002,
+      "volume24hr_usd": 21880.827328000003,
+      "volume_total_usd": 211207.201741,
       "end_date": "2027-07-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 67.5,
-        "No": 32.5
+        "Yes": 68.5,
+        "No": 31.5
       }
     },
     {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
+      "category": "tech",
+      "market_id": "2698827",
+      "slug": "will-discord-not-ipo-by-december-31-2027-20260626210212286",
+      "question": "Will Discord not IPO by December 31, 2027?",
+      "volume24hr_usd": 20703.430179999996,
+      "volume_total_usd": 167804.466143,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 88.1,
+        "No": 11.9
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
+      "category": "tech",
+      "market_id": "7018013",
+      "slug": "fourth-jensen-huang-affair-reported-by-november-20",
+      "question": "Fourth Jensen Huang affair reported by November 20?",
+      "volume24hr_usd": 20491.534847000003,
+      "volume_total_usd": 224256.52722200003,
+      "end_date": "2026-11-21",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.3,
+        "No": 99.7
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
+      "category": "tech",
+      "market_id": "5951661",
+      "slug": "anthropic-commits-shares-to-trump-accounts-by-november-30",
+      "question": "Anthropic commits shares to Trump Accounts by November 30?",
+      "volume24hr_usd": 20337.059634999998,
+      "volume_total_usd": 24487.247084,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 12.7,
+        "No": 87.3
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-21T03:46:56+00:00",
       "category": "tech",
       "market_id": "6977205",
       "slug": "new-nvidia-ceo-named-by-december-31-2026",
       "question": "New NVIDIA CEO named by December 31, 2026?",
-      "volume24hr_usd": 19196.840740999996,
-      "volume_total_usd": 149830.008927,
+      "volume24hr_usd": 19161.350741,
+      "volume_total_usd": 149990.238927,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -414,42 +450,6 @@
       "results_pct": {
         "Yes": 14.5,
         "No": 85.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
-      "category": "tech",
-      "market_id": "676740",
-      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
-      "question": "Will Microsoft be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 18348.45,
-      "volume_total_usd": 1373069.9737620002,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.75,
-        "No": 99.25
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-20T22:30:02+00:00",
-      "category": "tech",
-      "market_id": "6989178",
-      "slug": "jensen-huang-admits-to-another-affair-by-december-31",
-      "question": "Jensen Huang admits to another affair with a woman by December 31?",
-      "volume24hr_usd": 17493.690201,
-      "volume_total_usd": 302674.420538,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 19.5,
-        "No": 80.5
       }
     }
   ]
