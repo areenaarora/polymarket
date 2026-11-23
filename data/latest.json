@@ -1,15 +1,15 @@
 {
-  "captured_at_utc": "2026-11-23T11:53:03+00:00",
+  "captured_at_utc": "2026-11-23T23:27:39+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 33700.527286,
-      "volume_total_usd": 17452108.945738,
+      "volume24hr_usd": 20898.21781,
+      "volume_total_usd": 17457401.532405004,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -21,25 +21,25 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "world",
-      "market_id": "1397270",
-      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
-      "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 4111.11,
-      "volume_total_usd": 616974.178281,
+      "market_id": "1939065",
+      "slug": "will-israel-annex-any-territory-by-december-31-348",
+      "question": "Will Israel annex any territory by December 31?",
+      "volume24hr_usd": 1.74,
+      "volume_total_usd": 99203.99067800002,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.95,
-        "No": 97.05
+        "Yes": 3.5,
+        "No": 96.5
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "world",
       "market_id": "5777421",
       "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "world",
       "market_id": "5777420",
       "slug": "will-israel-annex-any-territory-by-june-30-20261016121413379",
@@ -75,229 +75,85 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "world",
-      "market_id": "1939065",
-      "slug": "will-israel-annex-any-territory-by-december-31-348",
-      "question": "Will Israel annex any territory by December 31?",
+      "market_id": "1397270",
+      "slug": "will-russia-capture-lyman-by-december-31-2026-774",
+      "question": "Will Russia capture Lyman by December 31, 2026?",
       "volume24hr_usd": 0.0,
-      "volume_total_usd": 99202.25067800001,
+      "volume_total_usd": 616974.178281,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 3.5,
-        "No": 96.5
+        "Yes": 2.85,
+        "No": 97.15
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "tech",
-      "market_id": "6998284",
-      "slug": "will-jensen-huang-rejoin-nvidia-by-november-30-2026",
-      "question": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
-      "volume24hr_usd": 511090.826266,
-      "volume_total_usd": 3561920.04588,
-      "end_date": "2026-12-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 2.15,
-        "No": 97.85
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "6998285",
-      "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2026",
-      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-      "volume24hr_usd": 421196.75151900004,
-      "volume_total_usd": 4224732.713324999,
+      "market_id": "6977205",
+      "slug": "new-nvidia-ceo-named-by-december-31-2026",
+      "question": "New NVIDIA CEO named by December 31, 2026?",
+      "volume24hr_usd": 2072634.568816,
+      "volume_total_usd": 2234412.8541030004,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 10.75,
-        "No": 89.25
+        "Yes": 99.85,
+        "No": 0.15
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "4418549",
-      "slug": "will-ai-solve-the-riemann-hypothesis-in-2026",
-      "question": "Will AI solve the Riemann Hypothesis in 2026?",
-      "volume24hr_usd": 110121.58806800001,
-      "volume_total_usd": 263960.17914399994,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 70.5,
-        "No": 29.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "4418520",
-      "slug": "will-the-riemann-hypothesis-be-the-next-millennium-prize-problem-solved-by-ai",
-      "question": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-      "volume24hr_usd": 73630.442902,
-      "volume_total_usd": 282460.313955,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 75.75,
-        "No": 24.25
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "tech",
       "market_id": "676742",
       "slug": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
       "question": "Will Alphabet be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 67069.217829,
-      "volume_total_usd": 1329201.356444,
+      "volume24hr_usd": 160839.47834,
+      "volume_total_usd": 1424061.4192279996,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.95,
-        "No": 98.05
+        "Yes": 0.25,
+        "No": 99.75
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "tech",
-      "market_id": "4412321",
-      "slug": "will-ai-solve-0-more-millennium-prize-problems-in-2026",
-      "question": "Will AI solve 0 more Millennium Prize Problems in 2026?",
-      "volume24hr_usd": 60747.079643000005,
-      "volume_total_usd": 365330.12594699993,
+      "market_id": "7287077",
+      "slug": "jensen-huang-announced-resignation-or-removal-again-by-december-31-2026",
+      "question": "Jensen Huang announced resignation or removal again by December 31, 2026?",
+      "volume24hr_usd": 160788.77972600004,
+      "volume_total_usd": 154618.399327,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 24.5,
-        "No": 75.5
+        "Yes": 5.2,
+        "No": 94.8
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "tech",
-      "market_id": "4418522",
-      "slug": "will-no-millennium-prize-problem-be-solved-by-ai-by-december-31-2027",
-      "question": "Will no Millennium Prize Problem be solved by AI by December 31, 2027?",
-      "volume24hr_usd": 52540.238503,
-      "volume_total_usd": 183790.34735400003,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 6.95,
-        "No": 93.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "691340",
-      "slug": "ai-industry-downturn-by-december-31-2026-857",
-      "question": "AI bubble burst in 2026?",
-      "volume24hr_usd": 48967.654492999995,
-      "volume_total_usd": 3517036.457541001,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 32.05,
-        "No": 67.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "6998286",
-      "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2027",
-      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
-      "volume24hr_usd": 40176.135934,
-      "volume_total_usd": 525697.833833,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 36.0,
-        "No": 64.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "4412323",
-      "slug": "will-ai-solve-2-more-millennium-prize-problems-in-2026",
-      "question": "Will AI solve 2 more Millennium Prize Problems in 2026?",
-      "volume24hr_usd": 39202.874284000005,
-      "volume_total_usd": 162362.67938900003,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 10.05,
-        "No": 89.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "6997774",
-      "slug": "fourth-jensen-huang-affair-reported-by-december-31",
-      "question": "Fourth Jensen Huang affair reported by December 31?",
-      "volume24hr_usd": 33170.24400599999,
-      "volume_total_usd": 554737.3892110001,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 27.0,
-        "No": 73.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "4383153",
-      "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026",
-      "question": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
-      "volume24hr_usd": 31149.943477999997,
-      "volume_total_usd": 402888.2711879999,
+      "market_id": "4418549",
+      "slug": "will-ai-solve-the-riemann-hypothesis-in-2026",
+      "question": "Will AI solve the Riemann Hypothesis in 2026?",
+      "volume24hr_usd": 124557.08481900001,
+      "volume_total_usd": 308031.08573,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -309,140 +165,68 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "tech",
-      "market_id": "4418550",
-      "slug": "will-ai-solve-p-versus-np-in-2026",
-      "question": "Will AI solve P versus NP in 2026?",
-      "volume24hr_usd": 25359.608516,
-      "volume_total_usd": 50508.400576,
+      "market_id": "676739",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 122717.45365300003,
+      "volume_total_usd": 2309390.3545429995,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 6.2,
-        "No": 93.8
+        "Yes": 12.75,
+        "No": 87.25
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "tech",
-      "market_id": "6884119",
-      "slug": "jensen-huang-divorce-in-2026",
-      "question": "Jensen Huang divorce by December 31, 2026?",
-      "volume24hr_usd": 21299.012621,
-      "volume_total_usd": 1156389.267796,
+      "market_id": "7277632",
+      "slug": "b200-average-rental-price-in-december-2026-above-9pt60",
+      "question": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
+      "volume24hr_usd": 113564.82218899998,
+      "volume_total_usd": 113564.822189,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 4.5,
-        "No": 95.5
+        "Yes": 23.0,
+        "No": 77.0
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "tech",
-      "market_id": "4412322",
-      "slug": "will-ai-solve-1-more-millennium-prize-problem-in-2026",
-      "question": "Will AI solve 1 more Millennium Prize Problem in 2026?",
-      "volume24hr_usd": 19220.9249,
-      "volume_total_usd": 142179.500016,
+      "market_id": "691340",
+      "slug": "ai-industry-downturn-by-december-31-2026-857",
+      "question": "AI bubble burst in 2026?",
+      "volume24hr_usd": 112591.81036300001,
+      "volume_total_usd": 3590314.8223180007,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 59.5,
-        "No": 40.5
+        "Yes": 10.85,
+        "No": 89.15
       }
     },
     {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
       "category": "tech",
-      "market_id": "676746",
-      "slug": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
-      "question": "Will SpaceX be the largest company in the world by market cap on December 31?",
-      "volume24hr_usd": 18227.91,
-      "volume_total_usd": 1349651.962794,
+      "market_id": "6997774",
+      "slug": "fourth-jensen-huang-affair-reported-by-december-31",
+      "question": "Fourth Jensen Huang affair reported by December 31?",
+      "volume24hr_usd": 79836.172517,
+      "volume_total_usd": 603441.651332,
       "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 0.05,
-        "No": 99.95
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "7049681",
-      "slug": "jensen-huang-rejoins-nvidia-before-divorce",
-      "question": "Jensen Huang rejoins NVIDIA before divorce?",
-      "volume24hr_usd": 16775.229628999998,
-      "volume_total_usd": 75240.834171,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 33.5,
-        "No": 66.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "4418519",
-      "slug": "will-p-versus-np-be-the-next-millennium-prize-problem-solved-by-ai",
-      "question": "Will P versus NP be the next Millennium Prize Problem solved by AI?",
-      "volume24hr_usd": 16530.05963,
-      "volume_total_usd": 42760.456402,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 4.25,
-        "No": 95.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "7276615",
-      "slug": "h100-average-rental-price-in-december-2026-above-3pt20",
-      "question": "Will the average Ornn H100 rental price in December 2026 be above $3.20?",
-      "volume24hr_usd": 16055.285331000001,
-      "volume_total_usd": 16055.285331000001,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 17.5,
-        "No": 82.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-23T11:53:03+00:00",
-      "category": "tech",
-      "market_id": "7179314",
-      "slug": "will-jensen-huang-rejoin-nvidia-by-march-31-2027",
-      "question": "Will Jensen Huang rejoin NVIDIA by March 31, 2027?",
-      "volume24hr_usd": 14980.072370999998,
-      "volume_total_usd": 52742.71222000001,
-      "end_date": "2027-04-01",
       "options": [
         "Yes",
         "No"
@@ -450,6 +234,222 @@
       "results_pct": {
         "Yes": 24.5,
         "No": 75.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "7276616",
+      "slug": "h100-average-rental-price-in-december-2026-above-3pt10",
+      "question": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
+      "volume24hr_usd": 78662.84347099999,
+      "volume_total_usd": 78662.843471,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 36.5,
+        "No": 63.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "7277634",
+      "slug": "b200-average-rental-price-in-december-2026-above-9pt20",
+      "question": "Will the average Ornn B200 rental price in December 2026 be above $9.20?",
+      "volume24hr_usd": 75673.062698,
+      "volume_total_usd": 75673.062698,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 40.5,
+        "No": 59.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "6594168",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
+      "question": "Will Apple be the largest company in the world by market cap on November 30, 2026?",
+      "volume24hr_usd": 71757.63545300001,
+      "volume_total_usd": 261738.35022,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 96.7,
+        "No": 3.3
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "676740",
+      "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
+      "question": "Will Microsoft be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 69393.664144,
+      "volume_total_usd": 1462210.2548560002,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 0.45,
+        "No": 99.55
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "6884119",
+      "slug": "jensen-huang-divorce-in-2026",
+      "question": "Jensen Huang divorce by December 31, 2026?",
+      "volume24hr_usd": 64061.388424000004,
+      "volume_total_usd": 1203575.013599,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 4.55,
+        "No": 95.45
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "676741",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
+      "question": "Will Apple be the largest company in the world by market cap on December 31?",
+      "volume24hr_usd": 60087.561335,
+      "volume_total_usd": 1768651.0194719997,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 86.1,
+        "No": 13.9
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "4418520",
+      "slug": "will-the-riemann-hypothesis-be-the-next-millennium-prize-problem-solved-by-ai",
+      "question": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
+      "volume24hr_usd": 59147.45801500001,
+      "volume_total_usd": 295050.282714,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 75.15,
+        "No": 24.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "4418550",
+      "slug": "will-ai-solve-p-versus-np-in-2026",
+      "question": "Will AI solve P versus NP in 2026?",
+      "volume24hr_usd": 58524.131306,
+      "volume_total_usd": 107587.29942499999,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 11.85,
+        "No": 88.15
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "6594166",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
+      "question": "Will NVIDIA be the largest company in the world by market cap on November 30, 2026?",
+      "volume24hr_usd": 57572.641406,
+      "volume_total_usd": 261110.77313600003,
+      "end_date": "2026-12-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 3.15,
+        "No": 96.85
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "7287078",
+      "slug": "jensen-huang-announced-resignation-or-removal-again-by-march-31-2027",
+      "question": "Jensen Huang announced resignation or removal again by March 31, 2027?",
+      "volume24hr_usd": 57287.885369,
+      "volume_total_usd": 57194.985369,
+      "end_date": "2027-04-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 12.5,
+        "No": 87.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "4412321",
+      "slug": "will-ai-solve-0-more-millennium-prize-problems-in-2026",
+      "question": "Will AI solve 0 more Millennium Prize Problems in 2026?",
+      "volume24hr_usd": 52239.59888799999,
+      "volume_total_usd": 374786.350796,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 18.5,
+        "No": 81.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-23T23:27:39+00:00",
+      "category": "tech",
+      "market_id": "7277654",
+      "slug": "b300-average-rental-price-in-january-2027-above-11pt00",
+      "question": "Will the average Ornn B300 rental price in January 2027 be above $11.00?",
+      "volume24hr_usd": 51744.34713100001,
+      "volume_total_usd": 51744.347131,
+      "end_date": "2027-02-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 55.5,
+        "No": 44.5
       }
     }
   ]
