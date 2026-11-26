@@ -1,45 +1,45 @@
 {
-  "captured_at_utc": "2026-11-26T04:53:19+00:00",
+  "captured_at_utc": "2026-11-26T14:45:23+00:00",
   "count": 25,
   "rows": [
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "world",
       "market_id": "559651",
       "slug": "xi-jinping-out-before-2027",
       "question": "Xi Jinping out before 2027?",
-      "volume24hr_usd": 9198.553264,
-      "volume_total_usd": 17524149.313477002,
+      "volume24hr_usd": 10318.619198,
+      "volume_total_usd": 17531285.433477,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 1.65,
-        "No": 98.35
+        "Yes": 1.45,
+        "No": 98.55
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "world",
       "market_id": "1397270",
       "slug": "will-russia-capture-lyman-by-december-31-2026-774",
       "question": "Will Russia capture Lyman by December 31, 2026?",
-      "volume24hr_usd": 474.04,
-      "volume_total_usd": 617669.7282809999,
+      "volume24hr_usd": 1180.448498,
+      "volume_total_usd": 618850.1767790003,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 2.6,
-        "No": 97.4
+        "Yes": 1.85,
+        "No": 98.15
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "world",
       "market_id": "5777421",
       "slug": "will-israel-annex-any-territory-by-march-31-20261016121413379",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "world",
       "market_id": "5777420",
       "slug": "will-israel-annex-any-territory-by-june-30-20261016121413379",
@@ -70,12 +70,12 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 14.0,
-        "No": 86.0
+        "Yes": 13.5,
+        "No": 86.5
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "world",
       "market_id": "1939065",
       "slug": "will-israel-annex-any-territory-by-december-31-348",
@@ -88,18 +88,18 @@
         "No"
       ],
       "results_pct": {
-        "Yes": 3.55,
-        "No": 96.45
+        "Yes": 3.5,
+        "No": 96.5
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "tech",
       "market_id": "6977205",
       "slug": "new-nvidia-ceo-named-by-december-31-2026",
       "question": "New NVIDIA CEO named by December 31, 2026?",
-      "volume24hr_usd": 5528621.040999999,
-      "volume_total_usd": 12146732.709888,
+      "volume24hr_usd": 3086663.68,
+      "volume_total_usd": 12767810.719887998,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -111,13 +111,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "tech",
       "market_id": "7158208",
       "slug": "fourth-jensen-huang-affair-reported-by-november-30",
       "question": "Fourth Jensen Huang affair reported by November 30?",
-      "volume24hr_usd": 754856.19,
-      "volume_total_usd": 1492989.046738,
+      "volume24hr_usd": 454366.84,
+      "volume_total_usd": 1562922.0667380001,
       "end_date": "2026-12-01",
       "options": [
         "Yes",
@@ -129,13 +129,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "tech",
       "market_id": "6989178",
       "slug": "jensen-huang-admits-to-another-affair-by-december-31",
       "question": "Jensen Huang admits to another affair with a woman by December 31?",
-      "volume24hr_usd": 510310.007978,
-      "volume_total_usd": 1606393.897207,
+      "volume24hr_usd": 394060.86,
+      "volume_total_usd": 1765767.0372070002,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -147,139 +147,85 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
-      "category": "tech",
-      "market_id": "7287079",
-      "slug": "jensen-huang-announced-resignation-or-removal-again-by-december-31-2027",
-      "question": "Jensen Huang announced resignation or removal again by December 31, 2027?",
-      "volume24hr_usd": 196418.96233300003,
-      "volume_total_usd": 330250.423861,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 27.5,
-        "No": 72.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
-      "category": "tech",
-      "market_id": "7287077",
-      "slug": "jensen-huang-announced-resignation-or-removal-again-by-december-31-2026",
-      "question": "Jensen Huang announced resignation or removal again by December 31, 2026?",
-      "volume24hr_usd": 182045.47345299998,
-      "volume_total_usd": 657834.5004479999,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 4.95,
-        "No": 95.05
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "tech",
       "market_id": "7287078",
       "slug": "jensen-huang-announced-resignation-or-removal-again-by-march-31-2027",
       "question": "Jensen Huang announced resignation or removal again by March 31, 2027?",
-      "volume24hr_usd": 156278.60795000003,
-      "volume_total_usd": 302803.240943,
+      "volume24hr_usd": 202447.72711,
+      "volume_total_usd": 357064.96549100004,
       "end_date": "2027-04-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 15.5,
-        "No": 84.5
+        "Yes": 16.5,
+        "No": 83.5
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "tech",
-      "market_id": "7278006",
-      "slug": "h100-average-rental-price-in-january-2027-above-2pt80",
-      "question": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
-      "volume24hr_usd": 136217.77125999998,
-      "volume_total_usd": 203887.56309200003,
-      "end_date": "2027-02-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 61.5,
-        "No": 38.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
-      "category": "tech",
-      "market_id": "7278015",
-      "slug": "h100-average-rental-price-in-february-2027-above-3pt20",
-      "question": "Will the average Ornn H100 rental price in February 2027 be above $3.20?",
-      "volume24hr_usd": 133764.15065599998,
-      "volume_total_usd": 134624.150656,
-      "end_date": "2027-03-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 38.5,
-        "No": 61.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
-      "category": "tech",
-      "market_id": "4418550",
-      "slug": "will-ai-solve-p-versus-np-in-2026",
-      "question": "Will AI solve P versus NP in 2026?",
-      "volume24hr_usd": 119251.462484,
-      "volume_total_usd": 319757.991644,
+      "market_id": "7287077",
+      "slug": "jensen-huang-announced-resignation-or-removal-again-by-december-31-2026",
+      "question": "Jensen Huang announced resignation or removal again by December 31, 2026?",
+      "volume24hr_usd": 162759.448956,
+      "volume_total_usd": 691044.509426,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 15.45,
-        "No": 84.55
+        "Yes": 5.25,
+        "No": 94.75
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
+      "category": "tech",
+      "market_id": "7287079",
+      "slug": "jensen-huang-announced-resignation-or-removal-again-by-december-31-2027",
+      "question": "Jensen Huang announced resignation or removal again by December 31, 2027?",
+      "volume24hr_usd": 127385.00346300007,
+      "volume_total_usd": 335983.602334,
+      "end_date": "2028-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 28.5,
+        "No": 71.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "tech",
       "market_id": "7277963",
       "slug": "b200-average-rental-price-in-june-2027-above-8pt00",
       "question": "Will the average Ornn B200 rental price in June 2027 be above $8.00?",
-      "volume24hr_usd": 115694.943315,
-      "volume_total_usd": 186274.104027,
+      "volume24hr_usd": 121141.336463,
+      "volume_total_usd": 195381.59717499997,
       "end_date": "2027-07-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 42.5,
-        "No": 57.5
+        "Yes": 45.5,
+        "No": 54.5
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "tech",
       "market_id": "7276616",
       "slug": "h100-average-rental-price-in-december-2026-above-3pt10",
       "question": "Will the average Ornn H100 rental price in December 2026 be above $3.10?",
-      "volume24hr_usd": 109617.946735,
-      "volume_total_usd": 232745.458072,
+      "volume24hr_usd": 114171.465484,
+      "volume_total_usd": 238006.55902800005,
       "end_date": "2027-01-01",
       "options": [
         "Yes",
@@ -291,13 +237,13 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "tech",
       "market_id": "7277647",
       "slug": "b300-average-rental-price-in-january-2027-above-14pt50",
       "question": "Will the average Ornn B300 rental price in January 2027 be above $14.50?",
-      "volume24hr_usd": 105597.41388000001,
-      "volume_total_usd": 119520.80361799999,
+      "volume24hr_usd": 106566.65388,
+      "volume_total_usd": 120490.04361800001,
       "end_date": "2027-02-01",
       "options": [
         "Yes",
@@ -309,13 +255,175 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
+      "category": "tech",
+      "market_id": "4418550",
+      "slug": "will-ai-solve-p-versus-np-in-2026",
+      "question": "Will AI solve P versus NP in 2026?",
+      "volume24hr_usd": 104829.99198800001,
+      "volume_total_usd": 327620.967488,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 10.45,
+        "No": 89.55
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
+      "category": "tech",
+      "market_id": "7278006",
+      "slug": "h100-average-rental-price-in-january-2027-above-2pt80",
+      "question": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
+      "volume24hr_usd": 103151.67263900003,
+      "volume_total_usd": 206670.54148,
+      "end_date": "2027-02-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 61.5,
+        "No": 38.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
+      "category": "tech",
+      "market_id": "7277964",
+      "slug": "b200-average-rental-price-in-june-2027-above-7pt00",
+      "question": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
+      "volume24hr_usd": 81758.492806,
+      "volume_total_usd": 91613.63657,
+      "end_date": "2027-07-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 61.5,
+        "No": 38.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
+      "category": "tech",
+      "market_id": "4418549",
+      "slug": "will-ai-solve-the-riemann-hypothesis-in-2026",
+      "question": "Will AI solve the Riemann Hypothesis in 2026?",
+      "volume24hr_usd": 81541.586047,
+      "volume_total_usd": 552948.6463329999,
+      "end_date": "2027-01-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 71.5,
+        "No": 28.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
+      "category": "tech",
+      "market_id": "7328313",
+      "slug": "open-source-model-ranked-1-on-arena-by-march-31-2027",
+      "question": "Will an open-source model be ranked #1 on Arena by March 31, 2027?",
+      "volume24hr_usd": 74544.28148599999,
+      "volume_total_usd": 74427.452413,
+      "end_date": "2027-04-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 12.0,
+        "No": 88.0
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
+      "category": "tech",
+      "market_id": "7277962",
+      "slug": "b200-average-rental-price-in-june-2027-above-9pt00",
+      "question": "Will the average Ornn B200 rental price in June 2027 be above $9.00?",
+      "volume24hr_usd": 71939.391049,
+      "volume_total_usd": 82013.337215,
+      "end_date": "2027-07-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 31.5,
+        "No": 68.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
+      "category": "tech",
+      "market_id": "7278015",
+      "slug": "h100-average-rental-price-in-february-2027-above-3pt20",
+      "question": "Will the average Ornn H100 rental price in February 2027 be above $3.20?",
+      "volume24hr_usd": 57620.878874,
+      "volume_total_usd": 135809.70065599997,
+      "end_date": "2027-03-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 38.5,
+        "No": 61.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
+      "category": "tech",
+      "market_id": "7277948",
+      "slug": "b200-average-rental-price-in-march-2027-above-10pt00",
+      "question": "Will the average Ornn B200 rental price in March 2027 be above $10.00?",
+      "volume24hr_usd": 56538.244764,
+      "volume_total_usd": 61710.671354,
+      "end_date": "2027-04-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 33.5,
+        "No": 66.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
+      "category": "tech",
+      "market_id": "7277960",
+      "slug": "b200-average-rental-price-in-june-2027-above-11pt00",
+      "question": "Will the average Ornn B200 rental price in June 2027 be above $11.00?",
+      "volume24hr_usd": 52007.361429,
+      "volume_total_usd": 62808.636415,
+      "end_date": "2027-07-01",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "results_pct": {
+        "Yes": 23.5,
+        "No": 76.5
+      }
+    },
+    {
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "tech",
       "market_id": "7278005",
       "slug": "h100-average-rental-price-in-january-2027-above-2pt90",
       "question": "Will the average Ornn H100 rental price in January 2027 be above $2.90?",
-      "volume24hr_usd": 105468.68494399998,
-      "volume_total_usd": 116264.47377000001,
+      "volume24hr_usd": 51355.18036,
+      "volume_total_usd": 116482.42377000001,
       "end_date": "2027-02-01",
       "options": [
         "Yes",
@@ -327,129 +435,21 @@
       }
     },
     {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
+      "captured_at_utc": "2026-11-26T14:45:23+00:00",
       "category": "tech",
-      "market_id": "7278028",
-      "slug": "h100-average-rental-price-in-march-2027-above-2pt60",
-      "question": "Will the average Ornn H100 rental price in March 2027 be above $2.60?",
-      "volume24hr_usd": 95121.565814,
-      "volume_total_usd": 95275.56581399999,
+      "market_id": "7278026",
+      "slug": "h100-average-rental-price-in-march-2027-above-3pt00",
+      "question": "Will the average Ornn H100 rental price in March 2027 be above $3.00?",
+      "volume24hr_usd": 49912.583527,
+      "volume_total_usd": 49912.583527,
       "end_date": "2027-04-01",
       "options": [
         "Yes",
         "No"
       ],
       "results_pct": {
-        "Yes": 70.5,
-        "No": 29.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
-      "category": "tech",
-      "market_id": "7278008",
-      "slug": "h100-average-rental-price-in-january-2027-above-2pt60",
-      "question": "Will the average Ornn H100 rental price in January 2027 be above $2.60?",
-      "volume24hr_usd": 85774.263814,
-      "volume_total_usd": 244200.235752,
-      "end_date": "2027-02-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 80.5,
-        "No": 19.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
-      "category": "tech",
-      "market_id": "4418549",
-      "slug": "will-ai-solve-the-riemann-hypothesis-in-2026",
-      "question": "Will AI solve the Riemann Hypothesis in 2026?",
-      "volume24hr_usd": 84767.91388299999,
-      "volume_total_usd": 536562.431928,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 77.0,
-        "No": 23.0
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
-      "category": "tech",
-      "market_id": "7277964",
-      "slug": "b200-average-rental-price-in-june-2027-above-7pt00",
-      "question": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
-      "volume24hr_usd": 71526.089771,
-      "volume_total_usd": 79528.413764,
-      "end_date": "2027-07-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 58.5,
-        "No": 41.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
-      "category": "tech",
-      "market_id": "4418519",
-      "slug": "will-p-versus-np-be-the-next-millennium-prize-problem-solved-by-ai",
-      "question": "Will P versus NP be the next Millennium Prize Problem solved by AI?",
-      "volume24hr_usd": 59952.06889500001,
-      "volume_total_usd": 128819.25003499998,
-      "end_date": "2028-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 6.25,
-        "No": 93.75
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
-      "category": "tech",
-      "market_id": "7277638",
-      "slug": "b200-average-rental-price-in-december-2026-above-8pt40",
-      "question": "Will the average Ornn B200 rental price in December 2026 be above $8.40?",
-      "volume24hr_usd": 57411.389333,
-      "volume_total_usd": 61774.509332999995,
-      "end_date": "2027-01-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 79.5,
-        "No": 20.5
-      }
-    },
-    {
-      "captured_at_utc": "2026-11-26T04:53:19+00:00",
-      "category": "tech",
-      "market_id": "7278004",
-      "slug": "h100-average-rental-price-in-january-2027-above-3pt00",
-      "question": "Will the average Ornn H100 rental price in January 2027 be above $3.00?",
-      "volume24hr_usd": 56029.69755799999,
-      "volume_total_usd": 176070.559709,
-      "end_date": "2027-02-01",
-      "options": [
-        "Yes",
-        "No"
-      ],
-      "results_pct": {
-        "Yes": 48.5,
-        "No": 51.5
+        "Yes": 47.5,
+        "No": 52.5
       }
     }
   ]
